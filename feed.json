@@ -7,6 +7,54 @@
 	"items": [
 		
 			{
+				"id": "http://JeroenSangers.micro.blog/2020/09/16/this-is-what.html",
+				
+				"content_html": "<p>This is what the outside world sees… 🎞</p>\n\n<p><img src=\"uploads/2020/174602cb4d.jpg\" width=\"600\" height=\"337\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n\n<p>… and this is what’s really happening… 🎬</p>\n\n<p><a href=\"https://jeroensangers.com/uploads/2020/ebf0c19a4f.jpg\"><img src=\"uploads/2020/ebf0c19a4f.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://jeroensangers.com/uploads/2020/6a25afc693.jpg\"><img src=\"uploads/2020/6a25afc693.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "This is what the outside world sees… 🎞\n\n<img src=\"uploads/2020/174602cb4d.jpg\" width=\"600\" height=\"337\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n\n… and this is what’s really happening… 🎬\n\n<a href=\"https://jeroensangers.com/uploads/2020/ebf0c19a4f.jpg\"><img src=\"uploads/2020/ebf0c19a4f.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://jeroensangers.com/uploads/2020/6a25afc693.jpg\"><img src=\"uploads/2020/6a25afc693.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n",
+				"date_published": "2020-09-16T19:37:48+02:00",
+				"url": "https://jeroensangers.com/2020/09/16/this-is-what.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2020/09/15/it-is-clear.html",
+				
+				"content_html": "<p>It is clear that today wil not be a good day to record new videos.</p>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/36SSNC5wo3I\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n",
+				"content_text": "It is clear that today wil not be a good day to record new videos.\r\n\r\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/36SSNC5wo3I\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n",
+				"date_published": "2020-09-15T08:34:39+02:00",
+				"url": "https://jeroensangers.com/2020/09/15/it-is-clear.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2020/09/14/thanks-to-a.html",
+				
+				"content_html": "<p>Thanks to a mention in the latest edition of the <a href=\"https://mailchi.mp/06689299e0b9/el-viejo-troll-que-vive-en-el-puente\">newsletter</a> by <a href=\"https://twitter.com/rahego\">@rahego</a> I went into a deep dive in old <a href=\"http://www.43folders.com\">43 Folders</a> posts.</p>\n\n<p>Still great content after all these years…</p>\n",
+				"content_text": "Thanks to a mention in the latest edition of the [newsletter](https://mailchi.mp/06689299e0b9/el-viejo-troll-que-vive-en-el-puente) by [@rahego](https://twitter.com/rahego) I went into a deep dive in old [43 Folders](http://www.43folders.com) posts.\n\nStill great content after all these years…\n",
+				"date_published": "2020-09-14T20:20:24+02:00",
+				"url": "https://jeroensangers.com/2020/09/14/thanks-to-a.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2020/09/14/is-this-turned.html",
+				
+				"content_html": "<p>Is <em>this</em> turned on?:</p>\n\n<p><img src=\"uploads/2020/6c4dd6bbe8.png\" width=\"496\" height=\"123\" alt=\"Get notifications when this applet is used\" /></p>\n\n<p>Or is <em>this</em> turned on?:</p>\n\n<p><img src=\"uploads/2020/aad8f3bed4.png\" width=\"496\" height=\"123\" alt=\"Get notifications when this applet is used\" /></p>\n\n<p>IFTTT should improve their usability a little bit.</p>\n",
+				"content_text": "Is *this* turned on?:\n\n<img src=\"uploads/2020/6c4dd6bbe8.png\" width=\"496\" height=\"123\" alt=\"Get notifications when this applet is used\" />\n\nOr is *this* turned on?:\n\n<img src=\"uploads/2020/aad8f3bed4.png\" width=\"496\" height=\"123\" alt=\"Get notifications when this applet is used\" />\n\nIFTTT should improve their usability a little bit.\n",
+				"date_published": "2020-09-14T11:49:37+02:00",
+				"url": "https://jeroensangers.com/2020/09/14/is-this-turned.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2020/09/14/back-to-nature.html",
+				
+				"content_html": "<p>Back to nature 🚶‍♂️⛰</p>\n\n<p><img src=\"uploads/2020/531af86a33.jpg\" width=\"600\" height=\"799\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "Back to nature 🚶‍♂️⛰\n\n<img src=\"uploads/2020/531af86a33.jpg\" width=\"600\" height=\"799\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-09-14T11:05:14+02:00",
+				"url": "https://jeroensangers.com/2020/09/14/back-to-nature.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2020/09/11/wise-words-from.html",
+				
+				"content_html": "<p>Wise words from James Clear in his newsletter:</p>\n\n<blockquote>\n<p>Avoid calendar debt. Don’t spend (free) time you haven’t earned.</p>\n</blockquote>\n\n<p>A meeting is like a loan: it is time you haven&rsquo;t earned yet. This is not necessarily a bad thing, since sometimes the inversion is worth it. Just be aware of this fact whenever you make a time-commitment.</p>\n",
+				"content_text": "Wise words from James Clear in his newsletter:\n\n> Avoid calendar debt. Don’t spend (free) time you haven’t earned.\n\nA meeting is like a loan: it is time you haven't earned yet. This is not necessarily a bad thing, since sometimes the inversion is worth it. Just be aware of this fact whenever you make a time-commitment.\n",
+				"date_published": "2020-09-11T18:27:37+02:00",
+				"url": "https://jeroensangers.com/2020/09/11/wise-words-from.html"
+			},
+			{
 				"id": "http://JeroenSangers.micro.blog/2020/09/09/the-unexpected-consequence.html",
 				
 				"content_html": "<p><a href=\"https://www.fastcompany.com/90548204/the-unexpected-consequence-of-too-much-communication-at-work\">The unexpected consequence of too much communication at work</a>:</p>\n\n<blockquote>\n<p>More than ever before, we’re using technology to connect with the outside world. And with so many of us now working from home, we’re relying on our phones to stay updated with colleagues and clients. However, when you’re receiving endless Zoom calls and emails, pings on Slack, and notifications from everywhere else, it begins to hinder productivity and focus.</p>\n</blockquote>\n\n<p>Unexpected? Only if you’re not used to mindful communication.</p>\n",
