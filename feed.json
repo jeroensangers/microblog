@@ -7,12 +7,29 @@
 	"items": [
 		
 			{
+				"id": "http://JeroenSangers.micro.blog/2020/09/17/with-the-rollout.html",
+				
+				"content_html": "<p>With the rollout of iOS 14 and Safari 14, most web sites are going to see some significant shifts in their statistics.</p>\n\n<p><img src=\"uploads/2020/ae102523c3.jpg\" width=\"575\" height=\"117\" alt=\"\" /></p>\n",
+				"content_text": "With the rollout of iOS 14 and Safari 14, most web sites are going to see some significant shifts in their statistics.\n\n\n<img src=\"uploads/2020/ae102523c3.jpg\" width=\"575\" height=\"117\" alt=\"\" />\n",
+				"date_published": "2020-09-17T14:57:41+02:00",
+				"url": "https://jeroensangers.com/2020/09/17/with-the-rollout.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2020/09/17/after-four-hours.html",
+				
+				"content_html": "<p>After four hours, I guess it’s time to stop procrastinating and do something productive…</p>\n",
+				"content_text": "After four hours, I guess it’s time to stop procrastinating and do something productive…\n",
+				"date_published": "2020-09-17T12:48:09+02:00",
+				"url": "https://jeroensangers.com/2020/09/17/after-four-hours.html"
+			},
+			{
 				"id": "http://JeroenSangers.micro.blog/2020/09/16/this-is-what.html",
 				
 				"content_html": "<p>This is what the outside world sees… 🎞</p>\n\n<p><img src=\"uploads/2020/174602cb4d.jpg\" width=\"600\" height=\"337\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n\n<p>… and this is what’s really happening… 🎬</p>\n\n<p><a href=\"https://jeroensangers.com/uploads/2020/ebf0c19a4f.jpg\"><img src=\"uploads/2020/ebf0c19a4f.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://jeroensangers.com/uploads/2020/6a25afc693.jpg\"><img src=\"uploads/2020/6a25afc693.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n",
 				"content_text": "This is what the outside world sees… 🎞\n\n<img src=\"uploads/2020/174602cb4d.jpg\" width=\"600\" height=\"337\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n\n… and this is what’s really happening… 🎬\n\n<a href=\"https://jeroensangers.com/uploads/2020/ebf0c19a4f.jpg\"><img src=\"uploads/2020/ebf0c19a4f.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://jeroensangers.com/uploads/2020/6a25afc693.jpg\"><img src=\"uploads/2020/6a25afc693.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n",
-				"date_published": "2020-09-16T19:37:48+02:00",
-				"url": "https://jeroensangers.com/2020/09/16/this-is-what.html"
+				"date_published": "2020-09-16T19:37:00+02:00",
+				"url": "https://jeroensangers.com/2020/09/16/this-is-what.html",
+				"tags": ["Image"]
 			},
 			{
 				"id": "http://JeroenSangers.micro.blog/2020/09/15/it-is-clear.html",
@@ -43,8 +60,9 @@
 				
 				"content_html": "<p>Back to nature 🚶‍♂️⛰</p>\n\n<p><img src=\"uploads/2020/531af86a33.jpg\" width=\"600\" height=\"799\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
 				"content_text": "Back to nature 🚶‍♂️⛰\n\n<img src=\"uploads/2020/531af86a33.jpg\" width=\"600\" height=\"799\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
-				"date_published": "2020-09-14T11:05:14+02:00",
-				"url": "https://jeroensangers.com/2020/09/14/back-to-nature.html"
+				"date_published": "2020-09-14T11:05:00+02:00",
+				"url": "https://jeroensangers.com/2020/09/14/back-to-nature.html",
+				"tags": ["Image"]
 			},
 			{
 				"id": "http://JeroenSangers.micro.blog/2020/09/11/wise-words-from.html",
