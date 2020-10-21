@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://JeroenSangers.micro.blog/2020/10/20/to-start-the.html",
+				
+				"content_html": "<p>To start the day, I gave my personal blog a little love, with an updated <a href=\"https://jeroensangers.com/now/\">Now</a> page, some retouches to the <a href=\"https://jeroensangers.com/about/\">About</a> page and removal of the unused <a href=\"https://github.com/jsonbecker/plugin-bigfoot\">Bigfoot plug-in</a>.</p>\n",
+				"content_text": "To start the day, I gave my personal blog a little love, with an updated [Now](https://jeroensangers.com/now/) page, some retouches to the [About](https://jeroensangers.com/about/) page and removal of the unused [Bigfoot plug-in](https://github.com/jsonbecker/plugin-bigfoot).\n",
+				"date_published": "2020-10-20T09:51:54+02:00",
+				"url": "https://jeroensangers.com/2020/10/20/to-start-the.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2020/10/20/nicholas-bate-shares.html",
+				
+				"content_html": "<p>Nicholas Bate shares <a href=\"https://blog.strategicedge.co.uk/2020/10/things-to-learn-14.html\">14 Things to Learn</a> and got me searching for that speech by Mark Anthony in Julius Caesar.</p>\n",
+				"content_text": "Nicholas Bate shares [14 Things to Learn](https://blog.strategicedge.co.uk/2020/10/things-to-learn-14.html) and got me searching for that speech by Mark Anthony in Julius Caesar.\n",
+				"date_published": "2020-10-20T08:13:30+02:00",
+				"url": "https://jeroensangers.com/2020/10/20/nicholas-bate-shares.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2020/10/19/city-limits.html",
+				
+				"content_html": "<p>📷 City limits</p>\n\n<p><img src=\"uploads/2020/7952e73023.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "📷 City limits\n\n<img src=\"uploads/2020/7952e73023.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2020-10-19T16:29:00+02:00",
+				"url": "https://jeroensangers.com/2020/10/19/city-limits.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2020/10/14/i-dont-understand.html",
+				
+				"content_html": "<p>I don&rsquo;t understand why some people have a blog (a periodic publication) without offering a feed or newsletter to subscribe to.</p>\n\n<p>You really expect me to come back every day to check whether you have published anything new?</p>\n",
+				"content_text": "I don't understand why some people have a blog (a periodic publication) without offering a feed or newsletter to subscribe to.\n\nYou really expect me to come back every day to check whether you have published anything new?\n",
+				"date_published": "2020-10-14T12:37:00+02:00",
+				"url": "https://jeroensangers.com/2020/10/14/i-dont-understand.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2020/10/14/lleida-spain-to.html",
+				
+				"content_html": "<p>📷 Lleida, Spain | 2020-10-14 12:09</p>\n\n<p>To relax my eyes after staring for too long at my screen, I simply turn my chair and observe city life though my office window.</p>\n\n<p>Nothing special is happening, yet a lot is happening at the same time.</p>\n\n<p>#adayinthelife, a <a href=\"https://micro.welltempered.net/2020/09/24/a-day-in.html\">micro.blog challenge</a></p>\n\n<p><img src=\"uploads/2020/bb2763797f.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "📷 Lleida, Spain | 2020-10-14 12:09\n\nTo relax my eyes after staring for too long at my screen, I simply turn my chair and observe city life though my office window.\n\nNothing special is happening, yet a lot is happening at the same time.\n\n#adayinthelife, a [micro.blog challenge](https://micro.welltempered.net/2020/09/24/a-day-in.html)\n\n<img src=\"uploads/2020/bb2763797f.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2020-10-14T12:22:00+02:00",
+				"url": "https://jeroensangers.com/2020/10/14/lleida-spain-to.html"
+			},
+			{
 				"id": "http://JeroenSangers.micro.blog/2020/10/07/this-sounds-like.html",
 				
 				"content_html": "<p>This sounds like a perfect day to me.</p>\n\n<blockquote>the goal for this day is simple: Calm.\n\n<footer><cite><a href=\"http://www.execupundit.com/2020/10/fast-start-simple-goal.html\">Michael Wade</a></cite></footer>\n</blockquote>\n",
@@ -4207,9 +4247,9 @@
 			{
 				"id": "http://JeroenSangers.micro.blog/2004/10/20/movable-type.html",
 				"title": "Movable Type 3.12",
-				"content_html": "<p>Movable Type version 3.12 was released today, and as usual I immediately installed it. The feature I wanted was the promised fasted build times, but I also encountered some undocumented new buttons in the edit screen:</p>\n\n<p><img class=\"alignnone size-full wp-image-3350\" src=\"https://JeroenSangers.micro.blog/uploads/2020/ac4c67496c.jpg\" alt=\"mt_buttons\" width=\"174\" height=\"18\" /></p>\n\n<p>I uploaded the image above using the <em>Upload File</em> button, but was a little bit disappointed that this feature did not copy the corresponding <img /> element into my entry. Shall I wait for version 3.13?</p>\n",
-				"content_text": "Movable Type version 3.12 was released today, and as usual I immediately installed it. The feature I wanted was the promised fasted build times, but I also encountered some undocumented new buttons in the edit screen:\n\n<img class=\"alignnone size-full wp-image-3350\" src=\"https://JeroenSangers.micro.blog/uploads/2020/ac4c67496c.jpg\" alt=\"mt_buttons\" width=\"174\" height=\"18\" />\n\nI uploaded the image above using the <em>Upload File</em> button, but was a little bit disappointed that this feature did not copy the corresponding <img /> element into my entry. Shall I wait for version 3.13?\n",
-				"date_published": "2004-10-20T11:07:05+02:00",
+				"content_html": "<p>Movable Type version 3.12 was released today, and as usual I immediately installed it. The feature I wanted was the promised fasted build times, but I also encountered some undocumented new buttons in the edit screen:</p>\n\n<p><img class=\"alignnone size-full wp-image-3350\" src=\"https://JeroenSangers.micro.blog/uploads/2020/ac4c67496c.jpg\" alt=\"mt_buttons\" width=\"174\" height=\"18\" /></p>\n\n<p>I uploaded the image above using the <em>Upload File</em> button, but was a little bit disappointed that this feature did not copy the corresponding <code>&lt;img /&gt;</code> element into my entry. Shall I wait for version 3.13?</p>\n",
+				"content_text": "Movable Type version 3.12 was released today, and as usual I immediately installed it. The feature I wanted was the promised fasted build times, but I also encountered some undocumented new buttons in the edit screen:\n\n<img class=\"alignnone size-full wp-image-3350\" src=\"https://JeroenSangers.micro.blog/uploads/2020/ac4c67496c.jpg\" alt=\"mt_buttons\" width=\"174\" height=\"18\" />\n\nI uploaded the image above using the <em>Upload File</em> button, but was a little bit disappointed that this feature did not copy the corresponding `<img />` element into my entry. Shall I wait for version 3.13?\n",
+				"date_published": "2004-10-20T11:07:00+02:00",
 				"url": "https://jeroensangers.com/2004/10/20/movable-type.html"
 			},
 			{
