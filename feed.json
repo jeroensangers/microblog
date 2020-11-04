@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://JeroenSangers.micro.blog/2020/11/03/the-more-a.html",
+				
+				"content_html": "<p>The more a play around in <a href=\"https://tribe.so/\">Tribe.so</a>, the more I like it as a tool for creating a community.</p>\n",
+				"content_text": "The more a play around in [Tribe.so](https://tribe.so/), the more I like it as a tool for creating a community.\n",
+				"date_published": "2020-11-03T21:14:17+01:00",
+				"url": "https://jeroensangers.com/2020/11/03/the-more-a.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2020/10/29/dear-mailchimp-i.html",
+				
+				"content_html": "<p>Dear MailChimp,</p>\n\n<p>I am having an issue upgrading a free account to a paid account.</p>\n\n<p>I would like to talk to someone from your support department, but you tell me that I first have to upgrade my free account to a paid account. 🤯</p>\n\n<p><img src=\"uploads/2020/037775d655.jpg\" width=\"600\" height=\"140\" alt=\"\" /></p>\n",
+				"content_text": "Dear MailChimp,\n\nI am having an issue upgrading a free account to a paid account.\n\nI would like to talk to someone from your support department, but you tell me that I first have to upgrade my free account to a paid account. 🤯\n\n<img src=\"uploads/2020/037775d655.jpg\" width=\"600\" height=\"140\" alt=\"\" />\n",
+				"date_published": "2020-10-29T13:40:06+01:00",
+				"url": "https://jeroensangers.com/2020/10/29/dear-mailchimp-i.html"
+			},
+			{
 				"id": "http://JeroenSangers.micro.blog/2020/10/28/though-this-looks.html",
 				
 				"content_html": "<p>Though this looks like a joke, the message is absolutely necessary.</p>\n\n<p>At almost 5 kg, the elgato <a href=\"https://www.elgato.com/en/heavy-base\">Weighted Base</a> for the <a href=\"https://www.elgato.com/en/multi-mount-system\">Multi Mount System</a> is deceptively heavy for its size.</p>\n\n<p>The only issue is that this message is printed on the inner box and not on the outer box, so the delivery guy had no idea…</p>\n\n<p><img src=\"uploads/2020/6dff73993f.jpg\" width=\"600\" height=\"200\" alt=\"\" /></p>\n",
@@ -1630,9 +1646,9 @@
 			{
 				"id": "http://JeroenSangers.micro.blog/2019/10/28/ive-been-wanting.html",
 				
-				"content_html": "<p>I&rsquo;ve been wanting to up mu meditation practice for a while now. Today I started Sam Harris&rsquo; 50 day training course <a href=\"https://wakingup.com\">Waking Up</a>, since I&rsquo;ve heard many good things about it.</p>\n\n<p>The first session was—as expected—a very basic 5–minute breathing mindfulness exercise. I&rsquo;m looking forward to tomorrow&rsquo;s session…</p>\n",
-				"content_text": "I've been wanting to up mu meditation practice for a while now. Today I started Sam Harris' 50 day training course <a href=\"https://wakingup.com\">Waking Up</a>, since I've heard many good things about it.\n\nThe first session was—as expected—a very basic 5–minute breathing mindfulness exercise. I'm looking forward to tomorrow's session…\n",
-				"date_published": "2019-10-28T20:07:14+01:00",
+				"content_html": "<p>I&rsquo;ve been wanting to up my meditation practice for a while now. Today I started Sam Harris&rsquo; 50 day training course <a href=\"https://wakingup.com\">Waking Up</a>, since I&rsquo;ve heard many good things about it.</p>\n\n<p>The first session was—as expected—a very basic 5–minute breathing mindfulness exercise. I&rsquo;m looking forward to tomorrow&rsquo;s session…</p>\n",
+				"content_text": "I've been wanting to up my meditation practice for a while now. Today I started Sam Harris' 50 day training course <a href=\"https://wakingup.com\">Waking Up</a>, since I've heard many good things about it.\n\nThe first session was—as expected—a very basic 5–minute breathing mindfulness exercise. I'm looking forward to tomorrow's session…\n",
+				"date_published": "2019-10-28T20:07:00+01:00",
 				"url": "https://jeroensangers.com/2019/10/28/ive-been-wanting.html",
 				"tags": ["Status"]
 			},
