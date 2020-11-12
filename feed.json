@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://JeroenSangers.micro.blog/2020/11/12/after-having-used.html",
+				
+				"content_html": "<p>After having used an iPad for eight years, today was the first time I connected a Bluetooth keyboard.\nThis changes everything!</p>\n",
+				"content_text": "After having used an iPad for eight years, today was the first time I connected a Bluetooth keyboard.\nThis changes everything!\n",
+				"date_published": "2020-11-12T15:57:03+01:00",
+				"url": "https://jeroensangers.com/2020/11/12/after-having-used.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2020/11/10/since-last-summer.html",
+				
+				"content_html": "<p>Since last summer, we are in the market for a new iMac 🖥 to replace a 7-year old MacBook Air 💻. The MacBook served us well for occasional work, but in the era of remote work we really need a bigger screen.</p>\n\n<p>We prefer not to buy an Intel computer on the verge of a new architecture launch so we postponed the buying decision to today. In the unlikely event that Apple announces a new iMac with  Silicon, we will purchase it right away. Otherwise, we won’t wait any longer and buy the current Intel-based model.</p>\n",
+				"content_text": "Since last summer, we are in the market for a new iMac 🖥 to replace a 7-year old MacBook Air 💻. The MacBook served us well for occasional work, but in the era of remote work we really need a bigger screen.\n\nWe prefer not to buy an Intel computer on the verge of a new architecture launch so we postponed the buying decision to today. In the unlikely event that Apple announces a new iMac with  Silicon, we will purchase it right away. Otherwise, we won’t wait any longer and buy the current Intel-based model.\n",
+				"date_published": "2020-11-10T18:04:36+01:00",
+				"url": "https://jeroensangers.com/2020/11/10/since-last-summer.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2020/11/10/i-did-not.html",
+				
+				"content_html": "<p>I did not know this: the bridges on the € banknotes are fictitious, but <a href=\"https://nl.wikipedia.org/wiki/Spijkenisser_Eurobruggen\">an architect in the Dutch town of Spijkenisse recreated them</a>.</p>\n\n<p>(via <a href=\"https://www.patrickloonstra.nl/goodmonday/\">Patrick Loonstra</a>)</p>\n",
+				"content_text": "I did not know this: the bridges on the € banknotes are fictitious, but [an architect in the Dutch town of Spijkenisse recreated them](https://nl.wikipedia.org/wiki/Spijkenisser_Eurobruggen).\n\n(via [Patrick Loonstra](https://www.patrickloonstra.nl/goodmonday/))\n",
+				"date_published": "2020-11-10T16:57:00+01:00",
+				"url": "https://jeroensangers.com/2020/11/10/i-did-not.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2020/11/10/years-of-blogging.html",
+				"title": "23 years of blogging",
+				"content_html": "<p>23 years ago, I decided to add a page to my website where I explain what has been going on in my life. A few years later I learned that there was a name for such a page: a <strong>web log</strong>.</p>\n\n<p>A lot has changed since then.</p>\n\n<p>I have changed the blogging engine several times. The first page was made in Microsoft FrontPage, followed by hand-crafted Server Side Includes (SSI), the NewsPro CGI script and Movable Type, my favorite blogging engine of all times. Later, I decided that tweaking servers, databases and scripts was no longer a good use of my time, so I parked the blog on the hosted version of WordPress. And finally, this year I made the switch to Micro.blog.</p>\n\n<p>Also the contents of the blogposts have changed in those years. Starting with a monthly post in Dutch summing up previous months activities in my life, I changed to writing in English when I migrated to Spain and wanted to keep an international group of friends up-to-date on my life here. When I got bored explaining my life I slowly shifted to a mixture of technology, humor, music and web standards. There also have been several years with hardly any new posts, as I focused on my successful Spanish productivity blog <a href=\"https://canasto.es\">el Canasto</a>. As of last year, I am back to blogging again (mostly in English, but sometimes in Dutch or Spanish), (un)focused on a mixture of personal themes, interesting stuff I found on the web and some technology.</p>\n\n<p>As for the future of this blog, seen my recent interest in publishing more (I even wish to publish daily), I think it is safe to say that the blog won’t go anywhere. Now that I have kept it alive for 23 years, I surely want to make sure to celebrate its 25th anniversary in two years.</p>\n",
+				"content_text": "23 years ago, I decided to add a page to my website where I explain what has been going on in my life. A few years later I learned that there was a name for such a page: a **web log**.\n\nA lot has changed since then.\n\nI have changed the blogging engine several times. The first page was made in Microsoft FrontPage, followed by hand-crafted Server Side Includes (SSI), the NewsPro CGI script and Movable Type, my favorite blogging engine of all times. Later, I decided that tweaking servers, databases and scripts was no longer a good use of my time, so I parked the blog on the hosted version of WordPress. And finally, this year I made the switch to Micro.blog.\n\nAlso the contents of the blogposts have changed in those years. Starting with a monthly post in Dutch summing up previous months activities in my life, I changed to writing in English when I migrated to Spain and wanted to keep an international group of friends up-to-date on my life here. When I got bored explaining my life I slowly shifted to a mixture of technology, humor, music and web standards. There also have been several years with hardly any new posts, as I focused on my successful Spanish productivity blog [el Canasto](https://canasto.es). As of last year, I am back to blogging again (mostly in English, but sometimes in Dutch or Spanish), (un)focused on a mixture of personal themes, interesting stuff I found on the web and some technology.\n\nAs for the future of this blog, seen my recent interest in publishing more (I even wish to publish daily), I think it is safe to say that the blog won’t go anywhere. Now that I have kept it alive for 23 years, I surely want to make sure to celebrate its 25th anniversary in two years.\n",
+				"date_published": "2020-11-10T15:42:11+01:00",
+				"url": "https://jeroensangers.com/2020/11/10/years-of-blogging.html"
+			},
+			{
 				"id": "http://JeroenSangers.micro.blog/2020/11/03/the-more-a.html",
 				
 				"content_html": "<p>The more a play around in <a href=\"https://tribe.so/\">Tribe.so</a>, the more I like it as a tool for creating a community.</p>\n",
