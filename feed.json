@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://JeroenSangers.micro.blog/2020/12/01/i-agree-with.html",
+				
+				"content_html": "<p>I agree with all these observations:  <a href=\"https://culturaloffering.tumblr.com/post/636264824537497600/lets-talk-video-conferencing\">Let’s talk video conferencing</a></p>\n",
+				"content_text": "I agree with all these observations:  [Let’s talk video conferencing](https://culturaloffering.tumblr.com/post/636264824537497600/lets-talk-video-conferencing)\n",
+				"date_published": "2020-12-01T20:07:14+01:00",
+				"url": "https://jeroensangers.com/2020/12/01/i-agree-with.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2020/12/01/el-canasto-cumple.html",
+				"title": "El Canasto cumple 14 🎂",
+				"content_html": "<p>Hace 14 años hizo algo que me ha cambiado la vida: publiqué el primer post en mi blog <a href=\"https:://canasto.es\">El Canasto</a>.</p>\n\n<p>No me podía imaginar que este pequeño proyecto se convertiría en mi pasión y mi profesión.</p>\n\n<p>Quiero dar las gracias a todos y a todas que me han seguido en alguna forma en algún momento en estos años.</p>\n",
+				"content_text": "Hace 14 años hizo algo que me ha cambiado la vida: publiqué el primer post en mi blog [El Canasto](https:://canasto.es). \n\nNo me podía imaginar que este pequeño proyecto se convertiría en mi pasión y mi profesión.\n\nQuiero dar las gracias a todos y a todas que me han seguido en alguna forma en algún momento en estos años. \n",
+				"date_published": "2020-12-01T20:01:30+01:00",
+				"url": "https://jeroensangers.com/2020/12/01/el-canasto-cumple.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2020/11/27/why-isnt-the.html",
+				
+				"content_html": "<p>Why isn’t the Notes app available in the share sheet of an  Music song?</p>\n",
+				"content_text": "Why isn’t the Notes app available in the share sheet of an  Music song?\n",
+				"date_published": "2020-11-27T08:02:43+01:00",
+				"url": "https://jeroensangers.com/2020/11/27/why-isnt-the.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2020/11/27/nicholas-bate-is.html",
+				
+				"content_html": "<p>Nicholas Bate is the master of list posts. I always like to read them, but somehow <a href=\"https://blog.strategicedge.co.uk/2020/11/standards-in-a-covid-world-22.html\">today’s post</a> struck something deep inside me.</p>\n\n<p>Though there is nothing shockingly new on the list with <a href=\"https://blog.strategicedge.co.uk/2020/11/standards-in-a-covid-world-22.html\">Standards in a Covid World</a>, there are several pieced of advice I really, really need to implement.</p>\n",
+				"content_text": "Nicholas Bate is the master of list posts. I always like to read them, but somehow [today’s post](https://blog.strategicedge.co.uk/2020/11/standards-in-a-covid-world-22.html) struck something deep inside me.\n\nThough there is nothing shockingly new on the list with [Standards in a Covid World](https://blog.strategicedge.co.uk/2020/11/standards-in-a-covid-world-22.html), there are several pieced of advice I really, really need to implement.\n",
+				"date_published": "2020-11-27T07:51:47+01:00",
+				"url": "https://jeroensangers.com/2020/11/27/nicholas-bate-is.html"
+			},
+			{
 				"id": "http://JeroenSangers.micro.blog/2020/11/24/as-a-productivity.html",
 				
 				"content_html": "<p>As a productivity nerd, whenever I encounter an in-depth <a href=\"https://www.theobservereffect.org/marc.html\">interview about personal organization and decision making</a> with high performers such as Marc Andreessen, I instantly subscribe.</p>\n",
