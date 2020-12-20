@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://JeroenSangers.micro.blog/2020/12/20/it-really-bothers.html",
+				
+				"content_html": "<p>It really bothers me when services with a well working web app oblige me to install their app to access their service from my phone.</p>\n\n<p>Usually I prefer native apps, but not for something I only need very occasionally.</p>\n",
+				"content_text": "It really bothers me when services with a well working web app oblige me to install their app to access their service from my phone.\n\nUsually I prefer native apps, but not for something I only need very occasionally.\n",
+				"date_published": "2020-12-20T14:30:45+01:00",
+				"url": "https://jeroensangers.com/2020/12/20/it-really-bothers.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2020/12/15/i-love-this.html",
+				
+				"content_html": "<p>I love this quote about Serena Williams using <a href=\"https://toggl.com/\">Toggl Track</a> in <a href=\"https://www.fastcompany.com/90581934/working-all-the-time-isnt-the-same-thing-as-productivity\">Working all the time isn’t the same thing as productivity</a>:</p>\n\n<blockquote>\n<p>Serena Williams tells senior writer Nicole LaPorte that she uses the app Toggl to help track her time with her daughter, Olympia. Victory, for this athlete-entrepreneur-investor, is when she overindexes on parenting.</p>\n</blockquote>\n",
+				"content_text": "I love this quote about Serena Williams using [Toggl Track](https://toggl.com/) in [Working all the time isn’t the same thing as productivity](https://www.fastcompany.com/90581934/working-all-the-time-isnt-the-same-thing-as-productivity):\n\n> Serena Williams tells senior writer Nicole LaPorte that she uses the app Toggl to help track her time with her daughter, Olympia. Victory, for this athlete-entrepreneur-investor, is when she overindexes on parenting.\n",
+				"date_published": "2020-12-15T15:49:38+01:00",
+				"url": "https://jeroensangers.com/2020/12/15/i-love-this.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2020/12/15/entiendo-la-popularidad.html",
+				
+				"content_html": "<p>Entiendo la popularidad de <a href=\"https://www.ivoox.com/\">iVoox</a> para escuchar a podcast.\nPero desde el punto de vista de los productores de podcast es un servicio nefasta. No entiendo porqué duplican el feed original eliminando metadatos como, por ejemplo, los enlaces en las notas del programa.</p>\n",
+				"content_text": "Entiendo la popularidad de [iVoox](https://www.ivoox.com/) para escuchar a podcast.\nPero desde el punto de vista de los productores de podcast es un servicio nefasta. No entiendo porqué duplican el feed original eliminando metadatos como, por ejemplo, los enlaces en las notas del programa.\n",
+				"date_published": "2020-12-15T10:14:38+01:00",
+				"url": "https://jeroensangers.com/2020/12/15/entiendo-la-popularidad.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2020/12/14/over-the-last.html",
+				
+				"content_html": "<p>Over the last days, my todo list slowly morphed into a Tetris puzzle with too many dependencies.</p>\n\n<p>When I’m <em>that</em> time restrained I feel I can’t trust OmniFocus anymore and am afraid that I’m overcommitting.</p>\n\n<p>So, I moved all my tasks to <a href=\"https://www.skedpal.com/\">SchedPal</a> and let my limited time available determine what to focus on.</p>\n",
+				"content_text": "Over the last days, my todo list slowly morphed into a Tetris puzzle with too many dependencies.\n\nWhen I’m _that_ time restrained I feel I can’t trust OmniFocus anymore and am afraid that I’m overcommitting.\n\nSo, I moved all my tasks to [SchedPal](https://www.skedpal.com/) and let my limited time available determine what to focus on.\n",
+				"date_published": "2020-12-14T16:19:22+01:00",
+				"url": "https://jeroensangers.com/2020/12/14/over-the-last.html"
+			},
+			{
 				"id": "http://JeroenSangers.micro.blog/2020/12/12/im-seriously-wondering.html",
 				
 				"content_html": "<p>I’m seriously wondering why I’m not posting more often when there really is no friction to write down and publish a message.</p>\n",
