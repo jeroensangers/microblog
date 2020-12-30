@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://JeroenSangers.micro.blog/2020/12/30/it-seems-seth.html",
+				
+				"content_html": "<p>It seems Seth was listening in on our Zoom call this morning, in which we decided to dedicate the month of January to review our processes and systems.</p>\n\n<p>When will you sharpen the saw?</p>\n\n<blockquote>In any given moment, an urgency that feels like an emergency gives us the permission to abandon our systems and simply dive in and fix it, as only we can. And this permission is precisely why we get stuck, precisely why the next urgency is likely to appear tomorrow.\n\n<footer><cite><a href=\"https://seths.blog/2020/12/a-different-urgency/\">Seth Godin</a></cite></footer>\n</blockquote>\n",
+				"content_text": "It seems Seth was listening in on our Zoom call this morning, in which we decided to dedicate the month of January to review our processes and systems.\n\nWhen will you sharpen the saw?\n\n<blockquote>In any given moment, an urgency that feels like an emergency gives us the permission to abandon our systems and simply dive in and fix it, as only we can. And this permission is precisely why we get stuck, precisely why the next urgency is likely to appear tomorrow.\n\n<footer><cite><a href=\"https://seths.blog/2020/12/a-different-urgency/\">Seth Godin</a></cite></footer>\n</blockquote>\n",
+				"date_published": "2020-12-30T14:45:39+01:00",
+				"url": "https://jeroensangers.com/2020/12/30/it-seems-seth.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2020/12/25/123549.html",
+				
+				"content_html": "<p><img src=\"uploads/2020/48a45477d3.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "\n\n<img src=\"uploads/2020/48a45477d3.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2020-12-25T12:35:49+01:00",
+				"url": "https://jeroensangers.com/2020/12/25/123549.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2020/12/23/there-is-a.html",
+				
+				"content_html": "<blockquote>There is a crack, a crack in everything. That's how the light gets in.\n\n<footer><cite>Leonard Cohen </cite></footer>\n</blockquote>\n",
+				"content_text": "<blockquote>There is a crack, a crack in everything. That's how the light gets in.\n\n<footer><cite>Leonard Cohen </cite></footer>\n</blockquote>\n",
+				"date_published": "2020-12-23T13:02:08+01:00",
+				"url": "https://jeroensangers.com/2020/12/23/there-is-a.html"
+			},
+			{
 				"id": "http://JeroenSangers.micro.blog/2020/12/20/it-really-bothers.html",
 				
 				"content_html": "<p>It really bothers me when services with a well working web app oblige me to install their app to access their service from my phone.</p>\n\n<p>Usually I prefer native apps, but not for something I only need very occasionally.</p>\n",
