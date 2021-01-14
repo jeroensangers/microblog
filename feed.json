@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://JeroenSangers.micro.blog/2021/01/12/most-messages-in.html",
+				
+				"content_html": "<p>Most messages in the user forums of any productivity tool are from people who overcomplicate their workflows.</p>\n",
+				"content_text": "Most messages in the user forums of any productivity tool are from people who overcomplicate their workflows.\n",
+				"date_published": "2021-01-12T17:29:29+01:00",
+				"url": "https://jeroensangers.com/2021/01/12/most-messages-in.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2021/01/12/somehow-spotlight-stopped.html",
+				
+				"content_html": "<p>Somehow, Spotlight stopped working on my iMac. Neither the keyboard shortcut or the icon in the menu bar did anything. Time for a reboot…</p>\n",
+				"content_text": "Somehow, Spotlight stopped working on my iMac. Neither the keyboard shortcut or the icon in the menu bar did anything. Time for a reboot…\n",
+				"date_published": "2021-01-12T11:36:36+01:00",
+				"url": "https://jeroensangers.com/2021/01/12/somehow-spotlight-stopped.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2021/01/10/whatsapps-canary-died.html",
+				
+				"content_html": "<p>WhatsApp&rsquo;s canary died 😔</p>\n\n<p><a href=\"https://twitter.com/sdwolf/status/1347595158301261825\">twitter.com/sdwolf/st&hellip;</a></p>\n",
+				"content_text": "WhatsApp's canary died 😔\n\n[twitter.com/sdwolf/st...](https://twitter.com/sdwolf/status/1347595158301261825)\n",
+				"date_published": "2021-01-10T16:34:37+01:00",
+				"url": "https://jeroensangers.com/2021/01/10/whatsapps-canary-died.html"
+			},
+			{
 				"id": "http://JeroenSangers.micro.blog/2021/01/06/well-said-discussions.html",
 				
 				"content_html": "<p>Well said:</p>\n\n<blockquote>Discussions of ‘time management’ and ‘productivity’ often hide the real issue.\n\nSoul management.\n\n<footer><cite>Nicholas Bate in <a href=\"https://blog.strategicedge.co.uk/2021/01/just-onething-40-of-101.html\">Just OneThing, 40 of 101</a></cite></footer>\n</blockquote>\n",
