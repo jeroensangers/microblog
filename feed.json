@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://JeroenSangers.micro.blog/2021/03/23/reeder-improvements.html",
+				"title": "Reeder 5 improvements",
+				"content_html": "<p>I have been using <a href=\"https://reederapp.com/\">Reeder</a> for my feed reading since early 2011 (that’s over a decade!), so of course I immediately updated to version 5 last October.</p>\n\n<p>Only now, five months later, have I started looking at the new features in this version and I really love them! 💕</p>\n\n<p>I disconnected the app from <a href=\"https://www.inoreader.com/\">Inoreader</a> and <a href=\"https://www.instapaper.com/\">Instapaper</a> (my feed server and read later service) and started using the built-in iCloud Feeds and iCloud Read Later services.</p>\n\n<p>But the biggest improvement is <a href=\"https://bionic-reading.com/en/en-insight/\">Bionic Reading</a>! Added to Reeder in version 4 (2019), it looks weird but actually works! I read with more focus and attention and am less distracted.</p>\n\n<p>I switch Bionic Reading off when I triage my feeds, but when I switch too the Read Later section I turn it on for some slow and focused reading.</p>\n\n<p>Have you tried Bionic Reading in Reeder or any other app?</p>\n",
+				"content_text": "I have been using [Reeder](https://reederapp.com/) for my feed reading since early 2011 (that’s over a decade!), so of course I immediately updated to version 5 last October.\n\nOnly now, five months later, have I started looking at the new features in this version and I really love them! 💕\n\nI disconnected the app from [Inoreader](https://www.inoreader.com/) and [Instapaper](https://www.instapaper.com/) (my feed server and read later service) and started using the built-in iCloud Feeds and iCloud Read Later services.\n\nBut the biggest improvement is [Bionic Reading](https://bionic-reading.com/en/en-insight/)! Added to Reeder in version 4 (2019), it looks weird but actually works! I read with more focus and attention and am less distracted.\n\nI switch Bionic Reading off when I triage my feeds, but when I switch too the Read Later section I turn it on for some slow and focused reading.\n\nHave you tried Bionic Reading in Reeder or any other app?\n",
+				"date_published": "2021-03-23T16:28:00+01:00",
+				"url": "https://jeroensangers.com/2021/03/23/reeder-improvements.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2021/03/20/pleasure.html",
+				
+				"content_html": "<p>📷 Pleasure 🍓🍫</p>\n\n<p><img src=\"uploads/2021/8228969628.jpg\" width=\"600\" height=\"450\" alt=\"Strawberry and chocolate\" /></p>\n",
+				"content_text": "📷 Pleasure 🍓🍫\n\n<img src=\"uploads/2021/8228969628.jpg\" width=\"600\" height=\"450\" alt=\"Strawberry and chocolate\" />\n",
+				"date_published": "2021-03-20T09:36:00+01:00",
+				"url": "https://jeroensangers.com/2021/03/20/pleasure.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2021/03/19/i-tried-sorted.html",
+				"title": "I tried Sorted³",
+				"content_html": "<p>After seeing <a href=\"https://www.youtube.com/watch?v=3BeCc_Q_ZSk\">this video</a> by Shu Omi I wanted to try out the <a href=\"https://www.sortedapp.com/\">Sorted³</a> app for scheduling my tasks.</p>\n\n<p>I see a bright future for hyperscheduling tools, since they are the easiest way to be aware of the volume of current commitments. Timeblocking can quickly turn into a rescheduling Tetris, but automated tools such as Sorted and SkedPal eliminate this issue.</p>\n\n<p>That said, I really liked the sorted interface.  They have some innovative ways to select and modify multiple items.</p>\n\n<p>However, there is one important feature I am missing: <strong>due dates</strong>. I can work without do dates, but being able to control my deadlines is essential for me.</p>\n",
+				"content_text": "After seeing [this video](https://www.youtube.com/watch?v=3BeCc_Q_ZSk) by Shu Omi I wanted to try out the [Sorted³](https://www.sortedapp.com/) app for scheduling my tasks.\n\nI see a bright future for hyperscheduling tools, since they are the easiest way to be aware of the volume of current commitments. Timeblocking can quickly turn into a rescheduling Tetris, but automated tools such as Sorted and SkedPal eliminate this issue.\n\nThat said, I really liked the sorted interface.  They have some innovative ways to select and modify multiple items.\n\nHowever, there is one important feature I am missing: **due dates**. I can work without do dates, but being able to control my deadlines is essential for me.\n",
+				"date_published": "2021-03-19T20:01:00+01:00",
+				"url": "https://jeroensangers.com/2021/03/19/i-tried-sorted.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2021/03/18/at-mid-morning.html",
+				
+				"content_html": "<p>At mid morning I usually take a coffee and a sandwich at my desk.\nThis week I started a new habit. I now do this standing in the sun on my balcony, which is much nicer!</p>\n",
+				"content_text": "At mid morning I usually take a coffee and a sandwich at my desk.\nThis week I started a new habit. I now do this standing in the sun on my balcony, which is much nicer!\n",
+				"date_published": "2021-03-18T11:52:07+01:00",
+				"url": "https://jeroensangers.com/2021/03/18/at-mid-morning.html"
+			},
+			{
 				"id": "http://JeroenSangers.micro.blog/2021/03/13/yesterday-i-have.html",
 				
 				"content_html": "<p>Yesterday I have been researching easy ways to record the TV series and movies I watch.</p>\n\n<p>So far, the best options I have found are <a href=\"https://trakt.tv\">Trakt</a> and <a href=\"https://simkl.com\">Simkl</a>, with the latter being my preference.</p>\n\n<p>Now I only have to find a way to link that data with Micro.blog and/or Day One.</p>\n",
