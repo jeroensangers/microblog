@@ -7,6 +7,67 @@
 	"items": [
 		
 			{
+				"id": "http://JeroenSangers.micro.blog/2021/04/28/what-we-believe.html",
+				
+				"content_html": "<p>What we believe in.</p>\n\n<p><blockquote class=\"quoteback\" darkmode=\"\" data-title=\"Just One Thing, 97 of 101\" data-author=\"Nicholas Bate\" cite=\"https://blog.strategicedge.co.uk/2021/04/just-one-thing-97-of-101.html\">\n<p>Efficiency is getting stuff done.</p>\n<p>Effectiveness is getting the right stuff done.</p>\n<p>Technology aids us with the first.</p>\n<p>Your brain still has to facilitate the second.</p>\n <footer>Nicholas Bate<cite> <a href=\"https://blog.strategicedge.co.uk/2021/04/just-one-thing-97-of-101.html\">https://blog.strategicedge.co.uk/2021/04/just-one-thing-97-of-101.html</a></cite></footer>\n</blockquote><script src=\"https://micro.blog/quoteback.js\"></script></p>\n",
+				"content_text": "What we believe in.\n\n<blockquote class=\"quoteback\" darkmode=\"\" data-title=\"Just One Thing, 97 of 101\" data-author=\"Nicholas Bate\" cite=\"https://blog.strategicedge.co.uk/2021/04/just-one-thing-97-of-101.html\">\n<p>Efficiency is getting stuff done.</p>\n<p>Effectiveness is getting the right stuff done.</p>\n<p>Technology aids us with the first.</p>\n<p>Your brain still has to facilitate the second.</p>\n <footer>Nicholas Bate<cite> <a href=\"https://blog.strategicedge.co.uk/2021/04/just-one-thing-97-of-101.html\">https://blog.strategicedge.co.uk/2021/04/just-one-thing-97-of-101.html</a></cite></footer>\n</blockquote><script src=\"https://micro.blog/quoteback.js\"></script>\n",
+				"date_published": "2021-04-28T07:38:53+02:00",
+				"url": "https://jeroensangers.com/2021/04/28/what-we-believe.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2021/04/27/currently-reading-work.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780241187210\">Work Simply: Embracing the Power of Your Personal Productivity Style</a> by Carson Tate 📚</p>\n",
+				"content_text": "Currently reading: [Work Simply: Embracing the Power of Your Personal Productivity Style](https://micro.blog/books/9780241187210) by Carson Tate 📚\n",
+				"date_published": "2021-04-27T18:24:39+02:00",
+				"url": "https://jeroensangers.com/2021/04/27/currently-reading-work.html",
+				"tags": ["Reading"]
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2021/04/27/note-for-remote.html",
+				
+				"content_html": "<p>Note for remote workers: working from home is not the same as living at work. Fix your boundaries!</p>\n",
+				"content_text": "Note for remote workers: working from home is not the same as living at work. Fix your boundaries!\n",
+				"date_published": "2021-04-27T15:39:44+02:00",
+				"url": "https://jeroensangers.com/2021/04/27/note-for-remote.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2021/04/27/an-interesting-metric.html",
+				
+				"content_html": "<p>An interesting metric to evaluate email campaigns: Risk</p>\n\n<p><blockquote class=\"quoteback\" darkmode=\"\" data-title=\"Going Beyond Unsubscribe Rates: A New Metric to Evaluate Email List Health\" data-author=\"Aztek\" cite=\"https://www.aztekweb.com/blog/post/looking-beyond-unsubscribes/\">\n<p>We measure email&nbsp;<em>risk</em>, in its most basic iteration, by dividing the number of unsubscribes by the number of clicks for each individual email campaign.</p>\n<p><em>Total Number of Opt-Outs</em>&nbsp;/&nbsp;<em>Unique Clicks</em>&nbsp;=&nbsp;<strong><em>Risk</em></strong></p>\n<p>This is the most basic and broadly applicable version of this metric but, in a few moments, we’ll discuss ways you can tailor it to fit your specific program.</p>\n<footer>Aztek<cite> <a href=\"https://www.aztekweb.com/blog/post/looking-beyond-unsubscribes/\">https://www.aztekweb.com/blog/post/looking-beyond-unsubscribes/</a></cite></footer>\n</blockquote><script src=\"https://micro.blog/quoteback.js\"></script></p>\n",
+				"content_text": "An interesting metric to evaluate email campaigns: Risk\n\n<blockquote class=\"quoteback\" darkmode=\"\" data-title=\"Going Beyond Unsubscribe Rates: A New Metric to Evaluate Email List Health\" data-author=\"Aztek\" cite=\"https://www.aztekweb.com/blog/post/looking-beyond-unsubscribes/\">\n<p>We measure email&nbsp;<em>risk</em>, in its most basic iteration, by dividing the number of unsubscribes by the number of clicks for each individual email campaign.</p>\n<p><em>Total Number of Opt-Outs</em>&nbsp;/&nbsp;<em>Unique Clicks</em>&nbsp;=&nbsp;<strong><em>Risk</em></strong></p>\n<p>This is the most basic and broadly applicable version of this metric but, in a few moments, we’ll discuss ways you can tailor it to fit your specific program.</p>\n<footer>Aztek<cite> <a href=\"https://www.aztekweb.com/blog/post/looking-beyond-unsubscribes/\">https://www.aztekweb.com/blog/post/looking-beyond-unsubscribes/</a></cite></footer>\n</blockquote><script src=\"https://micro.blog/quoteback.js\"></script>\n",
+				"date_published": "2021-04-27T15:34:28+02:00",
+				"url": "https://jeroensangers.com/2021/04/27/an-interesting-metric.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2021/04/26/this-week-im.html",
+				
+				"content_html": "<p>This week I’m ditching ActiveCampaign and moving my newsletter to Squarespace.</p>\n\n<p>I want to simplify my setup, eliminate most of the marketing automations, use a design that resembles my <a href=\"https://canasto.es\">website</a>, pay a third of the price and put a bigger focus on my writing.</p>\n",
+				"content_text": "This week I’m ditching ActiveCampaign and moving my newsletter to Squarespace.\n\nI want to simplify my setup, eliminate most of the marketing automations, use a design that resembles my [website](https://canasto.es), pay a third of the price and put a bigger focus on my writing.\n",
+				"date_published": "2021-04-26T20:22:23+02:00",
+				"url": "https://jeroensangers.com/2021/04/26/this-week-im.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2021/04/26/finished-reading-essentialism.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780804137386\">Essentialism: The Disciplined Pursuit of Less</a> by Greg McKeown 📚</p>\n",
+				"content_text": "Finished reading: [Essentialism: The Disciplined Pursuit of Less](https://micro.blog/books/9780804137386) by Greg McKeown 📚\n",
+				"date_published": "2021-04-26T07:44:52+02:00",
+				"url": "https://jeroensangers.com/2021/04/26/finished-reading-essentialism.html",
+				"tags": ["Reading"]
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2021/04/25/some-interesting-insights.html",
+				
+				"content_html": "<p>Some interesting insights into the consequences of the jump to “remote work” in many organizations:</p>\n\n<p><blockquote class=\"quoteback\" darkmode=\"\" data-title=\"The Next Great Disruption Is Hybrid Work—Are We Ready?\" data-author=\"Microsoft Worklab\" cite=\"https://www.microsoft.com/en-us/worklab/work-trend-index/hybrid-work\">\nWith over 40 percent of the global workforce considering leaving their employer this year, a thoughtful approach to hybrid work will be critical for attracting and retaining diverse talent. To help organizations through the transition, the 2021 Work Trend Index outlines findings from a study of more than 30,000 people in 31 countries and an analysis of trillions of productivity and labor signals across Microsoft 365 and LinkedIn. It also includes perspectives from experts who have spent decades studying collaboration, social capital, and space design at work for decades.\n<footer>Microsoft Worklab<cite> <a href=\"https://www.microsoft.com/en-us/worklab/work-trend-index/hybrid-work\">https://www.microsoft.com/en-us/worklab/work-trend-index/hybrid-work</a></cite></footer>\n</blockquote><script src=\"https://micro.blog/quoteback.js\"></script></p>\n",
+				"content_text": "Some interesting insights into the consequences of the jump to “remote work” in many organizations:\n\n<blockquote class=\"quoteback\" darkmode=\"\" data-title=\"The Next Great Disruption Is Hybrid Work—Are We Ready?\" data-author=\"Microsoft Worklab\" cite=\"https://www.microsoft.com/en-us/worklab/work-trend-index/hybrid-work\">\nWith over 40 percent of the global workforce considering leaving their employer this year, a thoughtful approach to hybrid work will be critical for attracting and retaining diverse talent. To help organizations through the transition, the 2021 Work Trend Index outlines findings from a study of more than 30,000 people in 31 countries and an analysis of trillions of productivity and labor signals across Microsoft 365 and LinkedIn. It also includes perspectives from experts who have spent decades studying collaboration, social capital, and space design at work for decades.\n<footer>Microsoft Worklab<cite> <a href=\"https://www.microsoft.com/en-us/worklab/work-trend-index/hybrid-work\">https://www.microsoft.com/en-us/worklab/work-trend-index/hybrid-work</a></cite></footer>\n</blockquote><script src=\"https://micro.blog/quoteback.js\"></script>\n",
+				"date_published": "2021-04-25T11:20:53+02:00",
+				"url": "https://jeroensangers.com/2021/04/25/some-interesting-insights.html",
+				"tags": ["Quotes"]
+			},
+			{
 				"id": "http://JeroenSangers.micro.blog/2021/04/24/this-is-how.html",
 				
 				"content_html": "<p>This is how you buy things.</p>\n\n<p><blockquote class=\"quoteback\" darkmode=\"\" data-title=\"I bought a sauna\" data-author=\"Jason Fried\" cite=\"https://world.hey.com/jason/i-bought-a-sauna-30088f7d\">\nDid I comparison shop? Nope. Ask around? Nada.<br>There&rsquo;s no buyer&rsquo;s remorse when you just don&rsquo;t want to know.\n<footer>Jason Fried<cite> <a href=\"https://world.hey.com/jason/i-bought-a-sauna-30088f7d\">https://world.hey.com/jason/i-bought-a-sauna-30088f7d</a></cite></footer>\n</blockquote><script src=\"https://micro.blog/quoteback.js\"></script></p>\n",
