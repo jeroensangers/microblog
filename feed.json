@@ -7,6 +7,46 @@
 	"items": [
 		
 			{
+				"id": "http://JeroenSangers.micro.blog/2021/06/03/i-dont-know.html",
+				
+				"content_html": "<p>I don&rsquo;t know when they added the ‘smart suggestions’ feature to <a href=\"https://setapp.com/\">Setapp</a>, but it should be disabled by default. I don&rsquo;t expect an app store to be monitoring how I use my computer in order to promote new applications.</p>\n\n<p><a href=\"https://support.setapp.com/hc/en-us/articles/360018513760-Recommendations-in-Setapp-notifications-with-smart-suggestions-Tips-for-you-and-others#h_01EZ7R6WN70V0QCTT2G4XCVPD3\">This is how you switch them off</a>.</p>\n",
+				"content_text": "I don't know when they added the ‘smart suggestions’ feature to [Setapp](https://setapp.com/), but it should be disabled by default. I don't expect an app store to be monitoring how I use my computer in order to promote new applications.\r\n\r\n[This is how you switch them off](https://support.setapp.com/hc/en-us/articles/360018513760-Recommendations-in-Setapp-notifications-with-smart-suggestions-Tips-for-you-and-others#h_01EZ7R6WN70V0QCTT2G4XCVPD3).\n",
+				"date_published": "2021-06-03T16:07:40+02:00",
+				"url": "https://jeroensangers.com/2021/06/03/i-dont-know.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2021/06/02/yesterday-i-finally.html",
+				
+				"content_html": "<p>Yesterday I finally did something I should done several years ago: spring cleaning my personal effectiveness blog <a href=\"https://canasto.es\">El Canasto</a>.</p>\n\n<ul>\n<li>I removed several ancient landing pages.</li>\n<li>I updated the <a href=\"https://canasto.es/aviso-legal\">privacy policy</a>.</li>\n<li>I created a brand new <a href=\"https://canasto.es/acerca\">About</a> page.</li>\n<li>I set up a (still unpublished) page for an upcoming podcast.</li>\n<li>I added the obligatory GDPR disclaimer to several forms.</li>\n<li>I removed a dysfunctional piece of JavaScript from the header code.</li>\n</ul>\n\n<p>Now, let’s get back to creating and publishing content.</p>\n",
+				"content_text": "Yesterday I finally did something I should done several years ago: spring cleaning my personal effectiveness blog [El Canasto](https://canasto.es).\n\n* I removed several ancient landing pages.\n* I updated the [privacy policy](https://canasto.es/aviso-legal).\n* I created a brand new [About](https://canasto.es/acerca) page.\n* I set up a (still unpublished) page for an upcoming podcast.\n* I added the obligatory GDPR disclaimer to several forms.\n* I removed a dysfunctional piece of JavaScript from the header code.\n\nNow, let’s get back to creating and publishing content.\n",
+				"date_published": "2021-06-02T08:03:00+02:00",
+				"url": "https://jeroensangers.com/2021/06/02/yesterday-i-finally.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2021/05/31/the-benefits-of.html",
+				
+				"content_html": "<p><a href=\"https://youtube.com/watch?v=xT8M90RMsYY\">The benefits of choosing a platform over disconnected devices</a></p>\n\n<p>I love all these features and use them every day.</p>\n",
+				"content_text": "[The benefits of choosing a platform over disconnected devices](https://youtube.com/watch?v=xT8M90RMsYY)\n\nI love all these features and use them every day.\n",
+				"date_published": "2021-05-31T16:09:36+02:00",
+				"url": "https://jeroensangers.com/2021/05/31/the-benefits-of.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2021/05/29/my-current-home.html",
+				"title": "My current home screen",
+				"content_html": "<p>This is the current widget-only Home Screen of my iPhone 7:</p>\n\n<p><img src=\"uploads/2021/c2f7b444b7.png\" width=\"337\" height=\"600\" alt=\"iPhone home screen\" /></p>\n\n<p>Widget stack:</p>\n\n<ul>\n<li>Weather</li>\n<li>Calendar</li>\n<li>Siri suggestions</li>\n<li>Photos</li>\n<li>Maps</li>\n</ul>\n\n<p>Followed by two more Siri suggestions widgets. I basically let the iPhone decide which apps to show me at any moment and have to admit that it is amazing. 99% of the time the app I want to use is already on the home screen.</p>\n\n<p>In the dock I have three apps I use for capturing information (YNAB for expenses, Roam Research quick capture for ideas and SkedPal 3 for tasks) as well as a folder with some handy shortcuts).</p>\n",
+				"content_text": "This is the current widget-only Home Screen of my iPhone 7:\n\n<img src=\"uploads/2021/c2f7b444b7.png\" width=\"337\" height=\"600\" alt=\"iPhone home screen\" />\n\nWidget stack:\n\n* Weather\n* Calendar\n* Siri suggestions\n* Photos\n* Maps\n\nFollowed by two more Siri suggestions widgets. I basically let the iPhone decide which apps to show me at any moment and have to admit that it is amazing. 99% of the time the app I want to use is already on the home screen.\n\nIn the dock I have three apps I use for capturing information (YNAB for expenses, Roam Research quick capture for ideas and SkedPal 3 for tasks) as well as a folder with some handy shortcuts).\n",
+				"date_published": "2021-05-29T18:18:32+02:00",
+				"url": "https://jeroensangers.com/2021/05/29/my-current-home.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2021/05/29/i-just-created.html",
+				
+				"content_html": "<p>I just created an account at an online store and immediately received a confirmation email including my username and password in plain text!</p>\n\n<p>Right away I lowered my expectations on privacy, support and quality.</p>\n",
+				"content_text": "I just created an account at an online store and immediately received a confirmation email including my username and password in plain text!\n\nRight away I lowered my expectations on privacy, support and quality.\n",
+				"date_published": "2021-05-29T13:15:55+02:00",
+				"url": "https://jeroensangers.com/2021/05/29/i-just-created.html"
+			},
+			{
 				"id": "http://JeroenSangers.micro.blog/2021/05/27/today-i-received.html",
 				
 				"content_html": "<p>Today I received my <a href=\"https://www.rode.com/accessories/vxlrplus\">RØDE VXLR+</a>, a small device to connect my lavelier mic to my audio interface. The VXLR+ converts the 48V phantom power provided by the audio interface into 3–5V needed by my lavelier mic.</p>\n\n<p>Until now I always used my lavelier mic with my phone, but for a while I’ve wanted to connect it to my computer, so I have more freedom of movement when doing my online workshops.</p>\n\n<p>However, my first attempt to use the VXLR+ was a failure since as soon as I connected it to the interface it generated a lot of noise.</p>\n\n<p>Today I didn’t have a lot of time to investigate, but tomorrow I want to try out a few things before deciding whether to return it.</p>\n",
@@ -261,8 +301,8 @@
 			{
 				"id": "http://JeroenSangers.micro.blog/2021/04/05/puiggrs.html",
 				
-				"content_html": "<p>📷 Puiggròs 🚶‍♂️</p>\n\n<p><img src=\"uploads/2021/f6e2857bc8.jpg\" width=\"600\" height=\"450\" alt=\"Puiggròs\" /></p>\n\n<p><img src=\"uploads/2021/6a8696e4f2.jpg\" width=\"600\" height=\"450\" alt=\"Ruins near Puiggròs\" /></p>\n",
-				"content_text": "📷 Puiggròs 🚶‍♂️\n\n<img src=\"uploads/2021/f6e2857bc8.jpg\" width=\"600\" height=\"450\" alt=\"Puiggròs\" />\n\n<img src=\"uploads/2021/6a8696e4f2.jpg\" width=\"600\" height=\"450\" alt=\"Ruins near Puiggròs\" />\n",
+				"content_html": "<p>📷 Puiggròs 🚶‍♂️</p>\n\n<p><img src=\"https://jeroensangers.com/uploads/2021/f6e2857bc8.jpg\" width=\"600\" height=\"450\" alt=\"Puiggròs\" /></p>\n\n<p><img src=\"https://jeroensangers.com/uploads/2021/6a8696e4f2.jpg\" width=\"600\" height=\"450\" alt=\"Ruins near Puiggròs\" /></p>\n",
+				"content_text": "📷 Puiggròs 🚶‍♂️\n\n<img src=\"https://jeroensangers.com/uploads/2021/f6e2857bc8.jpg\" width=\"600\" height=\"450\" alt=\"Puiggròs\" />\n\n<img src=\"https://jeroensangers.com/uploads/2021/6a8696e4f2.jpg\" width=\"600\" height=\"450\" alt=\"Ruins near Puiggròs\" />\n",
 				"date_published": "2021-04-05T18:36:00+02:00",
 				"url": "https://jeroensangers.com/2021/04/05/puiggrs.html"
 			},
