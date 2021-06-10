@@ -7,6 +7,55 @@
 	"items": [
 		
 			{
+				"id": "http://JeroenSangers.micro.blog/2021/06/10/updating-older-apple.html",
+				"title": "Updating older Apple devices",
+				"content_html": "<p>All my Apple devices are relatively old. My philosophy is to use them as long as I reasonably can.</p>\n\n<p>This also means that usually after the WWDC I only have one burning question: will I be able to update my devices?</p>\n\n<p>Last year, Apple did not include my late 2013 iMac in the list, so it still runs Catalina (not an issue so far).</p>\n\n<p>This year there will be no casualties.</p>\n\n<p>I will be able to update my iPhone 7; even the 6S is still supported so it looks like I will be able to reach the 6 year usage target.</p>\n\n<p>Also my iPad Air 2 is updatable, even though it is tha last device on the list so this will probably be the last update.</p>\n\n<p>Historically there has been a lot of talk about Apple’s planned obsolescence and even though the devices are hard to service by third-parties, six years of OS updates is very good.</p>\n",
+				"content_text": "All my Apple devices are relatively old. My philosophy is to use them as long as I reasonably can.\n\nThis also means that usually after the WWDC I only have one burning question: will I be able to update my devices?\n\nLast year, Apple did not include my late 2013 iMac in the list, so it still runs Catalina (not an issue so far).\n\nThis year there will be no casualties.\n\nI will be able to update my iPhone 7; even the 6S is still supported so it looks like I will be able to reach the 6 year usage target.\n\nAlso my iPad Air 2 is updatable, even though it is tha last device on the list so this will probably be the last update.\n\nHistorically there has been a lot of talk about Apple’s planned obsolescence and even though the devices are hard to service by third-parties, six years of OS updates is very good.\n",
+				"date_published": "2021-06-10T23:29:06+02:00",
+				"url": "https://jeroensangers.com/2021/06/10/updating-older-apple.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2021/06/10/if-you-spend.html",
+				
+				"content_html": "<p>If you spend more time chatting with people you don’t know than talking with the persons around you, you’ve got a problem.</p>\n",
+				"content_text": "If you spend more time chatting with people you don’t know than talking with the persons around you, you’ve got a problem.\n",
+				"date_published": "2021-06-10T13:14:48+02:00",
+				"url": "https://jeroensangers.com/2021/06/10/if-you-spend.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2021/06/10/finished-reading-work.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780241187210\">Work Simply: Embracing the Power of Your Personal Productivity Style</a> by Carson Tate 📚</p>\n\n<p>When reading this book I felt like I was ready two books simultaneously: a mediocre book about personal productivity and a great book about personalizing your own productivity system based on your psychology.</p>\n",
+				"content_text": "Finished reading: [Work Simply: Embracing the Power of Your Personal Productivity Style](https://micro.blog/books/9780241187210) by Carson Tate 📚\n\nWhen reading this book I felt like I was ready two books simultaneously: a mediocre book about personal productivity and a great book about personalizing your own productivity system based on your psychology.\n",
+				"date_published": "2021-06-10T09:27:55+02:00",
+				"url": "https://jeroensangers.com/2021/06/10/finished-reading-work.html",
+				"tags": ["Reading"]
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2021/06/08/i-was-hoping.html",
+				
+				"content_html": "<p>I was <a href=\"https://jeroensangers.com/2021/05/25/wwdc-is-getting.html\">hoping</a> Apple would announce a bigger iMac at the WWDC. They did not.</p>\n\n<p>Now I have to decide which color of the 24” iMac I prefer.</p>\n",
+				"content_text": "I was [hoping](https://jeroensangers.com/2021/05/25/wwdc-is-getting.html) Apple would announce a bigger iMac at the WWDC. They did not.\n\nNow I have to decide which color of the 24” iMac I prefer.\n",
+				"date_published": "2021-06-08T07:44:00+02:00",
+				"url": "https://jeroensangers.com/2021/06/08/i-was-hoping.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2021/06/07/there-is-nothing.html",
+				
+				"content_html": "<p>There is nothing more productive than finishing a 90 minute personal effectiveness workshop in 60 minutes.</p>\n\n<p>Under promise and over deliver…</p>\n",
+				"content_text": "There is nothing more productive than finishing a 90 minute personal effectiveness workshop in 60 minutes.\n\nUnder promise and over deliver…\n",
+				"date_published": "2021-06-07T11:26:39+02:00",
+				"url": "https://jeroensangers.com/2021/06/07/there-is-nothing.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2021/06/06/i-feel-like.html",
+				
+				"content_html": "<p>I feel like I should write more on my blog.\nBut whenever I sit down to write, I don’t know what to write about.\nAnd whenever I have interesting stuff going on in my life, I am to busy doing the stuff, so I end up not writing about it.</p>\n",
+				"content_text": "I feel like I should write more on my blog.\nBut whenever I sit down to write, I don’t know what to write about.\nAnd whenever I have interesting stuff going on in my life, I am to busy doing the stuff, so I end up not writing about it.\n",
+				"date_published": "2021-06-06T20:52:42+02:00",
+				"url": "https://jeroensangers.com/2021/06/06/i-feel-like.html"
+			},
+			{
 				"id": "http://JeroenSangers.micro.blog/2021/06/03/i-dont-know.html",
 				
 				"content_html": "<p>I don&rsquo;t know when they added the ‘smart suggestions’ feature to <a href=\"https://setapp.com/\">Setapp</a>, but it should be disabled by default. I don&rsquo;t expect an app store to be monitoring how I use my computer in order to promote new applications.</p>\n\n<p><a href=\"https://support.setapp.com/hc/en-us/articles/360018513760-Recommendations-in-Setapp-notifications-with-smart-suggestions-Tips-for-you-and-others#h_01EZ7R6WN70V0QCTT2G4XCVPD3\">This is how you switch them off</a>.</p>\n",
@@ -65,9 +114,9 @@
 			{
 				"id": "http://JeroenSangers.micro.blog/2021/05/25/wwdc-is-getting.html",
 				
-				"content_html": "<p>WWDC is getting closer. Since I&rsquo;m not a developer, the only question interesting me right now is whether they will announce a new pro-level iMac.</p>\n\n<p>I really need a replacement for my current machine (2013 iMac), since I run into too many issues processing the audio and video sources for my remote workshops. I would have bought the M1 iMac right away if WWDC wouldn&rsquo;t be so close.</p>\n\n<p>Anyway, I&rsquo;ll wait until  June 7 tu make my purchase decision.</p>\n",
-				"content_text": "WWDC is getting closer. Since I'm not a developer, the only question interesting me right now is whether they will announce a new pro-level iMac.\r\n\r\nI really need a replacement for my current machine (2013 iMac), since I run into too many issues processing the audio and video sources for my remote workshops. I would have bought the M1 iMac right away if WWDC wouldn't be so close.\r\n\r\nAnyway, I'll wait until  June 7 tu make my purchase decision.\n",
-				"date_published": "2021-05-25T18:33:01+02:00",
+				"content_html": "<p>WWDC is getting closer. Since I&rsquo;m not a developer, the only question interesting me right now is whether they will announce a new pro-level iMac.</p>\n\n<p>I really need a replacement for my current machine (2013 iMac), since I run into too many issues processing the audio and video sources for my remote workshops. I would have bought the M1 iMac right away if WWDC wouldn&rsquo;t be so close.</p>\n\n<p>Anyway, I&rsquo;ll wait until  June 7 to make my purchase decision.</p>\n",
+				"content_text": "WWDC is getting closer. Since I'm not a developer, the only question interesting me right now is whether they will announce a new pro-level iMac.\n\nI really need a replacement for my current machine (2013 iMac), since I run into too many issues processing the audio and video sources for my remote workshops. I would have bought the M1 iMac right away if WWDC wouldn't be so close.\n\nAnyway, I'll wait until  June 7 to make my purchase decision.\n",
+				"date_published": "2021-05-25T18:33:00+02:00",
 				"url": "https://jeroensangers.com/2021/05/25/wwdc-is-getting.html"
 			},
 			{
