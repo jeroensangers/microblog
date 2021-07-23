@@ -7,6 +7,32 @@
 	"items": [
 		
 			{
+				"id": "http://JeroenSangers.micro.blog/2021/07/23/much-time-management.html",
+				
+				"content_html": "<p><blockquote class=\"quoteback\" darkmode=\"\" data-title=\"Atoms are small\" data-author=\"Nicholas Bate\" cite=\"https://blog.strategicedge.co.uk/2021/07/atoms-are-small.html\">\nMuch time management and <strong>getting things done</strong> is not about time: it&rsquo;s about scale.\n<footer>Nicholas Bate<cite> <a href=\"https://blog.strategicedge.co.uk/2021/07/atoms-are-small.html\">https://blog.strategicedge.co.uk/2021/07/atoms-are-small.html</a></cite></footer>\n</blockquote><script note=\"\" src=\"https://micro.blog/quoteback.js\"></script></p>\n",
+				"content_text": "<blockquote class=\"quoteback\" darkmode=\"\" data-title=\"Atoms are small\" data-author=\"Nicholas Bate\" cite=\"https://blog.strategicedge.co.uk/2021/07/atoms-are-small.html\">\nMuch time management and <strong>getting things done</strong> is not about time: it's about scale.\n<footer>Nicholas Bate<cite> <a href=\"https://blog.strategicedge.co.uk/2021/07/atoms-are-small.html\">https://blog.strategicedge.co.uk/2021/07/atoms-are-small.html</a></cite></footer>\n</blockquote><script note=\"\" src=\"https://micro.blog/quoteback.js\"></script>\n",
+				"date_published": "2021-07-23T21:22:23+02:00",
+				"url": "https://jeroensangers.com/2021/07/23/much-time-management.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2021/07/21/home-sweet-home.html",
+				
+				"content_html": "<p>Home, sweet home 📷</p>\n\n<p><img src=\"uploads/2021/15f57349ec.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Home, sweet home 📷\n\n<img src=\"uploads/2021/15f57349ec.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-07-21T12:22:13+02:00",
+				"url": "https://jeroensangers.com/2021/07/21/home-sweet-home.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2021/07/20/this-caught-my.html",
+				
+				"content_html": "<p>This caught my attention:</p>\n\n<p><blockquote class=\"quoteback\" darkmode=\"\" data-title=\"Sometimes, paying attention means we see the world less clearly | Psyche Ideas\" data-author=\"Henry Taylor\" cite=\"https://psyche.co/ideas/sometimes-paying-attention-means-we-see-the-world-less-clearly\">\nTaken as a whole, these results suggest that, sometimes, attention can mislead us about the world. This is not to say that attention <em>always</em> distorts our knowledge of the world, but it does suggest that it might not be the unproblematic guide to knowledge that we originally thought.\n<footer>Henry Taylor<cite> <a href=\"https://psyche.co/ideas/sometimes-paying-attention-means-we-see-the-world-less-clearly\">https://psyche.co/ideas/sometimes-paying-attention-means-we-see-the-world-less-clearly</a></cite></footer>\n</blockquote><script note=\"\" src=\"https://micro.blog/quoteback.js\"></script></p>\n",
+				"content_text": "This caught my attention:\n\n<blockquote class=\"quoteback\" darkmode=\"\" data-title=\"Sometimes, paying attention means we see the world less clearly | Psyche Ideas\" data-author=\"Henry Taylor\" cite=\"https://psyche.co/ideas/sometimes-paying-attention-means-we-see-the-world-less-clearly\">\nTaken as a whole, these results suggest that, sometimes, attention can mislead us about the world. This is not to say that attention <em>always</em> distorts our knowledge of the world, but it does suggest that it might not be the unproblematic guide to knowledge that we originally thought.\n<footer>Henry Taylor<cite> <a href=\"https://psyche.co/ideas/sometimes-paying-attention-means-we-see-the-world-less-clearly\">https://psyche.co/ideas/sometimes-paying-attention-means-we-see-the-world-less-clearly</a></cite></footer>\n</blockquote><script note=\"\" src=\"https://micro.blog/quoteback.js\"></script>\n",
+				"date_published": "2021-07-20T00:19:39+02:00",
+				"url": "https://jeroensangers.com/2021/07/20/this-caught-my.html",
+				"tags": ["Quotes"]
+			},
+			{
 				"id": "http://JeroenSangers.micro.blog/2021/07/14/something-i-observed.html",
 				
 				"content_html": "<p>Something I observed on my vacation: The Netherlands are quickly becoming a cashless society. Many places don’t ask how you want to pay and immediately pass you the credit card terminal.</p>\n",
