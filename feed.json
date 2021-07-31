@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://JeroenSangers.micro.blog/2021/07/31/after-the-storm.html",
+				
+				"content_html": "<p>📷 After the storm</p>\n\n<p><img src=\"uploads/2021/e39a71e9f1.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "📷 After the storm\n\n<img src=\"uploads/2021/e39a71e9f1.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-07-31T21:35:43+02:00",
+				"url": "https://jeroensangers.com/2021/07/31/after-the-storm.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2021/07/28/luxury-is-an.html",
+				
+				"content_html": "<p>📷 Luxury is… finding an empty beach in July 🏖</p>\n\n<p><img src=\"uploads/2021/ea3bf460bf.jpg\" width=\"600\" height=\"450\" alt=\"Torredembarra\" /></p>\n",
+				"content_text": "📷 Luxury is… finding an empty beach in July 🏖 \n\n<img src=\"uploads/2021/ea3bf460bf.jpg\" width=\"600\" height=\"450\" alt=\"Torredembarra\" />\n",
+				"date_published": "2021-07-28T14:39:01+02:00",
+				"url": "https://jeroensangers.com/2021/07/28/luxury-is-an.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2021/07/27/how-we-make.html",
+				
+				"content_html": "<p>How we make decisions:</p>\n\n<p><blockquote class=\"quoteback\" darkmode=\"\" data-title=\"Narrative and feelings\" data-author=\"Seth Godin\" cite=\"https://seths.blog/2021/07/narrative-and-feelings/\">\nWe like to think we make complicated decisions based on rational analysis, but most of the time, we actually make an emotional decision and then invent a rational analysis to justify it.\n<footer>Seth Godin<cite> <a href=\"https://seths.blog/2021/07/narrative-and-feelings/\">https://seths.blog/2021/07/narrative-and-feelings/</a></cite></footer>\n</blockquote><script note=\"\" src=\"https://micro.blog/quoteback.js\"></script></p>\n",
+				"content_text": "How we make decisions:\n\n<blockquote class=\"quoteback\" darkmode=\"\" data-title=\"Narrative and feelings\" data-author=\"Seth Godin\" cite=\"https://seths.blog/2021/07/narrative-and-feelings/\">\nWe like to think we make complicated decisions based on rational analysis, but most of the time, we actually make an emotional decision and then invent a rational analysis to justify it.\n<footer>Seth Godin<cite> <a href=\"https://seths.blog/2021/07/narrative-and-feelings/\">https://seths.blog/2021/07/narrative-and-feelings/</a></cite></footer>\n</blockquote><script note=\"\" src=\"https://micro.blog/quoteback.js\"></script>\n",
+				"date_published": "2021-07-27T15:34:30+02:00",
+				"url": "https://jeroensangers.com/2021/07/27/how-we-make.html",
+				"tags": ["Quotes"]
+			},
+			{
 				"id": "http://JeroenSangers.micro.blog/2021/07/23/much-time-management.html",
 				
 				"content_html": "<p><blockquote class=\"quoteback\" darkmode=\"\" data-title=\"Atoms are small\" data-author=\"Nicholas Bate\" cite=\"https://blog.strategicedge.co.uk/2021/07/atoms-are-small.html\">\nMuch time management and <strong>getting things done</strong> is not about time: it&rsquo;s about scale.\n<footer>Nicholas Bate<cite> <a href=\"https://blog.strategicedge.co.uk/2021/07/atoms-are-small.html\">https://blog.strategicedge.co.uk/2021/07/atoms-are-small.html</a></cite></footer>\n</blockquote><script note=\"\" src=\"https://micro.blog/quoteback.js\"></script></p>\n",
