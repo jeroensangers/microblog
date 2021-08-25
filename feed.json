@@ -7,6 +7,64 @@
 	"items": [
 		
 			{
+				"id": "http://JeroenSangers.micro.blog/2021/08/24/i-often-wish.html",
+				
+				"content_html": "<p>I often wish other people kept a list of all the tools they’re currently using for daily work, so <a href=\"https://jeroensangers.com/tools/\">here</a>’s mine.</p>\n",
+				"content_text": "I often wish other people kept a list of all the tools they’re currently using for daily work, so [here](https://jeroensangers.com/tools/)’s mine.\n",
+				"date_published": "2021-08-24T18:33:23+02:00",
+				"url": "https://jeroensangers.com/2021/08/24/i-often-wish.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2021/08/24/to-bring-some.html",
+				
+				"content_html": "<p>To bring some more variation in our evening leisure activities, I bought the <a href=\"https://stonemaiergames.com/games/wingspan/\">Wingspan</a> board game.</p>\n\n<p>We haven’t played it yet, but the box, design and materials look exquisite.</p>\n",
+				"content_text": "To bring some more variation in our evening leisure activities, I bought the [Wingspan](https://stonemaiergames.com/games/wingspan/) board game.\n\nWe haven’t played it yet, but the box, design and materials look exquisite.\n",
+				"date_published": "2021-08-24T12:22:10+02:00",
+				"url": "https://jeroensangers.com/2021/08/24/to-bring-some.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2021/08/23/after-a-few.html",
+				
+				"content_html": "<p>After a few years without using it, today I opened the <a href=\"https://keybase.io/\">Keybase</a> app again.</p>\n\n<p>Digging around in the settings I found that there is a wallet inside the app, with over 1.000 <a href=\"https://www.stellar.org/lumens\">Stellar Lumen</a> (a crypto currency) in it. I vaguely remember having received those for free in the <a href=\"https://medium.com/stellar-community/so-you-just-got-your-keybase-spacedrop-what-now-2398fa160d19\">Keybase Spacedrop</a>.</p>\n\n<p>The biggest surprise is the current value of those lumen is arround 330€. Now, let&rsquo;s see how I can spend that free money…</p>\n\n<p><img src=\"uploads/2021/f2eadcc04b.png\" width=\"250\" height=\"67\" alt=\"Stellar Lumens\" /></p>\n",
+				"content_text": "After a few years without using it, today I opened the [Keybase](https://keybase.io/) app again.\n\nDigging around in the settings I found that there is a wallet inside the app, with over 1.000 [Stellar Lumen](https://www.stellar.org/lumens) (a crypto currency) in it. I vaguely remember having received those for free in the [Keybase Spacedrop](https://medium.com/stellar-community/so-you-just-got-your-keybase-spacedrop-what-now-2398fa160d19).\n\nThe biggest surprise is the current value of those lumen is arround 330€. Now, let's see how I can spend that free money…\n\n<img src=\"uploads/2021/f2eadcc04b.png\" width=\"250\" height=\"67\" alt=\"Stellar Lumens\" />\n",
+				"date_published": "2021-08-23T17:56:00+02:00",
+				"url": "https://jeroensangers.com/2021/08/23/after-a-few.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2021/08/22/many-things-may.html",
+				
+				"content_html": "<blockquote>\n<p>“Many things may be important but only one thing can be the most important.”</p>\n</blockquote>\n\n<p>— Ross Garber</p>\n",
+				"content_text": "> “Many things may be important but only one thing can be the most important.”\n\n— Ross Garber\n",
+				"date_published": "2021-08-22T18:15:00+02:00",
+				"url": "https://jeroensangers.com/2021/08/22/many-things-may.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2021/08/22/im-getting-annoyed.html",
+				
+				"content_html": "<p>I’m getting annoyed by all the silos for tv and movie content. I’d rather have something similar as the music business, where most of the content is available on all services.</p>\n",
+				"content_text": "I’m getting annoyed by all the silos for tv and movie content. I’d rather have something similar as the music business, where most of the content is available on all services.\n",
+				"date_published": "2021-08-22T17:30:00+02:00",
+				"url": "https://jeroensangers.com/2021/08/22/im-getting-annoyed.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2021/08/19/meetings-are-the.html",
+				
+				"content_html": "<p><blockquote class=\"quoteback\" darkmode=\"\" data-title=\"People Who Brag About Being in Back-to-Back Meetings Deeply Misunderstand Productivity\" data-author=\"Tim Denning\" cite=\"https://medium.com/curious/people-who-brag-about-being-in-back-to-back-meetings-deeply-misunderstand-productivity-ed00701d3f69\">\n<div>Meetings are the worst form of productivity. The “doing” gets done outside of meetings. Doing happens when you have time to think.</div><div>Doers schedule thinking.</div>\n<footer>Tim Denning<cite> <a href=\"https://medium.com/curious/people-who-brag-about-being-in-back-to-back-meetings-deeply-misunderstand-productivity-ed00701d3f69\">https://medium.com/curious/people-who-brag-about-being-in-back-to-back-meetings-deeply-misunderstand-productivity-ed00701d3f69</a></cite></footer>\n</blockquote><script note=\"\" src=\"https://micro.blog/quoteback.js\"></script></p>\n\n<p>As Jason Fried once said, meetings should be like salt on a meal.</p>\n",
+				"content_text": "<blockquote class=\"quoteback\" darkmode=\"\" data-title=\"People Who Brag About Being in Back-to-Back Meetings Deeply Misunderstand Productivity\" data-author=\"Tim Denning\" cite=\"https://medium.com/curious/people-who-brag-about-being-in-back-to-back-meetings-deeply-misunderstand-productivity-ed00701d3f69\">\r\n<div>Meetings are the worst form of productivity. The “doing” gets done outside of meetings. Doing happens when you have time to think.</div><div>Doers schedule thinking.</div>\r\n<footer>Tim Denning<cite> <a href=\"https://medium.com/curious/people-who-brag-about-being-in-back-to-back-meetings-deeply-misunderstand-productivity-ed00701d3f69\">https://medium.com/curious/people-who-brag-about-being-in-back-to-back-meetings-deeply-misunderstand-productivity-ed00701d3f69</a></cite></footer>\r\n</blockquote><script note=\"\" src=\"https://micro.blog/quoteback.js\"></script>\r\n\r\nAs Jason Fried once said, meetings should be like salt on a meal.\n",
+				"date_published": "2021-08-19T09:00:36+02:00",
+				"url": "https://jeroensangers.com/2021/08/19/meetings-are-the.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2021/08/18/focus-and-scattterfocus.html",
+				
+				"content_html": "<p>Focus and scattterfocus is all that matters.</p>\n\n<p><blockquote class=\"quoteback\" darkmode=\"\" data-title=\"The difference between time and attention\" data-author=\"Jason Fried\" cite=\"https://world.hey.com/jason/the-difference-between-time-and-attention-bdd955eb\">\nTime and attention aren’t the same thing. They&rsquo;re barely related.\n<footer>Jason Fried<cite> <a href=\"https://world.hey.com/jason/the-difference-between-time-and-attention-bdd955eb\">https://world.hey.com/jason/the-difference-between-time-and-attention-bdd955eb</a></cite></footer>\n</blockquote><script note=\"\" src=\"https://micro.blog/quoteback.js\"></script></p>\n",
+				"content_text": "Focus and scattterfocus is all that matters.\n\n<blockquote class=\"quoteback\" darkmode=\"\" data-title=\"The difference between time and attention\" data-author=\"Jason Fried\" cite=\"https://world.hey.com/jason/the-difference-between-time-and-attention-bdd955eb\">\nTime and attention aren’t the same thing. They're barely related.\n<footer>Jason Fried<cite> <a href=\"https://world.hey.com/jason/the-difference-between-time-and-attention-bdd955eb\">https://world.hey.com/jason/the-difference-between-time-and-attention-bdd955eb</a></cite></footer>\n</blockquote><script note=\"\" src=\"https://micro.blog/quoteback.js\"></script>\n",
+				"date_published": "2021-08-18T07:56:27+02:00",
+				"url": "https://jeroensangers.com/2021/08/18/focus-and-scattterfocus.html",
+				"tags": ["Quotes"]
+			},
+			{
 				"id": "http://JeroenSangers.micro.blog/2021/08/16/this-is-hilarious.html",
 				
 				"content_html": "<p>This is hilarious. <a href=\"https://www.youtube.com/watch?v=iXT2E9Ccc8A\">Salvador Dali participating in a tv game show</a>.</p>\n\n<p>Yes!</p>\n",
@@ -176,8 +234,8 @@
 			{
 				"id": "http://JeroenSangers.micro.blog/2021/06/28/donostio-now-that.html",
 				
-				"content_html": "<p>📷 <strong>Donostia</strong></p>\n\n<p>Now that was a wonderful weekend full of music, art, spectacular landscapes, friendship and great food.</p>\n\n<p><img src=\"uploads/2021/4e132bed99.jpg\" width=\"600\" height=\"450\" alt=\"The Comb of the Wind\" /></p>\n",
-				"content_text": "📷 **Donostia**\n\nNow that was a wonderful weekend full of music, art, spectacular landscapes, friendship and great food.\n\n<img src=\"uploads/2021/4e132bed99.jpg\" width=\"600\" height=\"450\" alt=\"The Comb of the Wind\" />\n",
+				"content_html": "<p>📷 <strong>Donostia</strong></p>\n\n<p>Now that was a wonderful weekend full of music, art, spectacular landscapes, friendship and great food.</p>\n\n<p><img src=\"https://jeroensangers.com/uploads/2021/4e132bed99.jpg\" width=\"600\" height=\"450\" alt=\"The Comb of the Wind\" /></p>\n",
+				"content_text": "📷 **Donostia**\n\nNow that was a wonderful weekend full of music, art, spectacular landscapes, friendship and great food.\n\n<img src=\"https://jeroensangers.com/uploads/2021/4e132bed99.jpg\" width=\"600\" height=\"450\" alt=\"The Comb of the Wind\" />\n",
 				"date_published": "2021-06-28T12:18:00+02:00",
 				"url": "https://jeroensangers.com/2021/06/28/donostio-now-that.html"
 			},
