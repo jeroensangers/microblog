@@ -7,6 +7,47 @@
 	"items": [
 		
 			{
+				"id": "http://JeroenSangers.micro.blog/2021/09/01/i-requested-an.html",
+				
+				"content_html": "<p>I requested an archive of my data from Twitter. Right now I am downloading all 691 MB of it. I am very curious to go through it and may even transfer some old tweets to my blog.</p>\n",
+				"content_text": "I requested an archive of my data from Twitter. Right now I am downloading all 691 MB of it. I am very curious to go through it and may even transfer some old tweets to my blog.\n",
+				"date_published": "2021-09-01T12:51:04+02:00",
+				"url": "https://jeroensangers.com/2021/09/01/i-requested-an.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2021/08/31/call-me-crazy.html",
+				
+				"content_html": "<p>Call me crazy, but today I bought <a href=\"https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/98032760087024285144337006264809211787368425690529693231919975349189039095809\">my first NFT</a>:</p>\n\n<p><nft-card\n    contractAddress=\"0x495f947276749ce646f68ac8c248420045cb7b5e\"\n    tokenId=\"98032760087024285144337006264809211787368425690529693231919975349189039095809\">\n</nft-card>\n<script src=\"https://unpkg.com/embeddable-nfts/dist/nft-card.min.js\"></script></p>\n\n<p>It&rsquo;s probably wasted (crypto)money, but I just wanted to explore this phenomenon… Furthermore, who doesn&rsquo;t want to own and old screenshot of the 1997 WinZip.com home page?</p>\n",
+				"content_text": "Call me crazy, but today I bought [my first NFT](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/98032760087024285144337006264809211787368425690529693231919975349189039095809):\n\n<nft-card\n\tcontractAddress=\"0x495f947276749ce646f68ac8c248420045cb7b5e\"\n\ttokenId=\"98032760087024285144337006264809211787368425690529693231919975349189039095809\">\n</nft-card>\n<script src=\"https://unpkg.com/embeddable-nfts/dist/nft-card.min.js\"></script>\n    \nIt's probably wasted (crypto)money, but I just wanted to explore this phenomenon… Furthermore, who doesn't want to own and old screenshot of the 1997 WinZip.com home page?\n",
+				"date_published": "2021-08-31T15:56:00+02:00",
+				"url": "https://jeroensangers.com/2021/08/31/call-me-crazy.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2021/08/30/how-come-this.html",
+				
+				"content_html": "<p>How come <a href=\"https://www.youtube.com/channel/UCd7Sf-HvhwirCnBpADqAr5A\">this channel</a> does not have more subscribers?</p>\n\n<p>Almost 20 years ago, Pixar released the first fully computer animated movie and now, one guy can DIY something with greater realism in only 3.5 weeks using off the shelf gear. Amazing!</p>\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/wSx472esQps\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n",
+				"content_text": "How come [this channel](https://www.youtube.com/channel/UCd7Sf-HvhwirCnBpADqAr5A) does not have more subscribers?\r\n\r\nAlmost 20 years ago, Pixar released the first fully computer animated movie and now, one guy can DIY something with greater realism in only 3.5 weeks using off the shelf gear. Amazing!\r\n\r\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/wSx472esQps\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n",
+				"date_published": "2021-08-30T09:58:36+02:00",
+				"url": "https://jeroensangers.com/2021/08/30/how-come-this.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2021/08/25/it-has-been.html",
+				
+				"content_html": "<p>It has been months since I last heard about Clubhouse. Has the hype passed? Does it still exist?</p>\n",
+				"content_text": "It has been months since I last heard about Clubhouse. Has the hype passed? Does it still exist?\n",
+				"date_published": "2021-08-25T16:43:05+02:00",
+				"url": "https://jeroensangers.com/2021/08/25/it-has-been.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2021/08/25/this-quote-perfectly.html",
+				
+				"content_html": "<p>This quote perfectly descibes my current professional situation:</p>\n\n<blockquote>\n    You teach best what you most need to learn.\n    <footer>Richard Bach</footer>\n</blockquote>\n",
+				"content_text": "This quote perfectly descibes my current professional situation:\n\n<blockquote>\n\tYou teach best what you most need to learn.\n\t<footer>Richard Bach</footer>\n</blockquote>\n",
+				"date_published": "2021-08-25T16:31:00+02:00",
+				"url": "https://jeroensangers.com/2021/08/25/this-quote-perfectly.html",
+				"tags": ["Quotes"]
+			},
+			{
 				"id": "http://JeroenSangers.micro.blog/2021/08/24/i-often-wish.html",
 				
 				"content_html": "<p>I often wish other people kept a list of all the tools they’re currently using for daily work, so <a href=\"https://jeroensangers.com/tools/\">here</a>’s mine.</p>\n",
@@ -25,18 +66,19 @@
 			{
 				"id": "http://JeroenSangers.micro.blog/2021/08/23/after-a-few.html",
 				
-				"content_html": "<p>After a few years without using it, today I opened the <a href=\"https://keybase.io/\">Keybase</a> app again.</p>\n\n<p>Digging around in the settings I found that there is a wallet inside the app, with over 1.000 <a href=\"https://www.stellar.org/lumens\">Stellar Lumen</a> (a crypto currency) in it. I vaguely remember having received those for free in the <a href=\"https://medium.com/stellar-community/so-you-just-got-your-keybase-spacedrop-what-now-2398fa160d19\">Keybase Spacedrop</a>.</p>\n\n<p>The biggest surprise is the current value of those lumen is arround 330€. Now, let&rsquo;s see how I can spend that free money…</p>\n\n<p><img src=\"uploads/2021/f2eadcc04b.png\" width=\"250\" height=\"67\" alt=\"Stellar Lumens\" /></p>\n",
-				"content_text": "After a few years without using it, today I opened the [Keybase](https://keybase.io/) app again.\n\nDigging around in the settings I found that there is a wallet inside the app, with over 1.000 [Stellar Lumen](https://www.stellar.org/lumens) (a crypto currency) in it. I vaguely remember having received those for free in the [Keybase Spacedrop](https://medium.com/stellar-community/so-you-just-got-your-keybase-spacedrop-what-now-2398fa160d19).\n\nThe biggest surprise is the current value of those lumen is arround 330€. Now, let's see how I can spend that free money…\n\n<img src=\"uploads/2021/f2eadcc04b.png\" width=\"250\" height=\"67\" alt=\"Stellar Lumens\" />\n",
+				"content_html": "<p>After a few years without using it, today I opened the <a href=\"https://keybase.io/\">Keybase</a> app again.</p>\n\n<p>Digging around in the settings I found that there is a wallet inside the app, with over 1.000 <a href=\"https://www.stellar.org/lumens\">Stellar Lumen</a> (a crypto currency) in it. I vaguely remember having received those for free in the <a href=\"https://medium.com/stellar-community/so-you-just-got-your-keybase-spacedrop-what-now-2398fa160d19\">Keybase Spacedrop</a>.</p>\n\n<p>The biggest surprise is the current value of those lumen is arround 330€. Now, let&rsquo;s see how I can spend that free money…</p>\n\n<p><img src=\"https://jeroensangers.com/uploads/2021/f2eadcc04b.png\" width=\"250\" height=\"67\" alt=\"Stellar Lumens\" /></p>\n",
+				"content_text": "After a few years without using it, today I opened the [Keybase](https://keybase.io/) app again.\n\nDigging around in the settings I found that there is a wallet inside the app, with over 1.000 [Stellar Lumen](https://www.stellar.org/lumens) (a crypto currency) in it. I vaguely remember having received those for free in the [Keybase Spacedrop](https://medium.com/stellar-community/so-you-just-got-your-keybase-spacedrop-what-now-2398fa160d19).\n\nThe biggest surprise is the current value of those lumen is arround 330€. Now, let's see how I can spend that free money…\n\n<img src=\"https://jeroensangers.com/uploads/2021/f2eadcc04b.png\" width=\"250\" height=\"67\" alt=\"Stellar Lumens\" />\n",
 				"date_published": "2021-08-23T17:56:00+02:00",
 				"url": "https://jeroensangers.com/2021/08/23/after-a-few.html"
 			},
 			{
 				"id": "http://JeroenSangers.micro.blog/2021/08/22/many-things-may.html",
 				
-				"content_html": "<blockquote>\n<p>“Many things may be important but only one thing can be the most important.”</p>\n</blockquote>\n\n<p>— Ross Garber</p>\n",
-				"content_text": "> “Many things may be important but only one thing can be the most important.”\n\n— Ross Garber\n",
+				"content_html": "<blockquote>\n    Many things may be important but only one thing can be the most important.\n    <footer>Ross Garber</footer>\n</blockquote>\n",
+				"content_text": "<blockquote>\n\tMany things may be important but only one thing can be the most important.\n\t<footer>Ross Garber</footer>\n</blockquote>\n",
 				"date_published": "2021-08-22T18:15:00+02:00",
-				"url": "https://jeroensangers.com/2021/08/22/many-things-may.html"
+				"url": "https://jeroensangers.com/2021/08/22/many-things-may.html",
+				"tags": ["Quotes"]
 			},
 			{
 				"id": "http://JeroenSangers.micro.blog/2021/08/22/im-getting-annoyed.html",
@@ -166,8 +208,8 @@
 			{
 				"id": "http://JeroenSangers.micro.blog/2021/07/28/luxury-is-an.html",
 				
-				"content_html": "<p>📷 Luxury is… finding an empty beach in July 🏖</p>\n\n<p><img src=\"uploads/2021/ea3bf460bf.jpg\" width=\"600\" height=\"450\" alt=\"Torredembarra\" /></p>\n",
-				"content_text": "📷 Luxury is… finding an empty beach in July 🏖 \n\n<img src=\"uploads/2021/ea3bf460bf.jpg\" width=\"600\" height=\"450\" alt=\"Torredembarra\" />\n",
+				"content_html": "<p>📷 Luxury is… finding an empty beach in July 🏖</p>\n\n<p><img src=\"https://jeroensangers.com/uploads/2021/ea3bf460bf.jpg\" width=\"600\" height=\"450\" alt=\"Torredembarra\" /></p>\n",
+				"content_text": "📷 Luxury is… finding an empty beach in July 🏖 \n\n<img src=\"https://jeroensangers.com/uploads/2021/ea3bf460bf.jpg\" width=\"600\" height=\"450\" alt=\"Torredembarra\" />\n",
 				"date_published": "2021-07-28T14:39:01+02:00",
 				"url": "https://jeroensangers.com/2021/07/28/luxury-is-an.html"
 			},
@@ -496,8 +538,8 @@
 			{
 				"id": "http://JeroenSangers.micro.blog/2021/05/06/first-lunch-outside.html",
 				
-				"content_html": "<p>📸 First lunch outside at the patio for this year</p>\n\n<p><img src=\"uploads/2021/231b9848d0.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "📸 First lunch outside at the patio for this year\n\n<img src=\"uploads/2021/231b9848d0.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>📸 First lunch outside at the patio for this year</p>\n\n<p><img src=\"https://jeroensangers.com/uploads/2021/231b9848d0.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "📸 First lunch outside at the patio for this year\n\n<img src=\"https://jeroensangers.com/uploads/2021/231b9848d0.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-05-06T17:17:00+02:00",
 				"url": "https://jeroensangers.com/2021/05/06/first-lunch-outside.html"
 			},
