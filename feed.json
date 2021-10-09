@@ -7,6 +7,47 @@
 	"items": [
 		
 			{
+				"id": "http://JeroenSangers.micro.blog/2021/10/09/bcn-prg.html",
+				
+				"content_html": "<p>🛫 BCN\n🛬 PRG</p>\n",
+				"content_text": "🛫 BCN\n🛬 PRG\n",
+				"date_published": "2021-10-09T17:20:17+02:00",
+				"url": "https://jeroensangers.com/2021/10/09/bcn-prg.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2021/10/08/every-day-i.html",
+				
+				"content_html": "<p>Every day I check whether macOS Monterey has been released yet. I can&rsquo;t wait to have focus modes and shortcuts on my iMac.</p>\n",
+				"content_text": "Every day I check whether macOS Monterey has been released yet. I can't wait to have focus modes and shortcuts on my iMac.\n",
+				"date_published": "2021-10-08T11:12:16+02:00",
+				"url": "https://jeroensangers.com/2021/10/08/every-day-i.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2021/10/06/nitpicking-why-do.html",
+				
+				"content_html": "<p>Nitpicking: Why do I have to scroll to read this text? Couldn&rsquo;t they just make the text area a little bit larger?</p>\n\n<p><img src=\"uploads/2021/cb6043d1e4.png\" width=\"249\" height=\"444\" alt=\"Software update scroll bar\" /></p>\n",
+				"content_text": "Nitpicking: Why do I have to scroll to read this text? Couldn't they just make the text area a little bit larger? \r\n\r\n<img src=\"uploads/2021/cb6043d1e4.png\" width=\"249\" height=\"444\" alt=\"Software update scroll bar\" />\n",
+				"date_published": "2021-10-06T15:54:37+02:00",
+				"url": "https://jeroensangers.com/2021/10/06/nitpicking-why-do.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2021/10/06/though-the-summary.html",
+				
+				"content_html": "<p>Though the summary did not motivate me to buy this book, I love the quote:</p>\n\n<p><blockquote class=\"quoteback\" darkmode=\"\" data-title=\"Work Less Finish More\" data-author=\"Megan Holstein\" cite=\"https://fourminutebooks.com/work-less-finish-more-summary/?utm_source=rss&utm_medium=rss&utm_campaign=work-less-finish-more-summary\">\nOne of the most unfortunate realities about being productive is that most of what we do is a total waste of time.\n<footer>Megan Holstein<cite> <a href=\"https://fourminutebooks.com/work-less-finish-more-summary/?utm_source=rss&utm_medium=rss&utm_campaign=work-less-finish-more-summary\">https://fourminutebooks.com/work-less-finish-more-summary/?utm_source=rss&utm_medium=rss&utm_campaign=work-less-finish-more-summary</a></cite></footer>\n</blockquote><script note=\"\" src=\"https://micro.blog/quoteback.js\"></script></p>\n",
+				"content_text": "Though the summary did not motivate me to buy this book, I love the quote:\n\n<blockquote class=\"quoteback\" darkmode=\"\" data-title=\"Work Less Finish More\" data-author=\"Megan Holstein\" cite=\"https://fourminutebooks.com/work-less-finish-more-summary/?utm_source=rss&utm_medium=rss&utm_campaign=work-less-finish-more-summary\">\nOne of the most unfortunate realities about being productive is that most of what we do is a total waste of time.\n<footer>Megan Holstein<cite> <a href=\"https://fourminutebooks.com/work-less-finish-more-summary/?utm_source=rss&utm_medium=rss&utm_campaign=work-less-finish-more-summary\">https://fourminutebooks.com/work-less-finish-more-summary/?utm_source=rss&utm_medium=rss&utm_campaign=work-less-finish-more-summary</a></cite></footer>\n</blockquote><script note=\"\" src=\"https://micro.blog/quoteback.js\"></script>\n",
+				"date_published": "2021-10-06T15:44:58+02:00",
+				"url": "https://jeroensangers.com/2021/10/06/though-the-summary.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2021/10/06/years-freelancing.html",
+				"title": "10 years freelancing",
+				"content_html": "<p>Yesterday I realised that in September I passed my tenth anniversary as a freelancer. This prompted me to spent this morning doing a review of those ten years.</p>\n\n<p>For the past hours I have been on a trip through memory lane. I have reviewed my financial information, my list of past customers (I should call many of them to keep in touch!) and projects, the material I produced and many, many pages of notes.</p>\n\n<p>I am not sure yet what to make out of all that information. It is a lot to take in. For the moment I will simply let it sink in and maybe in a few days see if I can write up some conclusions, lessons learned and action steps.</p>\n",
+				"content_text": "Yesterday I realised that in September I passed my tenth anniversary as a freelancer. This prompted me to spent this morning doing a review of those ten years.\r\n\r\nFor the past hours I have been on a trip through memory lane. I have reviewed my financial information, my list of past customers (I should call many of them to keep in touch!) and projects, the material I produced and many, many pages of notes.\r\n\r\nI am not sure yet what to make out of all that information. It is a lot to take in. For the moment I will simply let it sink in and maybe in a few days see if I can write up some conclusions, lessons learned and action steps.\n",
+				"date_published": "2021-10-06T11:11:31+02:00",
+				"url": "https://jeroensangers.com/2021/10/06/years-freelancing.html"
+			},
+			{
 				"id": "http://JeroenSangers.micro.blog/2021/09/30/convince-yourself-that.html",
 				"title": "Motivation",
 				"content_html": "<p>Convince yourself that the effort part is the good part, and you&rsquo;ll start generating Dopamine and learn to enjoy the process.</p>\n\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/09/link-desired-behaviour.html\">Implementation intentions</a>,  <a href=\"https://jeroensangers.com/2021/09/07/choose-a-work.html\">Inspiration</a>, <a href=\"https://jeroensangers.com/2021/09/09/cold-showers-probably.html\">Cold showers</a>, <a href=\"https://jeroensangers.com/2021/09/06/when-you-get.html\">Self-talk</a></p>\n",
@@ -27,8 +68,8 @@
 			{
 				"id": "http://JeroenSangers.micro.blog/2021/09/25/this-is-by.html",
 				
-				"content_html": "<p>This is by far my favorite feature in iOS 15: Scheduled Notification Summary.</p>\n\n<p>Instead of having a constant stream of interesting things, I now receive my notifications bundled at my most convenient moments.</p>\n\n<p><img src=\"uploads/2021/67a7cf15e7.png\" /></p>\n",
-				"content_text": "This is by far my favorite feature in iOS 15: Scheduled Notification Summary.\n\nInstead of having a constant stream of interesting things, I now receive my notifications bundled at my most convenient moments.\n\n<img src=\"uploads/2021/67a7cf15e7.png\" />\n",
+				"content_html": "<p>This is by far my favorite feature in iOS 15: Scheduled Notification Summary.</p>\n\n<p>Instead of having a constant stream of interesting things, I now receive my notifications bundled at my most convenient moments.</p>\n\n<p><img src=\"https://jeroensangers.com/uploads/2021/67a7cf15e7.png\" /></p>\n",
+				"content_text": "This is by far my favorite feature in iOS 15: Scheduled Notification Summary.\n\nInstead of having a constant stream of interesting things, I now receive my notifications bundled at my most convenient moments.\n\n<img src=\"https://jeroensangers.com/uploads/2021/67a7cf15e7.png\" />\n",
 				"date_published": "2021-09-25T16:37:00+02:00",
 				"url": "https://jeroensangers.com/2021/09/25/this-is-by.html"
 			},
@@ -44,8 +85,8 @@
 			{
 				"id": "http://JeroenSangers.micro.blog/2021/09/24/its-the-season.html",
 				
-				"content_html": "<p>📷 It&rsquo;s the season</p>\n\n<p><img src=\"uploads/2021/8d30e1f961.jpg\" width=\"600\" height=\"449\" alt=\"\" /></p>\n",
-				"content_text": "📷 It's the season\n\n<img src=\"uploads/2021/8d30e1f961.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
+				"content_html": "<p>📷 It&rsquo;s the season</p>\n\n<p><img src=\"https://jeroensangers.com/uploads/2021/8d30e1f961.jpg\" width=\"600\" height=\"449\" alt=\"\" /></p>\n",
+				"content_text": "📷 It's the season\n\n<img src=\"https://jeroensangers.com/uploads/2021/8d30e1f961.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
 				"date_published": "2021-09-24T14:48:13+02:00",
 				"url": "https://jeroensangers.com/2021/09/24/its-the-season.html"
 			},
