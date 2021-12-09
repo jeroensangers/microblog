@@ -7,6 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://JeroenSangers.micro.blog/2021/12/05/team-meeting-room.html",
+				
+				"content_html": "<p>📸 Team meeting room: inspiration from the past to build the future</p>\n\n<p><img src=\"uploads/2021/036c6c8cd6.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "📸 Team meeting room: inspiration from the past to build the future\n\n<img src=\"uploads/2021/036c6c8cd6.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-12-05T16:17:51+01:00",
+				"url": "https://jeroensangers.com/2021/12/05/team-meeting-room.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2021/11/30/tomorrow-will-be.html",
+				
+				"content_html": "<p>Tomorrow will be a big day… 🥳</p>\n",
+				"content_text": "Tomorrow will be a big day… 🥳\n",
+				"date_published": "2021-11-30T21:12:02+01:00",
+				"url": "https://jeroensangers.com/2021/11/30/tomorrow-will-be.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2021/11/30/whenever-i-get.html",
+				
+				"content_html": "<p>Whenever I get kicked out of a match beacause <a href=\"https://apps.apple.com/es/app/magic-the-gathering-arena/id1496227521?l=en\">Magic: The Gathering Arena</a> crashes on my device, the match should end in a draft instead of defeat.</p>\n",
+				"content_text": "Whenever I get kicked out of a match beacause [Magic: The Gathering Arena](https://apps.apple.com/es/app/magic-the-gathering-arena/id1496227521?l=en) crashes on my device, the match should end in a draft instead of defeat.\n",
+				"date_published": "2021-11-30T16:31:30+01:00",
+				"url": "https://jeroensangers.com/2021/11/30/whenever-i-get.html"
+			},
+			{
 				"id": "http://JeroenSangers.micro.blog/2021/11/30/unsubscribe-cyber-monday.html",
 				
 				"content_html": "<p>Unsubscribe!</p>\n\n<p><blockquote class=\"quoteback\" data-title=\"\" data-author=\"Patrick Rhone\" data-avatar=\"https://micro.blog/patrickrhone/avatar.jpg\" cite=\"https://www.patrickrhone.net/11054-2/\"><p>Cyber Monday is a nice event to remind you that you are not using the “unsubscribe” links enough in your email inbox.</p><footer>Patrick Rhone <cite><a href=\"https://www.patrickrhone.net/11054-2/\">https://www.patrickrhone.net/11054-2/</a></cite></footer></blockquote><script src=\"https://micro.blog/quoteback.js\"></script></p>\n",
@@ -35,8 +59,8 @@
 			{
 				"id": "http://JeroenSangers.micro.blog/2021/11/25/shooting-pictures-for.html",
 				
-				"content_html": "<p>📷 Shooting pictures for the upcoming redesign of my <a href=\"https://canasto.es\">Canasto</a> web site.</p>\n\n<p><img src=\"uploads/2021/57490d34a5.jpg\" width=\"600\" height=\"409\" alt=\"\" /></p>\n",
-				"content_text": "📷 Shooting pictures for the upcoming redesign of my [Canasto](https://canasto.es) web site.\n\n<img src=\"uploads/2021/57490d34a5.jpg\" width=\"600\" height=\"409\" alt=\"\" />\n",
+				"content_html": "<p>📷 Shooting pictures for the upcoming redesign of my <a href=\"https://canasto.es\">Canasto</a> web site.</p>\n\n<p><img src=\"https://jeroensangers.com/uploads/2021/57490d34a5.jpg\" width=\"600\" height=\"409\" alt=\"\" /></p>\n",
+				"content_text": "📷 Shooting pictures for the upcoming redesign of my [Canasto](https://canasto.es) web site.\n\n<img src=\"https://jeroensangers.com/uploads/2021/57490d34a5.jpg\" width=\"600\" height=\"409\" alt=\"\" />\n",
 				"date_published": "2021-11-25T13:17:39+01:00",
 				"url": "https://jeroensangers.com/2021/11/25/shooting-pictures-for.html"
 			},
