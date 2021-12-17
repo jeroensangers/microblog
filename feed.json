@@ -7,10 +7,60 @@
 	"items": [
 		
 			{
+				"id": "http://JeroenSangers.micro.blog/2021/12/16/i-love-this.html",
+				
+				"content_html": "<p>I love this:  <a href=\"https://javier.xyz/emoji-to-scale/\">Emoji to Scale, a collection of emoji presented from smallest (mosquito) to largest (the Sun) with much (camera, blowfish, car, T-rex, International Space Station) in-between. </a></p>\n\n<p>I was surprised by how small our brains are and how big the dodo was.</p>\n\n<p>Via <a href=\"https://kottke.org/quick-links\">Jason Kottke</a></p>\n",
+				"content_text": "I love this:  [Emoji to Scale, a collection of emoji presented from smallest (mosquito) to largest (the Sun) with much (camera, blowfish, car, T-rex, International Space Station) in-between. ](https://javier.xyz/emoji-to-scale/)\n\nI was surprised by how small our brains are and how big the dodo was.\n\nVia [Jason Kottke](https://kottke.org/quick-links)\n",
+				"date_published": "2021-12-16T07:43:33+01:00",
+				"url": "https://jeroensangers.com/2021/12/16/i-love-this.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2021/12/15/estoy-muy-contento.html",
+				
+				"content_html": "<p>🙏 Estoy muy contento con las más de 250 inscripciones para el webinar de productividad mañana.  <a href=\"https://www.canasto.es/blog/webinar-15-aprendizajes\">¿Te apuntas también?</a></p>\n",
+				"content_text": "🙏 Estoy muy contento con las más de 250 inscripciones para el webinar de productividad mañana.  [¿Te apuntas también?](https://www.canasto.es/blog/webinar-15-aprendizajes)\n",
+				"date_published": "2021-12-15T15:46:55+01:00",
+				"url": "https://jeroensangers.com/2021/12/15/estoy-muy-contento.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2021/12/11/who-doesnt-want.html",
+				
+				"content_html": "<p>Who doesn’t want to be a “time millionaire”?</p>\n\n<p><blockquote class=\"quoteback\" darkmode=\"\" data-title=\"Time millionaires: meet the people pursuing the pleasure of leisure\" data-author=\"Sirin Kale\" cite=\"https://www.theguardian.com/lifeandstyle/2021/oct/12/time-millionaires-meet-the-people-pursuing-the-pleasure-of-leisure\">\ntime millionaires measure their worth not in terms of financial capital, but according to the seconds, minutes and hours they claw back from employment for leisure and recreation.\n<footer>Sirin Kale<cite> <a href=\"https://www.theguardian.com/lifeandstyle/2021/oct/12/time-millionaires-meet-the-people-pursuing-the-pleasure-of-leisure\">https://www.theguardian.com/lifeandstyle/2021/oct/12/time-millionaires-meet-the-people-pursuing-the-pleasure-of-leisure</a></cite></footer>\n</blockquote><script note=\"\" src=\"https://micro.blog/quoteback.js\"></script></p>\n",
+				"content_text": "Who doesn’t want to be a “time millionaire”?\n\n<blockquote class=\"quoteback\" darkmode=\"\" data-title=\"Time millionaires: meet the people pursuing the pleasure of leisure\" data-author=\"Sirin Kale\" cite=\"https://www.theguardian.com/lifeandstyle/2021/oct/12/time-millionaires-meet-the-people-pursuing-the-pleasure-of-leisure\">\ntime millionaires measure their worth not in terms of financial capital, but according to the seconds, minutes and hours they claw back from employment for leisure and recreation.\n<footer>Sirin Kale<cite> <a href=\"https://www.theguardian.com/lifeandstyle/2021/oct/12/time-millionaires-meet-the-people-pursuing-the-pleasure-of-leisure\">https://www.theguardian.com/lifeandstyle/2021/oct/12/time-millionaires-meet-the-people-pursuing-the-pleasure-of-leisure</a></cite></footer>\n</blockquote><script note=\"\" src=\"https://micro.blog/quoteback.js\"></script>\n",
+				"date_published": "2021-12-11T13:51:04+01:00",
+				"url": "https://jeroensangers.com/2021/12/11/who-doesnt-want.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2021/12/09/a-helpful-reminder.html",
+				
+				"content_html": "<p>A helpful reminder:</p>\n\n<p><blockquote class=\"quoteback\" darkmode=\"\" data-title=\"Always Helpful, 84\" data-author=\"Nicholas Bate\" cite=\"https://blog.strategicedge.co.uk/2021/12/always-helpful-84.html\">\n<p>Reminding yourself you can do anything.</p>\n<p>But you really can’t do everything.</p>\n<footer>Nicholas Bate<cite> <a href=\"https://blog.strategicedge.co.uk/2021/12/always-helpful-84.html\">https://blog.strategicedge.co.uk/2021/12/always-helpful-84.html</a></cite></footer>\n</blockquote><script note=\"\" src=\"https://micro.blog/quotebacks@1/quoteback.js\"></script></p>\n",
+				"content_text": "A helpful reminder:\n\n<blockquote class=\"quoteback\" darkmode=\"\" data-title=\"Always Helpful, 84\" data-author=\"Nicholas Bate\" cite=\"https://blog.strategicedge.co.uk/2021/12/always-helpful-84.html\">\n<p>Reminding yourself you can do anything.</p>\n<p>But you really can’t do everything.</p>\n<footer>Nicholas Bate<cite> <a href=\"https://blog.strategicedge.co.uk/2021/12/always-helpful-84.html\">https://blog.strategicedge.co.uk/2021/12/always-helpful-84.html</a></cite></footer>\n</blockquote><script note=\"\" src=\"https://micro.blog/quotebacks@1/quoteback.js\"></script>\n",
+				"date_published": "2021-12-09T20:44:51+01:00",
+				"url": "https://jeroensangers.com/2021/12/09/a-helpful-reminder.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2021/12/09/idea-revolucionaria-por.html",
+				
+				"content_html": "<p>Idea revolucionaria: ¿por qué esperar con tus buenos propósitos hasta el Año Nuevo? ¡Empieza hoy!</p>\n",
+				"content_text": "Idea revolucionaria: ¿por qué esperar con tus buenos propósitos hasta el Año Nuevo? ¡Empieza hoy!\n",
+				"date_published": "2021-12-09T17:28:06+01:00",
+				"url": "https://jeroensangers.com/2021/12/09/idea-revolucionaria-por.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2021/12/09/so-frustrating-that.html",
+				
+				"content_html": "<p>So frustrating that Microsoft Office on macOS obliges you to store your files on OneDrive in order to autosave your documents, while almost all other app use the native, superior OS autosave feature. Why?!</p>\n",
+				"content_text": "So frustrating that Microsoft Office on macOS obliges you to store your files on OneDrive in order to autosave your documents, while almost all other app use the native, superior OS autosave feature. Why?!\n",
+				"date_published": "2021-12-09T10:49:44+01:00",
+				"url": "https://jeroensangers.com/2021/12/09/so-frustrating-that.html"
+			},
+			{
 				"id": "http://JeroenSangers.micro.blog/2021/12/05/team-meeting-room.html",
 				
-				"content_html": "<p>📸 Team meeting room: inspiration from the past to build the future</p>\n\n<p><img src=\"uploads/2021/036c6c8cd6.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "📸 Team meeting room: inspiration from the past to build the future\n\n<img src=\"uploads/2021/036c6c8cd6.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>📸 Team meeting room: inspiration from the past to build the future</p>\n\n<p><img src=\"https://jeroensangers.com/uploads/2021/036c6c8cd6.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "📸 Team meeting room: inspiration from the past to build the future\n\n<img src=\"https://jeroensangers.com/uploads/2021/036c6c8cd6.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-12-05T16:17:51+01:00",
 				"url": "https://jeroensangers.com/2021/12/05/team-meeting-room.html"
 			},
@@ -51,8 +101,8 @@
 			{
 				"id": "http://JeroenSangers.micro.blog/2021/11/25/i-purchased-the.html",
 				"title": "I purchased the new Oura ring",
-				"content_html": "<p>A little over three years ago I gifted myself the <a href=\"https://ouraring.com\">Oura ring</a>. It served me very well, until the battery got damaged a few months ago after which it needed to be charged every two days. Fortunately, Oura has great service and they replaced my ring.</p>\n\n<p>A few weeks after I received the replacement ring, Oura announced the third generation of the ring, with more and better sensors.</p>\n\n<p>The minimalist in me decided that I have no need for a new ring. After all, mine was just replaced and should last several years without issues. Also, I don&rsquo;t <em>need</em> the ring, it is just something nice to have.</p>\n\n<p>However, with the new ring, Oura also launched a subscription service to access the data gathered by this new ring. The previous model, which I have, does not need a subscription to access the same data. That is one more reason <strong>not</strong> to upgrade, but…</p>\n\n<p>I really like having an Oura ring and probably will replace my current ring with a new one once it wears down in a few years. And then I will have to pay the monthly subscription, unless…</p>\n\n<p>If I upgrade now, I am eligible for a lifetime membership, saving a lot of money every  year. Today I made the calculation: If I would like to wear an Oura ring for four more years, it makes sense to upgrade now, so I will save money on the subscription.</p>\n\n<p>It is not what I planned to do, but it makes sense to me.</p>\n",
-				"content_text": "A little over three years ago I gifted myself the [Oura ring](https://ouraring.com). It served me very well, until the battery got damaged a few months ago after which it needed to be charged every two days. Fortunately, Oura has great service and they replaced my ring.\r\n\r\nA few weeks after I received the replacement ring, Oura announced the third generation of the ring, with more and better sensors.\r\n\r\nThe minimalist in me decided that I have no need for a new ring. After all, mine was just replaced and should last several years without issues. Also, I don't _need_ the ring, it is just something nice to have.\r\n\r\nHowever, with the new ring, Oura also launched a subscription service to access the data gathered by this new ring. The previous model, which I have, does not need a subscription to access the same data. That is one more reason **not** to upgrade, but…\r\n\r\nI really like having an Oura ring and probably will replace my current ring with a new one once it wears down in a few years. And then I will have to pay the monthly subscription, unless…\r\n\r\nIf I upgrade now, I am eligible for a lifetime membership, saving a lot of money every  year. Today I made the calculation: If I would like to wear an Oura ring for four more years, it makes sense to upgrade now, so I will save money on the subscription.\r\n\r\nIt is not what I planned to do, but it makes sense to me.\n",
+				"content_html": "<p>A little over three years ago I gifted myself the <a href=\"https://ouraring.com/taf/dcc3320c00\">Oura ring</a>. It served me very well, until the battery got damaged a few months ago after which it needed to be charged every two days. Fortunately, Oura has great service and they replaced my ring.</p>\n\n<p>A few weeks after I received the replacement ring, Oura announced the third generation of the ring, with more and better sensors.</p>\n\n<p>The minimalist in me decided that I have no need for a new ring. After all, mine was just replaced and should last several years without issues. Also, I don&rsquo;t <em>need</em> the ring, it is just something nice to have.</p>\n\n<p>However, with the new ring, Oura also launched a subscription service to access the data gathered by this new ring. The previous model, which I have, does not need a subscription to access the same data. That is one more reason <strong>not</strong> to upgrade, but…</p>\n\n<p>I really like having an Oura ring and probably will replace my current ring with a new one once it wears down in a few years. And then I will have to pay the monthly subscription, unless…</p>\n\n<p>If I upgrade now, I am eligible for a lifetime membership, saving a lot of money every  year. Today I made the calculation: If I would like to wear an Oura ring for four more years, it makes sense to upgrade now, so I will save money on the subscription.</p>\n\n<p>It is not what I planned to do, but it makes sense to me.</p>\n",
+				"content_text": "A little over three years ago I gifted myself the [Oura ring](https://ouraring.com/taf/dcc3320c00\n). It served me very well, until the battery got damaged a few months ago after which it needed to be charged every two days. Fortunately, Oura has great service and they replaced my ring.\n\nA few weeks after I received the replacement ring, Oura announced the third generation of the ring, with more and better sensors.\n\nThe minimalist in me decided that I have no need for a new ring. After all, mine was just replaced and should last several years without issues. Also, I don't _need_ the ring, it is just something nice to have.\n\nHowever, with the new ring, Oura also launched a subscription service to access the data gathered by this new ring. The previous model, which I have, does not need a subscription to access the same data. That is one more reason **not** to upgrade, but…\n\nI really like having an Oura ring and probably will replace my current ring with a new one once it wears down in a few years. And then I will have to pay the monthly subscription, unless…\n\nIf I upgrade now, I am eligible for a lifetime membership, saving a lot of money every  year. Today I made the calculation: If I would like to wear an Oura ring for four more years, it makes sense to upgrade now, so I will save money on the subscription.\n\nIt is not what I planned to do, but it makes sense to me.\n",
 				"date_published": "2021-11-25T17:34:00+01:00",
 				"url": "https://jeroensangers.com/2021/11/25/i-purchased-the.html"
 			},
