@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://JeroenSangers.micro.blog/2022/03/09/i-love-how.html",
+				
+				"content_html": "<p>I love how <a href=\"https://micro.blog/patrickrhone\">@patrickrhone</a> can explain a simple habit with a lot of depth behind it:</p>\n\n<p><blockquote class=\"quoteback\" darkmode=\"\" data-title=\"My Life in 3×5 – Rhoneisms\" data-author=\"Patrick Rhone\" cite=\"https://www.patrickrhone.net/my-life-in-3x5/\">\n<span>Basically, on the front of the card I write down the tasks I’d like to get done today (and really believe I can get done). &nbsp;</span><span>On the back of the card, I capture any incoming tasks that pop up or things I need to write down — like a scratch pad (i.e, things that won’t get done today but I’d like to keep for some other time). As I get stuff done, I mark it done. Things that don’t get done either get moved to the next day’s list or deferred for later.</span>\n<footer>Patrick Rhone<cite> <a href=\"https://www.patrickrhone.net/my-life-in-3x5/\">https://www.patrickrhone.net/my-life-in-3x5/</a></cite></footer>\n</blockquote><script note=\"\" src=\"https://micro.blog/quoteback.js\"></script></p>\n\n<p>I love this idea of physically separating the tasks I&rsquo;d like to get done today from any incoming tasks.</p>\n\n<p>Also, kudos for using the actual × symbol in the title instead of the letter X. (Small details matter)</p>\n",
+				"content_text": "I love how [@patrickrhone](https://micro.blog/patrickrhone) can explain a simple habit with a lot of depth behind it:\n\n<blockquote class=\"quoteback\" darkmode=\"\" data-title=\"My Life in 3×5 – Rhoneisms\" data-author=\"Patrick Rhone\" cite=\"https://www.patrickrhone.net/my-life-in-3x5/\">\n<span>Basically, on the front of the card I write down the tasks I’d like to get done today (and really believe I can get done). &nbsp;</span><span>On the back of the card, I capture any incoming tasks that pop up or things I need to write down — like a scratch pad (i.e, things that won’t get done today but I’d like to keep for some other time). As I get stuff done, I mark it done. Things that don’t get done either get moved to the next day’s list or deferred for later.</span>\n<footer>Patrick Rhone<cite> <a href=\"https://www.patrickrhone.net/my-life-in-3x5/\">https://www.patrickrhone.net/my-life-in-3x5/</a></cite></footer>\n</blockquote><script note=\"\" src=\"https://micro.blog/quoteback.js\"></script>\n\nI love this idea of physically separating the tasks I'd like to get done today from any incoming tasks.\n\nAlso, kudos for using the actual × symbol in the title instead of the letter X. (Small details matter)\n",
+				"date_published": "2022-03-09T17:47:30+01:00",
+				"url": "https://jeroensangers.com/2022/03/09/i-love-how.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2022/03/08/mi-granito-de.html",
+				
+				"content_html": "<p>Mi granito de arena para reivindicar el #8M2022: <a href=\"https://kenso.es/episodio/192-efectividad-femenina\">kenso.es/episodio/&hellip;</a></p>\n",
+				"content_text": "Mi granito de arena para reivindicar el #8M2022: [kenso.es/episodio/...](https://kenso.es/episodio/192-efectividad-femenina)\n",
+				"date_published": "2022-03-08T16:22:00+01:00",
+				"url": "https://jeroensangers.com/2022/03/08/mi-granito-de.html"
+			},
+			{
+				"id": "http://JeroenSangers.micro.blog/2022/03/04/once-again-the.html",
+				
+				"content_html": "<p>Once again the UPS delivery person was somehow not able to deliver a package, even though I did leave home for a second. Now I have to pick it up myself at an access point 20 minutes away 😡</p>\n",
+				"content_text": "Once again the UPS delivery person was somehow not able to deliver a package, even though I did leave home for a second. Now I have to pick it up myself at an access point 20 minutes away 😡\n",
+				"date_published": "2022-03-04T14:56:43+01:00",
+				"url": "https://jeroensangers.com/2022/03/04/once-again-the.html"
+			},
+			{
 				"id": "http://JeroenSangers.micro.blog/2022/02/24/currently-reading-four.html",
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780735232464\">Four Thousand Weeks</a> by Oliver Burkeman 📚</p>\n",
