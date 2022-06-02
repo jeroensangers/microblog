@@ -7,12 +7,37 @@
 	"items": [
 		
 			{
-				"id": "http://jeroensangers.micro.blog/2022/05/24/an-increase-of.html",
+				"id": "http://jeroensangers.micro.blog/2022/06/02/i-am-thinking.html",
+				
+				"content_html": "<p>I am thinking about buying a Kindle to use instead of the iPad for reading at night to avoid light exposure before going to bed.\nWhat’s kept me away until now is that I trust Apple more than Amazon with my data, but maybe in this case my health should get priority over my principles.</p>\n",
+				"content_text": "I am thinking about buying a Kindle to use instead of the iPad for reading at night to avoid light exposure before going to bed.\nWhat’s kept me away until now is that I trust Apple more than Amazon with my data, but maybe in this case my health should get priority over my principles.\n",
+				"date_published": "2022-06-02T07:45:24+02:00",
+				"url": "https://jeroensangers.com/2022/06/02/i-am-thinking.html"
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2022/05/30/waiting-on-a.html",
+				
+				"content_html": "<p>Waiting on a sunny day…</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Waiting on a sunny day…\n\n<img src=\"uploads/2022/8a647772c0.png\" width=\"600\" height=\"387\" alt=\"\" />\n",
+				"date_published": "2022-05-30T09:58:14+02:00",
+				"url": "https://jeroensangers.com/2022/05/30/waiting-on-a.html"
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2022/05/24/a-moderate-level.html",
+				"title": "Background noise",
+				"content_html": "<p>A moderate level of background noise enhances creativity.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/06/physical-cues-affect.html\">Environment</a>, <a href=\"https://jeroensangers.com/2022/05/24/an-increase-of.html\">Noise pollution</a></p>\n",
+				"content_text": "A moderate level of background noise enhances creativity.\n\n_Related_: [Environment](https://jeroensangers.com/2021/09/06/physical-cues-affect.html), [Noise pollution](https://jeroensangers.com/2022/05/24/an-increase-of.html)\n",
+				"date_published": "2022-05-24T20:07:16+02:00",
+				"url": "https://jeroensangers.com/2022/05/24/a-moderate-level.html",
+				"tags": ["Digital garden"]
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2022/05/24/noise-pollution.html",
 				"title": "Noise pollution",
-				"content_html": "<p>An increase of 10 dB of noise in the workplace reduces detailed work productivity by 5%. Noise pollution doesn’t affect your effort, but does lower your ability to think, so you don’t notice the damage.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/06/physical-cues-affect.html\">Environment</a></p>\n",
-				"content_text": "An increase of 10 dB of noise in the workplace reduces detailed work productivity by 5%. Noise pollution doesn’t affect your effort, but does lower your ability to think, so you don’t notice the damage.\n\n_Related_: [Environment](https://jeroensangers.com/2021/09/06/physical-cues-affect.html)\n",
-				"date_published": "2022-05-24T19:47:51+02:00",
-				"url": "https://jeroensangers.com/2022/05/24/an-increase-of.html",
+				"content_html": "<p>An increase of 10 dB of noise in the workplace reduces detailed work productivity by 5%. Noise pollution doesn’t affect your effort, but does lower your ability to think, so you don’t notice the damage.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/06/physical-cues-affect.html\">Environment</a>, <a href=\"https://jeroensangers.com/2022/05/24/a-moderate-level.html\">Background noise</a></p>\n",
+				"content_text": "An increase of 10 dB of noise in the workplace reduces detailed work productivity by 5%. Noise pollution doesn’t affect your effort, but does lower your ability to think, so you don’t notice the damage.\n\n_Related_: [Environment](https://jeroensangers.com/2021/09/06/physical-cues-affect.html), [Background noise](https://jeroensangers.com/2022/05/24/a-moderate-level.html)\n",
+				"date_published": "2022-05-24T19:47:00+02:00",
+				"url": "https://jeroensangers.com/2022/05/24/noise-pollution.html",
 				"tags": ["Digital garden"]
 			},
 			{
@@ -1725,21 +1750,12 @@
 				"tags": ["Digital garden"]
 			},
 			{
-				"id": "http://jeroensangers.micro.blog/2021/09/06/environment.html",
+				"id": "http://jeroensangers.micro.blog/2021/09/06/183700.html",
 				"title": "Environment",
-				"content_html": "<p>Physical cues affect our state of mind and can be used to switch between different productive modes.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/03/do-the-right.html\">Effectiveness</a>, <a href=\"https://jeroensangers.com/2021/09/09/during-the-mornings.html\">Work cycle</a>, <a href=\"https://jeroensangers.com/2021/09/09/link-desired-behaviour.html\">Implementation intentions</a>, <a href=\"https://jeroensangers.com/2021/09/06/when-you-get.html\">Self-talk</a>, <a href=\"https://jeroensangers.com/2021/09/09/dedicate-time-to.html\">Joy</a>, <a href=\"https://jeroensangers.com/2021/09/07/choose-a-work.html\">Inspiration</a>, <a href=\"https://jeroensangers.com/2021/09/14/reading-is-digesting.html\">Reading is digesting</a>, <a href=\"https://jeroensangers.com/2021/09/15/take-regular-thinking.html\">Walk</a>, <a href=\"https://jeroensangers.com/2021/09/23/clean-air-multiplies.html\">Ventilate</a>, <a href=\"https://jeroensangers.com/2021/12/18/interruptions-arent-intrinsically.html\">Interruptions</a>, <a href=\"https://jeroensangers.com/2022/05/10/reduce-mobile-phone.html\">Less mobile</a>, <a href=\"https://jeroensangers.com/2022/05/13/add-some-art.html\">Workplace art</a>, <a href=\"https://jeroensangers.com/2022/05/13/work-in-a.html\">Daylight</a>, <a href=\"https://jeroensangers.com/2022/05/24/an-increase-of.html\">Noise pollution</a></p>\n",
-				"content_text": "Physical cues affect our state of mind and can be used to switch between different productive modes.\n\n_Related_: [Effectiveness](https://jeroensangers.com/2021/09/03/do-the-right.html), [Work cycle](https://jeroensangers.com/2021/09/09/during-the-mornings.html), [Implementation intentions](https://jeroensangers.com/2021/09/09/link-desired-behaviour.html), [Self-talk](https://jeroensangers.com/2021/09/06/when-you-get.html), [Joy](https://jeroensangers.com/2021/09/09/dedicate-time-to.html), [Inspiration](https://jeroensangers.com/2021/09/07/choose-a-work.html), [Reading is digesting](https://jeroensangers.com/2021/09/14/reading-is-digesting.html), [Walk](https://jeroensangers.com/2021/09/15/take-regular-thinking.html), [Ventilate](https://jeroensangers.com/2021/09/23/clean-air-multiplies.html), [Interruptions](https://jeroensangers.com/2021/12/18/interruptions-arent-intrinsically.html), [Less mobile](https://jeroensangers.com/2022/05/10/reduce-mobile-phone.html), [Workplace art](https://jeroensangers.com/2022/05/13/add-some-art.html), [Daylight](https://jeroensangers.com/2022/05/13/work-in-a.html), [Noise pollution](https://jeroensangers.com/2022/05/24/an-increase-of.html)\n",
+				"content_html": "<p>Physical cues affect our state of mind and can be used to switch between different productive modes.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/03/do-the-right.html\">Effectiveness</a>, <a href=\"https://jeroensangers.com/2021/09/09/during-the-mornings.html\">Work cycle</a>, <a href=\"https://jeroensangers.com/2021/09/09/link-desired-behaviour.html\">Implementation intentions</a>, <a href=\"https://jeroensangers.com/2021/09/06/when-you-get.html\">Self-talk</a>, <a href=\"https://jeroensangers.com/2021/09/09/dedicate-time-to.html\">Joy</a>, <a href=\"https://jeroensangers.com/2021/09/07/choose-a-work.html\">Inspiration</a>, <a href=\"https://jeroensangers.com/2021/09/14/reading-is-digesting.html\">Reading is digesting</a>, <a href=\"https://jeroensangers.com/2021/09/15/take-regular-thinking.html\">Walk</a>, <a href=\"https://jeroensangers.com/2021/09/23/clean-air-multiplies.html\">Ventilate</a>, <a href=\"https://jeroensangers.com/2021/12/18/interruptions-arent-intrinsically.html\">Interruptions</a>, <a href=\"https://jeroensangers.com/2022/05/10/reduce-mobile-phone.html\">Less mobile</a>, <a href=\"https://jeroensangers.com/2022/05/13/add-some-art.html\">Workplace art</a>, <a href=\"https://jeroensangers.com/2022/05/13/work-in-a.html\">Daylight</a>, <a href=\"https://jeroensangers.com/2022/05/24/an-increase-of.html\">Noise pollution</a>, <a href=\"https://jeroensangers.com/2022/05/24/a-moderate-level.html\">Background noise</a></p>\n",
+				"content_text": "Physical cues affect our state of mind and can be used to switch between different productive modes.\n\n_Related_: [Effectiveness](https://jeroensangers.com/2021/09/03/do-the-right.html), [Work cycle](https://jeroensangers.com/2021/09/09/during-the-mornings.html), [Implementation intentions](https://jeroensangers.com/2021/09/09/link-desired-behaviour.html), [Self-talk](https://jeroensangers.com/2021/09/06/when-you-get.html), [Joy](https://jeroensangers.com/2021/09/09/dedicate-time-to.html), [Inspiration](https://jeroensangers.com/2021/09/07/choose-a-work.html), [Reading is digesting](https://jeroensangers.com/2021/09/14/reading-is-digesting.html), [Walk](https://jeroensangers.com/2021/09/15/take-regular-thinking.html), [Ventilate](https://jeroensangers.com/2021/09/23/clean-air-multiplies.html), [Interruptions](https://jeroensangers.com/2021/12/18/interruptions-arent-intrinsically.html), [Less mobile](https://jeroensangers.com/2022/05/10/reduce-mobile-phone.html), [Workplace art](https://jeroensangers.com/2022/05/13/add-some-art.html), [Daylight](https://jeroensangers.com/2022/05/13/work-in-a.html), [Noise pollution](https://jeroensangers.com/2022/05/24/an-increase-of.html), [Background noise](https://jeroensangers.com/2022/05/24/a-moderate-level.html)\n",
 				"date_published": "2021-09-06T18:37:00+02:00",
-				"url": "https://jeroensangers.com/2021/09/06/environment.html",
-				"tags": ["Digital garden"]
-			},
-			{
-				"id": "http://JeroenSangers.micro.blog/2021/09/06/physical-cues-affect.html",
-				"title": "Environment",
-				"content_html": "<p>Physical cues affect our state of mind and can be used to switch between different productive modes.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/03/do-the-right.html\">Effectiveness</a>, <a href=\"https://jeroensangers.com/2021/09/09/during-the-mornings.html\">Work cycle</a>, <a href=\"https://jeroensangers.com/2021/09/09/link-desired-behaviour.html\">Implementation intentions</a>, <a href=\"https://jeroensangers.com/2021/09/06/when-you-get.html\">Self-talk</a>, <a href=\"https://jeroensangers.com/2021/09/09/dedicate-time-to.html\">Joy</a>, <a href=\"https://jeroensangers.com/2021/09/07/choose-a-work.html\">Inspiration</a>, <a href=\"https://jeroensangers.com/2021/09/14/reading-is-digesting.html\">Reading is digesting</a>, <a href=\"https://jeroensangers.com/2021/09/15/take-regular-thinking.html\">Walk</a>, <a href=\"https://jeroensangers.com/2021/09/23/clean-air-multiplies.html\">Ventilate</a>, <a href=\"https://jeroensangers.com/2021/12/18/interruptions-arent-intrinsically.html\">Interruptions</a>, <a href=\"https://jeroensangers.com/2022/05/10/reduce-mobile-phone.html\">Less mobile</a>, <a href=\"https://jeroensangers.com/2022/05/13/add-some-art.html\">Workplace art</a>, <a href=\"https://jeroensangers.com/2022/05/13/work-in-a.html\">Daylight</a></p>\n",
-				"content_text": "Physical cues affect our state of mind and can be used to switch between different productive modes.\n\n_Related_: [Effectiveness](https://jeroensangers.com/2021/09/03/do-the-right.html), [Work cycle](https://jeroensangers.com/2021/09/09/during-the-mornings.html), [Implementation intentions](https://jeroensangers.com/2021/09/09/link-desired-behaviour.html), [Self-talk](https://jeroensangers.com/2021/09/06/when-you-get.html), [Joy](https://jeroensangers.com/2021/09/09/dedicate-time-to.html), [Inspiration](https://jeroensangers.com/2021/09/07/choose-a-work.html), [Reading is digesting](https://jeroensangers.com/2021/09/14/reading-is-digesting.html), [Walk](https://jeroensangers.com/2021/09/15/take-regular-thinking.html), [Ventilate](https://jeroensangers.com/2021/09/23/clean-air-multiplies.html), [Interruptions](https://jeroensangers.com/2021/12/18/interruptions-arent-intrinsically.html), [Less mobile](https://jeroensangers.com/2022/05/10/reduce-mobile-phone.html), [Workplace art](https://jeroensangers.com/2022/05/13/add-some-art.html), [Daylight](https://jeroensangers.com/2022/05/13/work-in-a.html)\n",
-				"date_published": "2021-09-06T18:37:00+02:00",
-				"url": "https://jeroensangers.com/2021/09/06/physical-cues-affect.html",
+				"url": "https://jeroensangers.com/2021/09/06/183700.html",
 				"tags": ["Digital garden"]
 			},
 			{
