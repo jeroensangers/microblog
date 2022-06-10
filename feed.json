@@ -7,6 +7,32 @@
 	"items": [
 		
 			{
+				"id": "http://jeroensangers.micro.blog/2022/06/10/i-love-this.html",
+				
+				"content_html": "<p>I love this idea to schedule your “Uh Oh” moments:</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I love this idea to schedule your “Uh Oh” moments:\n\n<blockquote class=\"quoteback\" darkmode=\"\" data-title=\"Delivering Projects on Time Using \"Uh Oh\" Moments\" data-author=\"Rahul Chowdhury\" cite=\"https://hulry.com/delivering-projects-on-time/\">\n<p>Have you ever had a moment where you look at the state of your work and feel, \"uh oh, I'm already halfway through my timeline, and I haven't made as much progress as I should have\"?</p><p>These are your \"uh oh\" moments.</p>\n<footer>Rahul Chowdhury<cite> <a href=\"https://hulry.com/delivering-projects-on-time/\">https://hulry.com/delivering-projects-on-time/</a></cite></footer>\n</blockquote><script note=\"\" src=\"https://micro.blog/quoteback.js\"></script>\n",
+				"date_published": "2022-06-10T07:39:50+02:00",
+				"url": "https://jeroensangers.com/2022/06/10/i-love-this.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2022/06/06/the-workdays-of.html",
+				
+				"content_html": "<p>The workdays of so many professionals are dictated by urgencies and emergencies.</p>\n<p>But there is another way to work, which I call ‘Calm productivity’. This is a major paradigm shift, which not many organisations are willing or able to make.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The workdays of so many professionals are dictated by urgencies and emergencies.\n\nBut there is another way to work, which I call ‘Calm productivity’. This is a major paradigm shift, which not many organisations are willing or able to make.\n\n<blockquote class=\"quoteback\" darkmode=\"\" data-title=\"The next train\" data-author=\"Seth Godin\" cite=\"https://seths.blog/2022/06/the-next-train/\">\nWe can build slack into our lives. We can create cycles so that we don’t need to dance with a crisis around time on a regular basis.\n<footer>Seth Godin<cite> <a href=\"https://seths.blog/2022/06/the-next-train/\">https://seths.blog/2022/06/the-next-train/</a></cite></footer>\n</blockquote><script note=\"\" src=\"https://micro.blog/quoteback.js\"></script>\n",
+				"date_published": "2022-06-06T14:14:22+02:00",
+				"url": "https://jeroensangers.com/2022/06/06/the-workdays-of.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2022/06/03/how-is-it.html",
+				
+				"content_html": "<p>How is it possible that I have to pay 90€ for a digital license key for Microsoft 365 Family, while for only 70€ they will send me a physical box containing the license key at home?</p>\n",
+				"content_text": "How is it possible that I have to pay 90€ for a digital license key for Microsoft 365 Family, while for only 70€ they will send me a physical box containing the license key at home?\n",
+				"date_published": "2022-06-03T14:53:41+02:00",
+				"url": "https://jeroensangers.com/2022/06/03/how-is-it.html"
+			},
+			{
 				"id": "http://jeroensangers.micro.blog/2022/06/02/i-am-thinking.html",
 				
 				"content_html": "<p>I am thinking about buying a Kindle to use instead of the iPad for reading at night to avoid light exposure before going to bed.\nWhat’s kept me away until now is that I trust Apple more than Amazon with my data, but maybe in this case my health should get priority over my principles.</p>\n",
