@@ -7,6 +7,59 @@
 	"items": [
 		
 			{
+				"id": "http://jeroensangers.micro.blog/2022/09/02/this-quote-merits.html",
+				
+				"content_html": "<p>This quote merits to be converted into a nice poster in most offices:</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This quote merits to be converted into a nice poster in most offices:\n\n<blockquote class=\"quoteback\" darkmode=\"\" data-title=\"The last minute\" data-author=\"Seth Godin\" cite=\"https://seths.blog/2022/09/the-last-minute-3/\">\n<p>If you do anything at the last minute that takes more than a minute, you’re not organizing your project properly.</p><p>The last minute is not a buffer zone, nor is it the moment to double-check your work.</p><p>The last minute is simply sixty seconds to enjoy and to remind yourself that you successfully planned ahead.</p>\n<footer>Seth Godin<cite> <a href=\"https://seths.blog/2022/09/the-last-minute-3/\">https://seths.blog/2022/09/the-last-minute-3/</a></cite></footer>\n</blockquote><script note=\"\" src=\"https://micro.blog/quoteback.js\"></script>\n",
+				"date_published": "2022-09-02T13:39:43+02:00",
+				"url": "https://jeroensangers.com/2022/09/02/this-quote-merits.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2022/08/31/173746.html",
+				"title": "Hard work",
+				"content_html": "<p>Long working hours negatively effect cognitive performance</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/16/the-optimal-amount.html\">Free time</a>, <a href=\"https://jeroensangers.com/2021/09/09/explore-a-map.html\">Monthly map</a>, <a href=\"https://jeroensangers.com/2022/02/21/try-to-get.html\">Time to flow</a>, <a href=\"https://jeroensangers.com/2021/09/09/large-organisations-kill.html\">Indifference</a></p>\n",
+				"content_text": "Long working hours negatively effect cognitive performance\n\n_Related_: [Free time](https://jeroensangers.com/2021/09/16/the-optimal-amount.html), [Monthly map](https://jeroensangers.com/2021/09/09/explore-a-map.html), [Time to flow](https://jeroensangers.com/2022/02/21/try-to-get.html), [Indifference](https://jeroensangers.com/2021/09/09/large-organisations-kill.html)\n",
+				"date_published": "2022-08-31T17:37:46+02:00",
+				"url": "https://jeroensangers.com/2022/08/31/173746.html",
+				"tags": ["Digital garden"]
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2022/08/30/currently-reading-the.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781760558772\">The Subtle Art of Not Giving A –</a> by Mark Manson 📚</p>\n",
+				"content_text": "Currently reading: [The Subtle Art of Not Giving A –](https://micro.blog/books/9781760558772) by Mark Manson 📚\n",
+				"date_published": "2022-08-30T11:18:57+02:00",
+				"url": "https://jeroensangers.com/2022/08/30/currently-reading-the.html",
+				"tags": ["Reading"]
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2022/08/29/every-tine-i.html",
+				
+				"content_html": "<p>Every time I visit Twitter, which is not very often, I wish there was a way to remove the individual messages of threads from my timeline.</p>\n",
+				"content_text": "Every time I visit Twitter, which is not very often, I wish there was a way to remove the individual messages of threads from my timeline. \n",
+				"date_published": "2022-08-29T19:59:23+02:00",
+				"url": "https://jeroensangers.com/2022/08/29/every-tine-i.html"
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2022/08/28/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781472147189\">The Happiness Trap</a> by Russ Harris 📚</p>\n<p>Recommended for anybody who sometimes gets stuck in his/her own thoughts.</p>\n",
+				"content_text": "Finished reading: [The Happiness Trap](https://micro.blog/books/9781472147189) by Russ Harris 📚\n\nRecommended for anybody who sometimes gets stuck in his/her own thoughts.\n",
+				"date_published": "2022-08-28T18:45:24+02:00",
+				"url": "https://jeroensangers.com/2022/08/28/finished-reading-the.html",
+				"tags": ["Reading"]
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2022/08/25/165029.html",
+				"title": "Open-plan workspace",
+				"content_html": "<p>An open office is a short-term financial solution with huge intangible long-term costs.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2022/05/20/block-two-hours.html\">Deep work</a>, <a href=\"https://jeroensangers.com/2022/02/21/try-to-get.html\">Time to flow</a>, <a href=\"https://jeroensangers.com/2022/05/24/noise-pollution.html\">Noise pollution</a>, <a href=\"https://jeroensangers.com/2021/09/09/large-organisations-kill.html\">Indifference</a></p>\n",
+				"content_text": "An open office is a short-term financial solution with huge intangible long-term costs.\n\n_Related_: [Deep work](https://jeroensangers.com/2022/05/20/block-two-hours.html), [Time to flow](https://jeroensangers.com/2022/02/21/try-to-get.html), [Noise pollution](https://jeroensangers.com/2022/05/24/noise-pollution.html), [Indifference](https://jeroensangers.com/2021/09/09/large-organisations-kill.html)\n",
+				"date_published": "2022-08-25T16:50:29+02:00",
+				"url": "https://jeroensangers.com/2022/08/25/165029.html",
+				"tags": ["Digital garden"]
+			},
+			{
 				"id": "http://jeroensangers.micro.blog/2022/08/25/mixing-music.html",
 				"title": "Mixing music",
 				"content_html": "<p>Combine and massage instrument and vocal recordings to get a cohesive and clear sounding song</p>\n",
@@ -388,8 +441,8 @@
 			{
 				"id": "http://jeroensangers.micro.blog/2022/05/24/noise-pollution.html",
 				"title": "Noise pollution",
-				"content_html": "<p>An increase of 10 dB of noise in the workplace reduces detailed work productivity by 5%. Noise pollution doesn’t affect your effort, but does lower your ability to think, so you don’t notice the damage.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/06/physical-cues-affect.html\">Environment</a>, <a href=\"https://jeroensangers.com/2022/05/24/a-moderate-level.html\">Background noise</a></p>\n",
-				"content_text": "An increase of 10 dB of noise in the workplace reduces detailed work productivity by 5%. Noise pollution doesn’t affect your effort, but does lower your ability to think, so you don’t notice the damage.\n\n_Related_: [Environment](https://jeroensangers.com/2021/09/06/physical-cues-affect.html), [Background noise](https://jeroensangers.com/2022/05/24/a-moderate-level.html)\n",
+				"content_html": "<p>An increase of 10 dB of noise in the workplace reduces detailed work productivity by 5%. Noise pollution doesn’t affect your effort, but does lower your ability to think, so you don’t notice the damage.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/06/physical-cues-affect.html\">Environment</a>, <a href=\"https://jeroensangers.com/2022/05/24/a-moderate-level.html\">Background noise</a>, <a href=\"https://jeroensangers.com/2022/08/25/openplan-workspace.html\">Open-plan office</a></p>\n",
+				"content_text": "An increase of 10 dB of noise in the workplace reduces detailed work productivity by 5%. Noise pollution doesn’t affect your effort, but does lower your ability to think, so you don’t notice the damage.\n\n_Related_: [Environment](https://jeroensangers.com/2021/09/06/physical-cues-affect.html), [Background noise](https://jeroensangers.com/2022/05/24/a-moderate-level.html), [Open-plan office](https://jeroensangers.com/2022/08/25/openplan-workspace.html)\n",
 				"date_published": "2022-05-24T19:47:00+02:00",
 				"url": "https://jeroensangers.com/2022/05/24/noise-pollution.html",
 				"tags": ["Digital garden"]
@@ -397,8 +450,8 @@
 			{
 				"id": "http://JeroenSangers.micro.blog/2022/05/20/block-two-hours.html",
 				"title": "Deep work",
-				"content_html": "<p>Block two hours a day for important but non-urgent work to increase happiness and productivity.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/09/during-the-mornings.html\">Work cycle</a>, <a href=\"https://jeroensangers.com/2022/02/21/try-to-get.html\">Time to flow</a>, <a href=\"https://jeroensangers.com/2021/09/09/link-desired-behaviour.html\">Implementation intentions</a>, <a href=\"https://jeroensangers.com/2021/10/20/be-fore-you.html\">Intention</a></p>\n",
-				"content_text": "Block two hours a day for important but non-urgent work to increase happiness and productivity.\n\n_Related_: [Work cycle](https://jeroensangers.com/2021/09/09/during-the-mornings.html), [Time to flow](https://jeroensangers.com/2022/02/21/try-to-get.html), [Implementation intentions](https://jeroensangers.com/2021/09/09/link-desired-behaviour.html), [Intention](https://jeroensangers.com/2021/10/20/be-fore-you.html)\n",
+				"content_html": "<p>Block two hours a day for important but non-urgent work to increase happiness and productivity.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/09/during-the-mornings.html\">Work cycle</a>, <a href=\"https://jeroensangers.com/2022/02/21/try-to-get.html\">Time to flow</a>, <a href=\"https://jeroensangers.com/2021/09/09/link-desired-behaviour.html\">Implementation intentions</a>, <a href=\"https://jeroensangers.com/2021/10/20/be-fore-you.html\">Intention</a>, <a href=\"https://jeroensangers.com/2022/08/25/openplan-workspace.html\">Open-plan office</a></p>\n",
+				"content_text": "Block two hours a day for important but non-urgent work to increase happiness and productivity.\n\n_Related_: [Work cycle](https://jeroensangers.com/2021/09/09/during-the-mornings.html), [Time to flow](https://jeroensangers.com/2022/02/21/try-to-get.html), [Implementation intentions](https://jeroensangers.com/2021/09/09/link-desired-behaviour.html), [Intention](https://jeroensangers.com/2021/10/20/be-fore-you.html), [Open-plan office](https://jeroensangers.com/2022/08/25/openplan-workspace.html)\n",
 				"date_published": "2022-05-20T18:38:14+02:00",
 				"url": "https://jeroensangers.com/2022/05/20/block-two-hours.html",
 				"tags": ["Digital garden"]
@@ -938,8 +991,8 @@
 			{
 				"id": "http://JeroenSangers.micro.blog/2022/02/21/try-to-get.html",
 				"title": "Time to flow",
-				"content_html": "<p>Try to get four hours of concentrated work into a workday, and never more than six.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/10/20/be-fore-you.html\">Intention</a>, <a href=\"https://jeroensangers.com/2021/09/07/skip-the-easy.html\">Frog eating</a>, <a href=\"https://jeroensangers.com/2021/09/09/during-the-mornings.html\">Work cycle</a>, <a href=\"https://jeroensangers.com/2021/09/03/do-the-right.html\">Effectiveness</a>, <a href=\"https://jeroensangers.com/2022/05/20/block-two-hours.html\">Deep work</a></p>\n",
-				"content_text": "Try to get four hours of concentrated work into a workday, and never more than six.\n\n_Related_: [Intention](https://jeroensangers.com/2021/10/20/be-fore-you.html), [Frog eating](https://jeroensangers.com/2021/09/07/skip-the-easy.html), [Work cycle](https://jeroensangers.com/2021/09/09/during-the-mornings.html), [Effectiveness](https://jeroensangers.com/2021/09/03/do-the-right.html), [Deep work](https://jeroensangers.com/2022/05/20/block-two-hours.html)\n",
+				"content_html": "<p>Try to get four hours of concentrated work into a workday, and never more than six.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/10/20/be-fore-you.html\">Intention</a>, <a href=\"https://jeroensangers.com/2021/09/07/skip-the-easy.html\">Frog eating</a>, <a href=\"https://jeroensangers.com/2021/09/09/during-the-mornings.html\">Work cycle</a>, <a href=\"https://jeroensangers.com/2021/09/03/do-the-right.html\">Effectiveness</a>, <a href=\"https://jeroensangers.com/2022/05/20/block-two-hours.html\">Deep work</a>, <a href=\"https://jeroensangers.com/2022/08/25/openplan-workspace.html\">Open-plan office</a>, <a href=\"https://jeroensangers.com/2022/08/31/hard-work.html\">Hard work</a></p>\n",
+				"content_text": "Try to get four hours of concentrated work into a workday, and never more than six.\n\n_Related_: [Intention](https://jeroensangers.com/2021/10/20/be-fore-you.html), [Frog eating](https://jeroensangers.com/2021/09/07/skip-the-easy.html), [Work cycle](https://jeroensangers.com/2021/09/09/during-the-mornings.html), [Effectiveness](https://jeroensangers.com/2021/09/03/do-the-right.html), [Deep work](https://jeroensangers.com/2022/05/20/block-two-hours.html), [Open-plan office](https://jeroensangers.com/2022/08/25/openplan-workspace.html), [Hard work](https://jeroensangers.com/2022/08/31/hard-work.html)\n",
 				"date_published": "2022-02-21T20:07:00+02:00",
 				"url": "https://jeroensangers.com/2022/02/21/try-to-get.html",
 				"tags": ["Digital garden"]
@@ -1794,12 +1847,12 @@
 				"url": "https://jeroensangers.com/2021/09/21/this-morning-while.html"
 			},
 			{
-				"id": "http://JeroenSangers.micro.blog/2021/09/16/the-optimal-amount.html",
+				"id": "http://jeroensangers.micro.blog/2021/09/16/free-time.html",
 				"title": "Free time",
-				"content_html": "<p>The optimal amount of free time seems to be between 2 and 4 hours per day.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/03/do-the-right.html\">Effectiveness</a>, <a href=\"https://jeroensangers.com/2021/09/09/explore-a-map.html\">Monthly map</a>, <a href=\"https://jeroensangers.com/2021/09/15/take-regular-thinking.html\">Walk</a>, <a href=\"https://jeroensangers.com/2021/09/09/dedicate-time-to.html\">Joy</a></p>\n",
-				"content_text": "The optimal amount of free time seems to be between 2 and 4 hours per day.\n\n_Related_: [Effectiveness](https://jeroensangers.com/2021/09/03/do-the-right.html), [Monthly map](https://jeroensangers.com/2021/09/09/explore-a-map.html), [Walk](https://jeroensangers.com/2021/09/15/take-regular-thinking.html), [Joy](https://jeroensangers.com/2021/09/09/dedicate-time-to.html)\n",
-				"date_published": "2021-09-16T19:12:00+02:00",
-				"url": "https://jeroensangers.com/2021/09/16/the-optimal-amount.html",
+				"content_html": "<p>The optimal amount of free time seems to be between 2 and 4 hours per day.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/03/do-the-right.html\">Effectiveness</a>, <a href=\"https://jeroensangers.com/2021/09/09/explore-a-map.html\">Monthly map</a>, <a href=\"https://jeroensangers.com/2021/09/15/take-regular-thinking.html\">Walk</a>, <a href=\"https://jeroensangers.com/2021/09/09/dedicate-time-to.html\">Joy</a>, <a href=\"https://jeroensangers.com/2022/08/31/hard-work.html\">Hard work</a></p>\n",
+				"content_text": "The optimal amount of free time seems to be between 2 and 4 hours per day.\n\n_Related_: [Effectiveness](https://jeroensangers.com/2021/09/03/do-the-right.html), [Monthly map](https://jeroensangers.com/2021/09/09/explore-a-map.html), [Walk](https://jeroensangers.com/2021/09/15/take-regular-thinking.html), [Joy](https://jeroensangers.com/2021/09/09/dedicate-time-to.html), [Hard work](https://jeroensangers.com/2022/08/31/hard-work.html)\n",
+				"date_published": "2021-09-16T17:36:00+02:00",
+				"url": "https://jeroensangers.com/2021/09/16/free-time.html",
 				"tags": ["Digital garden"]
 			},
 			{
@@ -1925,15 +1978,6 @@
 				"tags": ["Digital garden"]
 			},
 			{
-				"id": "http://JeroenSangers.micro.blog/2021/09/09/explore-a-map.html",
-				"title": "Monthly map",
-				"content_html": "<p>Explore a map for each month&rsquo;s cycle that not only includes things to do, but also things to avoid</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/09/link-desired-behaviour.html\">Implementation intention</a>, <a href=\"https://jeroensangers.com/2021/09/09/give-your-mind.html\">Scatterfocus</a>, <a href=\"https://jeroensangers.com/2021/09/09/during-the-mornings.html\">Work cycle</a>, <a href=\"https://jeroensangers.com/2021/09/09/any-personal-effectiveness.html\">Getting things done</a>, <a href=\"https://jeroensangers.com/2021/09/03/do-the-right.html\">Effectiveness</a>, <a href=\"https://jeroensangers.com/2021/09/09/dedicate-time-to.html\">Joy</a>, <a href=\"https://jeroensangers.com/2021/09/09/take-your-time.html\">Prudence</a>, <a href=\"https://jeroensangers.com/2021/09/16/the-optimal-amount.html\">Free time</a>, <a href=\"https://jeroensangers.com/2022/02/03/spent-a-little.html\">Invest</a></p>\n",
-				"content_text": "Explore a map for each month's cycle that not only includes things to do, but also things to avoid\n\n_Related_: [Implementation intention](https://jeroensangers.com/2021/09/09/link-desired-behaviour.html), [Scatterfocus](https://jeroensangers.com/2021/09/09/give-your-mind.html), [Work cycle](https://jeroensangers.com/2021/09/09/during-the-mornings.html), [Getting things done](https://jeroensangers.com/2021/09/09/any-personal-effectiveness.html), [Effectiveness](https://jeroensangers.com/2021/09/03/do-the-right.html), [Joy](https://jeroensangers.com/2021/09/09/dedicate-time-to.html), [Prudence](https://jeroensangers.com/2021/09/09/take-your-time.html), [Free time](https://jeroensangers.com/2021/09/16/the-optimal-amount.html), [Invest](https://jeroensangers.com/2022/02/03/spent-a-little.html)\n",
-				"date_published": "2021-09-09T13:10:00+02:00",
-				"url": "https://jeroensangers.com/2021/09/09/explore-a-map.html",
-				"tags": ["Digital garden"]
-			},
-			{
 				"id": "http://JeroenSangers.micro.blog/2021/09/09/during-the-mornings.html",
 				"title": "Work cycle",
 				"content_html": "<p>During the mornings, work in 90-minute cycles separated by 20-minute breaks.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/09/link-desired-behaviour.html\">Implementation intentions</a>, <a href=\"https://jeroensangers.com/2021/09/09/explore-a-map.html\">Monthly map</a>, <a href=\"https://jeroensangers.com/2021/09/06/physical-cues-affect.html\">Environment</a>, <a href=\"https://jeroensangers.com/2021/10/20/be-fore-you.html\">Intention</a>, <a href=\"https://jeroensangers.com/2022/02/03/spent-a-little.html\">Invest</a>, <a href=\"https://jeroensangers.com/2022/02/21/try-to-get.html\">Time to flow</a>, <a href=\"https://jeroensangers.com/2022/05/20/block-two-hours.html\">Deep work</a></p>\n",
@@ -1999,8 +2043,8 @@
 			{
 				"id": "http://JeroenSangers.micro.blog/2021/09/09/large-organisations-kill.html",
 				"title": "Indifference",
-				"content_html": "<p>Large organisations kill workers’ passion.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/03/do-the-right.html\">Effectiveness</a>, <a href=\"https://jeroensangers.com/2021/09/09/dedicate-time-to.html\">Joy</a>, <a href=\"https://jeroensangers.com/2021/09/07/choose-a-work.html\">Inspiration</a></p>\n",
-				"content_text": "Large organisations kill workers’ passion.\n\n_Related_: [Effectiveness](https://jeroensangers.com/2021/09/03/do-the-right.html), [Joy](https://jeroensangers.com/2021/09/09/dedicate-time-to.html), [Inspiration](https://jeroensangers.com/2021/09/07/choose-a-work.html)\n",
+				"content_html": "<p>Large organisations kill workers’ passion.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/03/do-the-right.html\">Effectiveness</a>, <a href=\"https://jeroensangers.com/2021/09/09/dedicate-time-to.html\">Joy</a>, <a href=\"https://jeroensangers.com/2021/09/07/choose-a-work.html\">Inspiration</a>, <a href=\"https://jeroensangers.com/2022/08/25/openplan-workspace.html\">Open-plan office</a>, <a href=\"https://jeroensangers.com/2022/08/31/hard-work.html\">Hard work</a></p>\n",
+				"content_text": "Large organisations kill workers’ passion.\n\n_Related_: [Effectiveness](https://jeroensangers.com/2021/09/03/do-the-right.html), [Joy](https://jeroensangers.com/2021/09/09/dedicate-time-to.html), [Inspiration](https://jeroensangers.com/2021/09/07/choose-a-work.html), [Open-plan office](https://jeroensangers.com/2022/08/25/openplan-workspace.html), [Hard work](https://jeroensangers.com/2022/08/31/hard-work.html)\n",
 				"date_published": "2021-09-09T11:12:00+02:00",
 				"url": "https://jeroensangers.com/2021/09/09/large-organisations-kill.html",
 				"tags": ["Digital garden"]
@@ -2154,6 +2198,15 @@
 				"content_text": "Aparentemente, Santander mantiene una lista de Trolls similares a [@Yoriento](https://twitter.com/Yoriento).\r\n\r\n(Cosas que encuentro en mi [archivo de Twitter](https://jeroensangers.com/2021/09/01/i-requested-an.html)).\r\n\n\n<img src=\"uploads/2021/f921cdde4e.png\" width=\"600\" height=\"494\" alt=\"\" />\n",
 				"date_published": "2021-09-03T09:24:27+02:00",
 				"url": "https://jeroensangers.com/2021/09/03/aparentemente-santander-mantiene.html"
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2021/09/02/monthly-map.html",
+				"title": "Monthly map",
+				"content_html": "<p>Explore a map for each month&rsquo;s cycle that not only includes things to do, but also things to avoid</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/09/link-desired-behaviour.html\">Implementation intention</a>, <a href=\"https://jeroensangers.com/2021/09/09/give-your-mind.html\">Scatterfocus</a>, <a href=\"https://jeroensangers.com/2021/09/09/during-the-mornings.html\">Work cycle</a>, <a href=\"https://jeroensangers.com/2021/09/09/any-personal-effectiveness.html\">Getting things done</a>, <a href=\"https://jeroensangers.com/2021/09/03/do-the-right.html\">Effectiveness</a>, <a href=\"https://jeroensangers.com/2021/09/09/dedicate-time-to.html\">Joy</a>, <a href=\"https://jeroensangers.com/2021/09/09/take-your-time.html\">Prudence</a>, <a href=\"https://jeroensangers.com/2021/09/16/the-optimal-amount.html\">Free time</a>, <a href=\"https://jeroensangers.com/2022/02/03/spent-a-little.html\">Invest</a>, <a href=\"https://jeroensangers.com/2022/08/31/hard-work.html\">Hard work</a></p>\n",
+				"content_text": "Explore a map for each month's cycle that not only includes things to do, but also things to avoid\n\n_Related_: [Implementation intention](https://jeroensangers.com/2021/09/09/link-desired-behaviour.html), [Scatterfocus](https://jeroensangers.com/2021/09/09/give-your-mind.html), [Work cycle](https://jeroensangers.com/2021/09/09/during-the-mornings.html), [Getting things done](https://jeroensangers.com/2021/09/09/any-personal-effectiveness.html), [Effectiveness](https://jeroensangers.com/2021/09/03/do-the-right.html), [Joy](https://jeroensangers.com/2021/09/09/dedicate-time-to.html), [Prudence](https://jeroensangers.com/2021/09/09/take-your-time.html), [Free time](https://jeroensangers.com/2021/09/16/the-optimal-amount.html), [Invest](https://jeroensangers.com/2022/02/03/spent-a-little.html), [Hard work](https://jeroensangers.com/2022/08/31/hard-work.html)\n",
+				"date_published": "2021-09-02T17:36:00+02:00",
+				"url": "https://jeroensangers.com/2021/09/02/monthly-map.html",
+				"tags": ["Digital garden"]
 			},
 			{
 				"id": "http://JeroenSangers.micro.blog/2021/09/02/i-have-to.html",
