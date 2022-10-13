@@ -7,6 +7,50 @@
 	"items": [
 		
 			{
+				"id": "http://jeroensangers.micro.blog/2022/10/13/i-agree-with.html",
+				
+				"content_html": "<p>I agree with <a href=\"https://micro.blog/jack\">@jack</a>:</p>\n<!-- raw HTML omitted -->\n<p>For most people, a simple notes app to store a curated selection of bits of information is more than enough. A full-blown Zettelkasten is overkill.</p>\n<p>However, if you’re a thought leader and/or writer and need a systematic way to develop original thinking and store and retrieve those thoughts to combine them into new work, you may want to look at a Zetterkasten.</p>\n",
+				"content_text": "I agree with [@jack](https://micro.blog/jack):\n\n<blockquote class=\"quoteback\" darkmode=\"\" data-title=\"Personal Knowledge Management is exhausting\" data-author=\"Jack Baty\" cite=\"https://rudimentarylathe.org/2022/personal-knowledge-management/\">\nFirst, I don't need a Zettelkasten. If you're being honest, you probably don't either.\n<footer>Jack Baty<cite> <a href=\"https://rudimentarylathe.org/2022/personal-knowledge-management/\">https://rudimentarylathe.org/2022/personal-knowledge-management/</a></cite></footer>\n</blockquote><script note=\"\" src=\"https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js\"></script>\n\nFor most people, a simple notes app to store a curated selection of bits of information is more than enough. A full-blown Zettelkasten is overkill. \n\nHowever, if you’re a thought leader and/or writer and need a systematic way to develop original thinking and store and retrieve those thoughts to combine them into new work, you may want to look at a Zetterkasten.\n",
+				"date_published": "2022-10-13T08:08:03+02:00",
+				"url": "https://jeroensangers.com/2022/10/13/i-agree-with.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2022/10/07/currently-reading-brave.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780241361818\">Brave New Work</a> by Aaron Dignan 📚</p>\n",
+				"content_text": "Currently reading: [Brave New Work](https://micro.blog/books/9780241361818) by Aaron Dignan 📚\n",
+				"date_published": "2022-10-07T14:42:18+02:00",
+				"url": "https://jeroensangers.com/2022/10/07/currently-reading-brave.html",
+				"tags": ["Reading"]
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2022/10/05/cardona.html",
+				
+				"content_html": "<p>📸 Cardona</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📸 Cardona\n\n<img src=\"uploads/2022/360027fe4f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2022-10-05T15:09:55+02:00",
+				"url": "https://jeroensangers.com/2022/10/05/cardona.html"
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2022/10/05/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781760558772\">The Subtle Art of Not Giving A -</a> by Mark Manson 📚</p>\n<p>This book did nothing for me. No new insights. Also, the language Mark uses doesn’t connect with me.</p>\n",
+				"content_text": "Finished reading: [The Subtle Art of Not Giving A -](https://micro.blog/books/9781760558772) by Mark Manson 📚\n\nThis book did nothing for me. No new insights. Also, the language Mark uses doesn’t connect with me.\n",
+				"date_published": "2022-10-05T12:26:09+02:00",
+				"url": "https://jeroensangers.com/2022/10/05/finished-reading-the.html",
+				"tags": ["Reading"]
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2022/10/04/private-offices.html",
+				"title": "Private offices",
+				"content_html": "<p>Employees with private offices have 70% more face to face interaction compared to workers in an open-plan workspace.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2022/08/25/165029.html\">Open-plan workspace</a>, <a href=\"https://jeroensangers.com/2021/09/09/large-organisations-kill.html\">Indifference</a></p>\n",
+				"content_text": "Employees with private offices have 70% more face to face interaction compared to workers in an open-plan workspace.\n\n_Related_: [Open-plan workspace](https://jeroensangers.com/2022/08/25/165029.html), [Indifference](https://jeroensangers.com/2021/09/09/large-organisations-kill.html)\n",
+				"date_published": "2022-10-04T18:04:15+02:00",
+				"url": "https://jeroensangers.com/2022/10/04/private-offices.html",
+				"tags": ["Digital garden"]
+			},
+			{
 				"id": "http://jeroensangers.micro.blog/2022/10/03/ha-sido-un.html",
 				
 				"content_html": "<p>Ha sido un gran placer poder conversar con <a href=\"https://twitter.com/DVC_tw\">@DVC_tw</a>. Próximamente en tu reproductor de podcast…</p>\n",
@@ -85,8 +129,8 @@
 			{
 				"id": "http://jeroensangers.micro.blog/2022/08/25/165029.html",
 				"title": "Open-plan workspace",
-				"content_html": "<p>An open office is a short-term financial solution with huge intangible long-term costs.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2022/05/20/block-two-hours.html\">Deep work</a>, <a href=\"https://jeroensangers.com/2022/02/21/try-to-get.html\">Time to flow</a>, <a href=\"https://jeroensangers.com/2022/05/24/noise-pollution.html\">Noise pollution</a>, <a href=\"https://jeroensangers.com/2021/09/09/large-organisations-kill.html\">Indifference</a></p>\n",
-				"content_text": "An open office is a short-term financial solution with huge intangible long-term costs.\n\n_Related_: [Deep work](https://jeroensangers.com/2022/05/20/block-two-hours.html), [Time to flow](https://jeroensangers.com/2022/02/21/try-to-get.html), [Noise pollution](https://jeroensangers.com/2022/05/24/noise-pollution.html), [Indifference](https://jeroensangers.com/2021/09/09/large-organisations-kill.html)\n",
+				"content_html": "<p>An open office is a short-term financial solution with huge intangible long-term costs.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2022/05/20/block-two-hours.html\">Deep work</a>, <a href=\"https://jeroensangers.com/2022/02/21/try-to-get.html\">Time to flow</a>, <a href=\"https://jeroensangers.com/2022/05/24/noise-pollution.html\">Noise pollution</a>, <a href=\"https://jeroensangers.com/2021/09/09/large-organisations-kill.html\">Indifference</a>, <a href=\"https://jeroensangers.com/2022/10/04/private-offices.html\">Private offices</a></p>\n",
+				"content_text": "An open office is a short-term financial solution with huge intangible long-term costs.\n\n_Related_: [Deep work](https://jeroensangers.com/2022/05/20/block-two-hours.html), [Time to flow](https://jeroensangers.com/2022/02/21/try-to-get.html), [Noise pollution](https://jeroensangers.com/2022/05/24/noise-pollution.html), [Indifference](https://jeroensangers.com/2021/09/09/large-organisations-kill.html), [Private offices](https://jeroensangers.com/2022/10/04/private-offices.html)\n",
 				"date_published": "2022-08-25T16:50:29+02:00",
 				"url": "https://jeroensangers.com/2022/08/25/165029.html",
 				"tags": ["Digital garden"]
@@ -2075,8 +2119,8 @@
 			{
 				"id": "http://JeroenSangers.micro.blog/2021/09/09/large-organisations-kill.html",
 				"title": "Indifference",
-				"content_html": "<p>Large organisations kill workers’ passion.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/03/do-the-right.html\">Effectiveness</a>, <a href=\"https://jeroensangers.com/2021/09/09/dedicate-time-to.html\">Joy</a>, <a href=\"https://jeroensangers.com/2021/09/07/choose-a-work.html\">Inspiration</a>, <a href=\"https://jeroensangers.com/2022/08/25/openplan-workspace.html\">Open-plan office</a>, <a href=\"https://jeroensangers.com/2022/08/31/hard-work.html\">Hard work</a></p>\n",
-				"content_text": "Large organisations kill workers’ passion.\n\n_Related_: [Effectiveness](https://jeroensangers.com/2021/09/03/do-the-right.html), [Joy](https://jeroensangers.com/2021/09/09/dedicate-time-to.html), [Inspiration](https://jeroensangers.com/2021/09/07/choose-a-work.html), [Open-plan office](https://jeroensangers.com/2022/08/25/openplan-workspace.html), [Hard work](https://jeroensangers.com/2022/08/31/hard-work.html)\n",
+				"content_html": "<p>Large organisations kill workers’ passion.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/03/do-the-right.html\">Effectiveness</a>, <a href=\"https://jeroensangers.com/2021/09/09/dedicate-time-to.html\">Joy</a>, <a href=\"https://jeroensangers.com/2021/09/07/choose-a-work.html\">Inspiration</a>, <a href=\"https://jeroensangers.com/2022/08/25/openplan-workspace.html\">Open-plan office</a>, <a href=\"https://jeroensangers.com/2022/08/31/hard-work.html\">Hard work</a>, <a href=\"https://jeroensangers.com/2022/10/04/private-offices.html\">Private offices</a></p>\n",
+				"content_text": "Large organisations kill workers’ passion.\n\n_Related_: [Effectiveness](https://jeroensangers.com/2021/09/03/do-the-right.html), [Joy](https://jeroensangers.com/2021/09/09/dedicate-time-to.html), [Inspiration](https://jeroensangers.com/2021/09/07/choose-a-work.html), [Open-plan office](https://jeroensangers.com/2022/08/25/openplan-workspace.html), [Hard work](https://jeroensangers.com/2022/08/31/hard-work.html), [Private offices](https://jeroensangers.com/2022/10/04/private-offices.html)\n",
 				"date_published": "2021-09-09T11:12:00+02:00",
 				"url": "https://jeroensangers.com/2021/09/09/large-organisations-kill.html",
 				"tags": ["Digital garden"]
