@@ -7,10 +7,43 @@
 	"items": [
 		
 			{
+				"id": "http://jeroensangers.micro.blog/2022/10/23/finished-reading-brave.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780241361818\">Brave New Work</a> by Aaron Dignan 📚</p>\n",
+				"content_text": "Finished reading: [Brave New Work](https://micro.blog/books/9780241361818) by Aaron Dignan 📚\n",
+				"date_published": "2022-10-23T18:00:10+02:00",
+				"url": "https://jeroensangers.com/2022/10/23/finished-reading-brave.html",
+				"tags": ["Reading"]
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2022/10/21/i-updated-my.html",
+				
+				"content_html": "<p>I updated my <a href=\"https://jeroensangers.com/now/\">Now page</a> and my list of <a href=\"https://jeroensangers.com/tools/\">the tools I use</a>.</p>\n",
+				"content_text": "I updated my [Now page](https://jeroensangers.com/now/) and my list of [the tools I use](https://jeroensangers.com/tools/).\n",
+				"date_published": "2022-10-21T08:29:09+02:00",
+				"url": "https://jeroensangers.com/2022/10/21/i-updated-my.html"
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2022/10/20/just-five-minutes.html",
+				
+				"content_html": "<p>Just five minutes after reading <a href=\"https://www.byzero.de/2022/10/20/create-link-relme.html\">Create link rel-me tags on micro.blog</a> by <a href=\"https://micro.blog/muhh\">@muhh</a>, I already have the <a href=\"https://www.manton.org/2022/10/16/i-created-a.html\">meta tags plugin for micro.blog</a> installed and my link rel-me tags created.</p>\n",
+				"content_text": "Just five minutes after reading [Create link rel-me tags on micro.blog](https://www.byzero.de/2022/10/20/create-link-relme.html) by [@muhh](https://micro.blog/muhh), I already have the [meta tags plugin for micro.blog](https://www.manton.org/2022/10/16/i-created-a.html) installed and my link rel-me tags created.\n",
+				"date_published": "2022-10-20T12:31:36+02:00",
+				"url": "https://jeroensangers.com/2022/10/20/just-five-minutes.html"
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2022/10/20/wet-leaves-is.html",
+				
+				"content_html": "<p>📸 Wet leaves 🍃 Is autumn finally coming?<br>\nLleida, 12:20 CET <a href=\"http://micro.blog/discover/adayinthelife2\">A Day in the Life of Micro.blog</a></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📸 Wet leaves 🍃 Is autumn finally coming?  \nLleida, 12:20 CET [A Day in the Life of Micro.blog](http://micro.blog/discover/adayinthelife2)\n\n<img src=\"uploads/2022/b205ef6866.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2022-10-20T12:20:40+02:00",
+				"url": "https://jeroensangers.com/2022/10/20/wet-leaves-is.html"
+			},
+			{
 				"id": "http://jeroensangers.micro.blog/2022/10/19/all-prepared-for.html",
 				
-				"content_html": "<p>📸 All prepared for the trading course<br>\nLleida, 14:55 CET <a href=\"http://micro.blog/discover/adayinthelife2\">A Day in the Life of Micro.blog</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 All prepared for the trading course  \nLleida, 14:55 CET [A Day in the Life of Micro.blog](http://micro.blog/discover/adayinthelife2)\n\n<img src=\"uploads/2022/d2b0027a77.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>📸 All prepared for the trading course</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📸 All prepared for the trading course\n\n<img src=\"uploads/2022/d2b0027a77.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-10-19T19:00:41+02:00",
 				"url": "https://jeroensangers.com/2022/10/19/all-prepared-for.html"
 			},
@@ -41,16 +74,16 @@
 			{
 				"id": "http://jeroensangers.micro.blog/2022/10/16/chores-and-a.html",
 				
-				"content_html": "<p>📸 Chores and a blue sky<br>\nLleida, 14:18 CET <a href=\"http://micro.blog/discover/adayinthelife2\">A Day in the Life of Micro.blog</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 Chores and a blue sky  \nLleida, 14:18 CET [A Day in the Life of Micro.blog](http://micro.blog/discover/adayinthelife2)\n\n<img src=\"uploads/2022/c04b5ec539.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>📸 Chores and a blue sky</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📸 Chores and a blue sky\n\n<img src=\"uploads/2022/c04b5ec539.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-10-16T14:19:14+02:00",
 				"url": "https://jeroensangers.com/2022/10/16/chores-and-a.html"
 			},
 			{
 				"id": "http://jeroensangers.micro.blog/2022/10/15/patio-lleida-cet.html",
 				
-				"content_html": "<p>📸 Patio<br>\nLleida, 17:17 CET <a href=\"http://micro.blog/discover/adayinthelife2\">A Day in the Life of Micro.blog</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 Patio  \nLleida, 17:17 CET [A Day in the Life of Micro.blog](http://micro.blog/discover/adayinthelife2)\n\n<img src=\"https://jeroensangers.com/uploads/2022/f44c5ddf4b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>📸 Patio</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📸 Patio\n\n<img src=\"uploads/2022/f44c5ddf4b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-10-15T17:17:37+02:00",
 				"url": "https://jeroensangers.com/2022/10/15/patio-lleida-cet.html"
 			},
