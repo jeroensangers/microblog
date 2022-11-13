@@ -7,6 +7,39 @@
 	"items": [
 		
 			{
+				"id": "http://jeroensangers.micro.blog/2022/11/13/it-is-simple.html",
+				
+				"content_html": "<p>It is simple:</p>\n<!-- raw HTML omitted -->\n<p>Via <a href=\"https://micro.blog/Patrickrhone\">@Patrickrhone</a></p>\n",
+				"content_text": "It is simple:\n\n<blockquote class=\"quoteback\" darkmode=\"\" data-title=\"Punctuality\" data-author=\"Kurt Harden\" cite=\"https://culturaloffering.tumblr.com/post/700722179727310848/punctuality\">\nEarly is on time.&nbsp; On time is late.&nbsp; Late is unacceptable.\n<footer>Kurt Harden<cite> <a href=\"https://culturaloffering.tumblr.com/post/700722179727310848/punctuality\">https://culturaloffering.tumblr.com/post/700722179727310848/punctuality</a></cite></footer>\n</blockquote><script note=\"\" src=\"https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js\"></script>\n\nVia [@Patrickrhone](https://micro.blog/Patrickrhone)\n",
+				"date_published": "2022-11-13T10:48:37+01:00",
+				"url": "https://jeroensangers.com/2022/11/13/it-is-simple.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2022/11/10/111533.html",
+				
+				"content_html": "<p>I dedicated some more time to reflect on <a href=\"https://jeroensangers.com/2022/11/09/years-of-blogging.html\">yesterday&rsquo;s thoughts</a> and decided to map out my whole personal information workflow in Roam Research.</p>\n<!-- raw HTML omitted -->\n<p>It probably is incomplete and misses a lot of small nuances, but it looks complicated enough already and serves its purpose of getting a high level overview.</p>\n",
+				"content_text": "I dedicated some more time to reflect on [yesterday's thoughts](https://jeroensangers.com/2022/11/09/years-of-blogging.html) and decided to map out my whole personal information workflow in Roam Research.\n\n<img src=\"uploads/2022/190ad07094.png\" width=\"600\" height=\"269\" alt=\"My personal information workflow\">\n\nIt probably is incomplete and misses a lot of small nuances, but it looks complicated enough already and serves its purpose of getting a high level overview.\n",
+				"date_published": "2022-11-10T11:15:33+01:00",
+				"url": "https://jeroensangers.com/2022/11/10/111533.html"
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2022/11/09/years-of-blogging.html",
+				"title": "25 years of blogging",
+				"content_html": "<p>Today I should throw a party to celebrate this blog&rsquo;s <a href=\"https://jeroensangers.com/1997/11/09/nieuws.html\">25th anniversary</a>.</p>\n<p>But lately I am not too proud of my blog. In contrast to the early days, when I was very inspired to write, I feel like the blog has fallen outside my regular information– and content workflow.</p>\n<p>That said, I should probably have a closer look at all parts implicated in that workflow and maybe even draw a diagram to get an overview. And maybe (just maybe) I will find a way to incorporate more original thinking to post here.</p>\n<p>Anyway, cheers to all my readers! 🍻</p>\n",
+				"content_text": "Today I should throw a party to celebrate this blog's [25th anniversary](https://jeroensangers.com/1997/11/09/nieuws.html).\n\nBut lately I am not too proud of my blog. In contrast to the early days, when I was very inspired to write, I feel like the blog has fallen outside my regular information– and content workflow.\n\nThat said, I should probably have a closer look at all parts implicated in that workflow and maybe even draw a diagram to get an overview. And maybe (just maybe) I will find a way to incorporate more original thinking to post here.\n\nAnyway, cheers to all my readers! 🍻\n",
+				"date_published": "2022-11-09T17:33:51+01:00",
+				"url": "https://jeroensangers.com/2022/11/09/years-of-blogging.html"
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2022/11/09/it-has-only.html",
+				
+				"content_html": "<p>It has only been a little over two weeks that I upgraded to macOS Ventura, and already got my ass saved twice by the ‘Undo Send’ button in Mail.</p>\n",
+				"content_text": "It has only been a little over two weeks that I upgraded to macOS Ventura, and already got my ass saved twice by the ‘Undo Send’ button in Mail.\n",
+				"date_published": "2022-11-09T13:48:27+01:00",
+				"url": "https://jeroensangers.com/2022/11/09/it-has-only.html"
+			},
+			{
 				"id": "http://jeroensangers.micro.blog/2022/11/07/nicholas-is-as.html",
 				
 				"content_html": "<p>Nicholas is as inspiring as usual:</p>\n<!-- raw HTML omitted -->\n",
