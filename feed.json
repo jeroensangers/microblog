@@ -7,10 +7,59 @@
 	"items": [
 		
 			{
+				"id": "http://jeroensangers.micro.blog/2022/11/25/today-i-received.html",
+				
+				"content_html": "<p>Today I received my invite to access Tana and immediately imported my Roam Research database.</p>\n<p>So far, I like what I see, but will have to do a lot of work to recreate a trusted system in Tana.</p>\n<p>There is still a lot to figure out, including some very basic stuff such as how to create an inline hyperlink and how to capture information from my phone and tablet.</p>\n",
+				"content_text": "Today I received my invite to access Tana and immediately imported my Roam Research database.\n\nSo far, I like what I see, but will have to do a lot of work to recreate a trusted system in Tana.\n\nThere is still a lot to figure out, including some very basic stuff such as how to create an inline hyperlink and how to capture information from my phone and tablet.\n",
+				"date_published": "2022-11-25T20:59:12+01:00",
+				"url": "https://jeroensangers.com/2022/11/25/today-i-received.html"
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2022/11/22/love-it-how.html",
+				
+				"content_html": "<p>Love it how an insurance company sent me my username and password in two separate mailings several days apart, but since international postal delivery is flakey, the mailman handed me both envelopes at the same time.</p>\n",
+				"content_text": "Love it how an insurance company sent me my username and password in two separate mailings several days apart, but since international postal delivery is flakey, the mailman handed me both envelopes at the same time.\n",
+				"date_published": "2022-11-22T12:48:44+01:00",
+				"url": "https://jeroensangers.com/2022/11/22/love-it-how.html"
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2022/11/22/with-mastodon-i.html",
+				
+				"content_html": "<p>With Mastodon I get the same feeling as email in the early days.</p>\n<p>Remember the hassle to change from yahoo.com to hotmail.com to gmail.com?</p>\n<p>Having and using your own domain name makes switching email providers a breeze and should also be the norm for Mastodon. You can follow me at <a href=\"https://micro.blog/jeroensangers?remote_follow=1\">@jeroen@jeroensangers.com</a> on Mastodon.</p>\n",
+				"content_text": "With Mastodon I get the same feeling as email in the early days.\n\nRemember the hassle to change from yahoo.com to hotmail.com to gmail.com?\n\nHaving and using your own domain name makes switching email providers a breeze and should also be the norm for Mastodon. You can follow me at [@jeroen@jeroensangers.com](https://micro.blog/jeroensangers?remote_follow=1) on Mastodon.\n",
+				"date_published": "2022-11-22T12:43:33+01:00",
+				"url": "https://jeroensangers.com/2022/11/22/with-mastodon-i.html"
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2022/11/22/and-yes-thats.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>My quest for the rest of this year: get better at living a “polychronic” life.</p>\n",
+				"content_text": "<blockquote class=\"quoteback\" darkmode=\"\" data-title=\"The Diminishing Returns of Calendar Culture\" data-author=\"Anne Helen Petersen\" cite=\"https://annehelen.substack.com/p/the-diminishing-returns-of-calendar\">\nAnd yes: that’s certainly how a lot of capitalist cultures think about time — as something that can be wasted or optimized. It’s often predicated on the idea that you should be focused on doing one thing, and one thing only, very efficiently: time is money, etc. etc. But that itself, sometimes referred to as a “monochronic” understanding of time, is no more or less “natural” than other ways of conceiving of time, like “polychronic” culture, which understands time as dynamic, flexible, and filled with several tasks at once, each of which will take the time that they need. Monochronic cultures may be more “efficient” in their use of time, but in their treatment of time as a commodity, they lose the richness that comes with allowing tasks, conversations, and interactions to move forward at a more natural and sustainable pace.\n<footer>Anne Helen Petersen<cite> <a href=\"https://annehelen.substack.com/p/the-diminishing-returns-of-calendar\">https://annehelen.substack.com/p/the-diminishing-returns-of-calendar</a></cite></footer>\n</blockquote><script note=\"\" src=\"https://micro.blog/quoteback.js\"></script>\n\nMy quest for the rest of this year: get better at living a “polychronic” life.\n",
+				"date_published": "2022-11-22T08:53:39+01:00",
+				"url": "https://jeroensangers.com/2022/11/22/and-yes-thats.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2022/11/21/para-un-proyecto.html",
+				
+				"content_html": "<p>Para un proyecto estoy buscando un proveedor acreditado para el #KitDigital con experiencia demonstrable en diseño web con Squarespace.</p>\n",
+				"content_text": "Para un proyecto estoy buscando un proveedor acreditado para el #KitDigital con experiencia demonstrable en diseño web con Squarespace.\n",
+				"date_published": "2022-11-21T13:24:29+01:00",
+				"url": "https://jeroensangers.com/2022/11/21/para-un-proyecto.html"
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2022/11/18/whats-the-benefit.html",
+				
+				"content_html": "<p>What’s the benefit of 4K video when YouTube by default fills only a third of the screen (at most!) with its video player.\nI always maximize the player, but know I’m an exception.</p>\n",
+				"content_text": "What’s the benefit of 4K video when YouTube by default fills only a third of the screen (at most!) with its video player.\nI always maximize the player, but know I’m an exception.\n",
+				"date_published": "2022-11-18T19:20:52+01:00",
+				"url": "https://jeroensangers.com/2022/11/18/whats-the-benefit.html"
+			},
+			{
 				"id": "http://jeroensangers.micro.blog/2022/11/18/now-that-everybody.html",
 				
-				"content_html": "<p>Now that everybody is migrating to Mastodon, I suddenly remembered that a few years ago I created an account on mastodon.social to try it out.</p>\n<p>It has been abandoned ever since, so today I deleted the account just to prevent people from subscribing to the wrong account.</p>\n<p>If your interested in following me on Mastodon, you can follow my personal site (the one true source of all my writings, toots and tweets) at <a href=\"https://micro.blog/jeroen@jeroensangers.com\">@jeroen@jeroensangers.com</a>.</p>\n",
-				"content_text": "Now that everybody is migrating to Mastodon, I suddenly remembered that a few years ago I created an account on mastodon.social to try it out.\n\nIt has been abandoned ever since, so today I deleted the account just to prevent people from subscribing to the wrong account.\n\nIf your interested in following me on Mastodon, you can follow my personal site (the one true source of all my writings, toots and tweets) at [@jeroen@jeroensangers.com](https://micro.blog/jeroen@jeroensangers.com).\n",
+				"content_html": "<p>Now that everybody is migrating to Mastodon, I suddenly remembered that a few years ago I created an account on mastodon.social to try it out.</p>\n<p>It has been abandoned ever since, so today I deleted the account just to prevent people from subscribing to the wrong account.</p>\n<p>If your interested in following me on Mastodon, you can follow my personal site (the one true source of all my writings, toots and tweets) at <a href=\"https://micro.blog/jeroensangers?remote_follow=1\">@jeroen@jeroensangers.com</a>.</p>\n",
+				"content_text": "Now that everybody is migrating to Mastodon, I suddenly remembered that a few years ago I created an account on mastodon.social to try it out.\n\nIt has been abandoned ever since, so today I deleted the account just to prevent people from subscribing to the wrong account.\n\nIf your interested in following me on Mastodon, you can follow my personal site (the one true source of all my writings, toots and tweets) at [@jeroen@jeroensangers.com](https://micro.blog/jeroensangers?remote_follow=1).\n",
 				"date_published": "2022-11-18T10:59:30+01:00",
 				"url": "https://jeroensangers.com/2022/11/18/now-that-everybody.html"
 			},
@@ -35,7 +84,7 @@
 				"id": "http://jeroensangers.micro.blog/2022/11/15/migrating-my-passwords.html",
 				"title": "Migrating my passwords from 1Password to iCloud Keychain",
 				"content_html": "<p>Why am I still using 1Password? A few days ago I asked myself this question, and the only answer I could come up with was “Because that&rsquo;s what I have been doing for years”.</p>\n<p>Now don&rsquo;t get me wrong, I like 1Password and in the past it was vastly superior to any alternative. I loved that it could handle two-factor authentication without needing an additional app, and I liked their password suggestions.</p>\n<p>But most features are now also available in the iCloud Keychain.</p>\n<p>So today I migrated.</p>\n<p>For a moment I thought that this would be the perfect occasion to clean up my list of passwords and delete services that don&rsquo;t exist anymore, update easy to guess passwords. But that would change a 30-minute project into a 30-day project.</p>\n<p>The migration itself was fairly simple. I followed <a href=\"https://simonbs.dev/posts/moving-from-1password-to-icloud-keychain/\">the procedure from Simon B. Støvring</a>: simply exporting all items from 1Password and importing them into the iCloud Keychain. Then I did an advanced search in 1Password for all items with two-factor authentication and created a locked note in Notes to store the backup codes.</p>\n<!-- raw HTML omitted -->\n<p>Easy peasy…</p>\n",
-				"content_text": "Why am I still using 1Password? A few days ago I asked myself this question, and the only answer I could come up with was “Because that's what I have been doing for years”.\n\nNow don't get me wrong, I like 1Password and in the past it was vastly superior to any alternative. I loved that it could handle two-factor authentication without needing an additional app, and I liked their password suggestions.\n\nBut most features are now also available in the iCloud Keychain.\n\nSo today I migrated.\n\nFor a moment I thought that this would be the perfect occasion to clean up my list of passwords and delete services that don't exist anymore, update easy to guess passwords. But that would change a 30-minute project into a 30-day project.\n\nThe migration itself was fairly simple. I followed [the procedure from Simon B. Støvring](https://simonbs.dev/posts/moving-from-1password-to-icloud-keychain/): simply exporting all items from 1Password and importing them into the iCloud Keychain. Then I did an advanced search in 1Password for all items with two-factor authentication and created a locked note in Notes to store the backup codes.\n\n<img src=\"uploads/2022/96ab5f83eb.png\" width=\"600\" height=\"374\" alt=\"Find logins with 2FA aneabled in 1Password\" />\n\nEasy peasy…\n",
+				"content_text": "Why am I still using 1Password? A few days ago I asked myself this question, and the only answer I could come up with was “Because that's what I have been doing for years”.\n\nNow don't get me wrong, I like 1Password and in the past it was vastly superior to any alternative. I loved that it could handle two-factor authentication without needing an additional app, and I liked their password suggestions.\n\nBut most features are now also available in the iCloud Keychain.\n\nSo today I migrated.\n\nFor a moment I thought that this would be the perfect occasion to clean up my list of passwords and delete services that don't exist anymore, update easy to guess passwords. But that would change a 30-minute project into a 30-day project.\n\nThe migration itself was fairly simple. I followed [the procedure from Simon B. Støvring](https://simonbs.dev/posts/moving-from-1password-to-icloud-keychain/): simply exporting all items from 1Password and importing them into the iCloud Keychain. Then I did an advanced search in 1Password for all items with two-factor authentication and created a locked note in Notes to store the backup codes.\n\n<img src=\"https://jeroensangers.com/uploads/2022/96ab5f83eb.png\" width=\"600\" height=\"374\" alt=\"Find logins with 2FA aneabled in 1Password\" />\n\nEasy peasy…\n",
 				"date_published": "2022-11-15T10:54:14+01:00",
 				"url": "https://jeroensangers.com/2022/11/15/migrating-my-passwords.html"
 			},
@@ -43,7 +92,7 @@
 				"id": "http://jeroensangers.micro.blog/2022/11/13/it-is-simple.html",
 				
 				"content_html": "<p>It is simple:</p>\n<!-- raw HTML omitted -->\n<p>Via <a href=\"https://micro.blog/Patrickrhone\">@Patrickrhone</a></p>\n",
-				"content_text": "It is simple:\n\n<blockquote class=\"quoteback\" darkmode=\"\" data-title=\"Punctuality\" data-author=\"Kurt Harden\" cite=\"https://culturaloffering.tumblr.com/post/700722179727310848/punctuality\">\nEarly is on time.&nbsp; On time is late.&nbsp; Late is unacceptable.\n<footer>Kurt Harden<cite> <a href=\"https://culturaloffering.tumblr.com/post/700722179727310848/punctuality\">https://culturaloffering.tumblr.com/post/700722179727310848/punctuality</a></cite></footer>\n</blockquote><script note=\"\" src=\"https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js\"></script>\n\nVia [@Patrickrhone](https://micro.blog/Patrickrhone)\n",
+				"content_text": "It is simple:\n\n<blockquote class=\"quoteback\" darkmode=\"\" data-title=\"Punctuality\" data-author=\"Kurt Harden\" cite=\"https://culturaloffering.tumblr.com/post/700722179727310848/punctuality\">\nEarly is on time.  On time is late.  Late is unacceptable.\n<footer>Kurt Harden<cite> <a href=\"https://culturaloffering.tumblr.com/post/700722179727310848/punctuality\">https://culturaloffering.tumblr.com/post/700722179727310848/punctuality</a></cite></footer>\n</blockquote><script note=\"\" src=\"https://micro.blog/quoteback.js\"></script>\n\nVia [@Patrickrhone](https://micro.blog/Patrickrhone)\n",
 				"date_published": "2022-11-13T10:48:37+01:00",
 				"url": "https://jeroensangers.com/2022/11/13/it-is-simple.html",
 				"tags": ["Quotes"]
@@ -76,7 +125,7 @@
 				"id": "http://jeroensangers.micro.blog/2022/11/07/nicholas-is-as.html",
 				
 				"content_html": "<p>Nicholas is as inspiring as usual:</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Nicholas is as inspiring as usual:\n<blockquote class=\"quoteback\" darkmode=\"\" data-title=\"7 Decisions for a Crazy World\" data-author=\"Nicholas Bate\" cite=\"https://blog.strategicedge.co.uk/2022/11/7-decisions-for-a-crazy-world.html\">\n<strong>Read</strong>. But the original. The long version. The fresh thinkers. <em>Don't accept the hyperbole...</em>Become your own expert.\n<footer>Nicholas Bate<cite> <a href=\"https://blog.strategicedge.co.uk/2022/11/7-decisions-for-a-crazy-world.html\">https://blog.strategicedge.co.uk/2022/11/7-decisions-for-a-crazy-world.html</a></cite></footer>\n</blockquote><script note=\"\" src=\"https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js\"></script>\n",
+				"content_text": "Nicholas is as inspiring as usual:\n<blockquote class=\"quoteback\" darkmode=\"\" data-title=\"7 Decisions for a Crazy World\" data-author=\"Nicholas Bate\" cite=\"https://blog.strategicedge.co.uk/2022/11/7-decisions-for-a-crazy-world.html\">\n<strong>Read</strong>. But the original. The long version. The fresh thinkers. <em>Don't accept the hyperbole...</em>Become your own expert.\n<footer>Nicholas Bate<cite> <a href=\"https://blog.strategicedge.co.uk/2022/11/7-decisions-for-a-crazy-world.html\">https://blog.strategicedge.co.uk/2022/11/7-decisions-for-a-crazy-world.html</a></cite></footer>\n</blockquote><script note=\"\" src=\"https://micro.blog/quoteback.js\"></script>\n",
 				"date_published": "2022-11-07T07:41:03+01:00",
 				"url": "https://jeroensangers.com/2022/11/07/nicholas-is-as.html",
 				"tags": ["Quotes"]
@@ -183,7 +232,7 @@
 				"id": "http://jeroensangers.micro.blog/2022/10/14/brand-new-cycling.html",
 				
 				"content_html": "<p>📸 Brand new cycling shoes<br>\nLleida, 18:59 CET <a href=\"https://micro.welltempered.net/2022/10/11/a-day-in.html\">A Day in the Life of Micro.blog</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 Brand new cycling shoes  \nLleida, 18:59 CET [A Day in the Life of Micro.blog](https://micro.welltempered.net/2022/10/11/a-day-in.html)\n\n<img src=\"uploads/2022/4f2f9e6b53.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "📸 Brand new cycling shoes  \nLleida, 18:59 CET [A Day in the Life of Micro.blog](https://micro.welltempered.net/2022/10/11/a-day-in.html)\n\n<img src=\"https://jeroensangers.com/uploads/2022/4f2f9e6b53.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-10-14T18:00:41+01:00",
 				"url": "https://jeroensangers.com/2022/10/14/brand-new-cycling.html"
 			},
@@ -191,7 +240,7 @@
 				"id": "http://jeroensangers.micro.blog/2022/10/13/i-agree-with.html",
 				
 				"content_html": "<p>I agree with <a href=\"https://micro.blog/jack\">@jack</a>:</p>\n<!-- raw HTML omitted -->\n<p>For most people, a simple notes app to store a curated selection of bits of information is more than enough. A full-blown Zettelkasten is overkill.</p>\n<p>However, if you’re a thought leader and/or writer and need a systematic way to develop original thinking and store and retrieve those thoughts to combine them into new work, you may want to look at a Zetterkasten.</p>\n",
-				"content_text": "I agree with [@jack](https://micro.blog/jack):\n\n<blockquote class=\"quoteback\" darkmode=\"\" data-title=\"Personal Knowledge Management is exhausting\" data-author=\"Jack Baty\" cite=\"https://rudimentarylathe.org/2022/personal-knowledge-management/\">\nFirst, I don't need a Zettelkasten. If you're being honest, you probably don't either.\n<footer>Jack Baty<cite> <a href=\"https://rudimentarylathe.org/2022/personal-knowledge-management/\">https://rudimentarylathe.org/2022/personal-knowledge-management/</a></cite></footer>\n</blockquote><script note=\"\" src=\"https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js\"></script>\n\nFor most people, a simple notes app to store a curated selection of bits of information is more than enough. A full-blown Zettelkasten is overkill. \n\nHowever, if you’re a thought leader and/or writer and need a systematic way to develop original thinking and store and retrieve those thoughts to combine them into new work, you may want to look at a Zetterkasten.\n",
+				"content_text": "I agree with [@jack](https://micro.blog/jack):\n\n<blockquote class=\"quoteback\" darkmode=\"\" data-title=\"Personal Knowledge Management is exhausting\" data-author=\"Jack Baty\" cite=\"https://rudimentarylathe.org/2022/personal-knowledge-management/\">\nFirst, I don't need a Zettelkasten. If you're being honest, you probably don't either.\n<footer>Jack Baty<cite> <a href=\"https://rudimentarylathe.org/2022/personal-knowledge-management/\">https://rudimentarylathe.org/2022/personal-knowledge-management/</a></cite></footer>\n</blockquote><script note=\"\" src=\"https://micro.blog/quoteback.js\"></script>\n\nFor most people, a simple notes app to store a curated selection of bits of information is more than enough. A full-blown Zettelkasten is overkill. \n\nHowever, if you’re a thought leader and/or writer and need a systematic way to develop original thinking and store and retrieve those thoughts to combine them into new work, you may want to look at a Zetterkasten.\n",
 				"date_published": "2022-10-13T07:08:03+01:00",
 				"url": "https://jeroensangers.com/2022/10/13/i-agree-with.html",
 				"tags": ["Quotes"]
@@ -354,7 +403,7 @@
 				"id": "http://jeroensangers.micro.blog/2022/08/09/every-person-is.html",
 				
 				"content_html": "<p>Every person is unique. Instead of trying to follow the daily schedule of your hero’s, you should carve out your own path.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Every person is unique. Instead of trying to follow the daily schedule of your hero’s, you should carve out your own path.\n\n<blockquote class=\"quoteback\" darkmode=\"\" data-title=\"The Perfect Work Routine\" data-author=\"Nat Eliason\" cite=\"https://blog.nateliason.com/p/perfect-work-routine\">\nTheir Daily Ritual, to whatever extent it was truly daily or truly a ritual, was likely an emergent phenomenon. They did not read tons of productivity books and then pick the routine that seemed best to them, as many of us feel compelled to do. They worked, and over time, their ideal routine for sustained output emerged. They started walking and reinforced the paths with concrete as they went.&nbsp;\n<footer>Nat Eliason<cite> <a href=\"https://blog.nateliason.com/p/perfect-work-routine\">https://blog.nateliason.com/p/perfect-work-routine</a></cite></footer>\n</blockquote><script note=\"\" src=\"https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js\"></script>\n",
+				"content_text": "Every person is unique. Instead of trying to follow the daily schedule of your hero’s, you should carve out your own path.\n\n<blockquote class=\"quoteback\" darkmode=\"\" data-title=\"The Perfect Work Routine\" data-author=\"Nat Eliason\" cite=\"https://blog.nateliason.com/p/perfect-work-routine\">\nTheir Daily Ritual, to whatever extent it was truly daily or truly a ritual, was likely an emergent phenomenon. They did not read tons of productivity books and then pick the routine that seemed best to them, as many of us feel compelled to do. They worked, and over time, their ideal routine for sustained output emerged. They started walking and reinforced the paths with concrete as they went.&nbsp;\n<footer>Nat Eliason<cite> <a href=\"https://blog.nateliason.com/p/perfect-work-routine\">https://blog.nateliason.com/p/perfect-work-routine</a></cite></footer>\n</blockquote><script note=\"\" src=\"https://micro.blog/quoteback.js\"></script>\n",
 				"date_published": "2022-08-09T06:40:15+01:00",
 				"url": "https://jeroensangers.com/2022/08/09/every-person-is.html",
 				"tags": ["Quotes"]
