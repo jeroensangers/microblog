@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://jeroensangers.micro.blog/2022/11/30/mastodon-could-use.html",
+				
+				"content_html": "<p>Mastodon could use a well-designed client. This is great news.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Mastodon could use a well-designed client. This is great news.\n\n<blockquote class=\"quoteback\" darkmode=\"\" data-title=\"Ivory (@ivory@tapbots.social)\" data-author=\"Ivory\" cite=\"https://tapbots.social/@ivory/109433914793802708\">\nHello people of the Fediverse! Some of you may have heard that a new Mastodon client, Ivory,&nbsp;&nbsp;is in development for iOS (and Mac!). This is true! Tapbots is going all in on Mastodon and we hope this place continues to grow and thrive. Tweetbot will continue to be developed alongside Ivory as a lot of code is shared.\n<footer>Ivory<cite> <a href=\"https://tapbots.social/@ivory/109433914793802708\">https://tapbots.social/@ivory/109433914793802708</a></cite></footer>\n</blockquote><script note=\"\" src=\"https://micro.blog/quoteback.js\"></script>\n",
+				"date_published": "2022-11-30T21:41:11+01:00",
+				"url": "https://jeroensangers.com/2022/11/30/mastodon-could-use.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2022/11/30/finished-reading-good.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781982170745\">Good Anxiety</a> by Wendy Suzuki 📚</p>\n",
+				"content_text": "Finished reading: [Good Anxiety](https://micro.blog/books/9781982170745) by Wendy Suzuki 📚\n",
+				"date_published": "2022-11-30T20:24:26+01:00",
+				"url": "https://jeroensangers.com/2022/11/30/finished-reading-good.html",
+				"tags": ["Reading"]
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2022/11/27/the-story-you.html",
+				
+				"content_html": "<p>The story you tell yourself creates your reality.</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "The story you tell yourself creates your reality.\n\n<blockquote class=\"quoteback\" darkmode=\"\" data-title=\"Speed matters: Why working quickly is more important than it seems « the jsomers.net blog\" data-author=\"James Somers\" cite=\"https://jsomers.net/blog/speed-matters\">\n<p>Part of the activation energy required to start any task comes from the picture you get in your head when you imagine doing it. It may not be that going for a run is actually costly; but if it <em>feels</em> costly, if the picture in your head <em>looks</em> like a slog, then you will need a bigger expenditure of will to lace up.</p>\n\n<p>Slowness seems to make a special contribution to this picture in our heads. Time is especially valuable. So as we learn that a task is slow, an especial cost accrues to it. Whenever we think of doing the task again, we see how expensive it is, and bail.</p>\n\n<p>That’s why speed matters.</p>\n<footer>James Somers<cite> <a href=\"https://jsomers.net/blog/speed-matters\">https://jsomers.net/blog/speed-matters</a></cite></footer>\n</blockquote><script note=\"\" src=\"https://micro.blog/quoteback.js\"></script>\n",
+				"date_published": "2022-11-27T20:03:43+01:00",
+				"url": "https://jeroensangers.com/2022/11/27/the-story-you.html",
+				"tags": ["Quotes"]
+			},
+			{
 				"id": "http://jeroensangers.micro.blog/2022/11/25/today-i-received.html",
 				
 				"content_html": "<p>Today I received my invite to access Tana and immediately imported my Roam Research database.</p>\n<p>So far, I like what I see, but will have to do a lot of work to recreate a trusted system in Tana.</p>\n<p>There is still a lot to figure out, including some very basic stuff such as how to create an inline hyperlink and how to capture information from my phone and tablet.</p>\n",
