@@ -7,6 +7,40 @@
 	"items": [
 		
 			{
+				"id": "http://jeroensangers.micro.blog/2022/12/19/the-benefit-of.html",
+				
+				"content_html": "<p>The benefit of using my own blog on my own domain for microblogging with ActivityPub is that Twitter probably won’t block links to it.</p>\n<p>You can follow me at <a href=\"https://micro.blog/jeroensangers?remote_follow=1\">@jeroen@jeroensangers.com</a> from Mastodon.</p>\n",
+				"content_text": "The benefit of using my own blog on my own domain for microblogging with ActivityPub is that Twitter probably won’t block links to it.\n\nYou can follow me at [@jeroen@jeroensangers.com](https://micro.blog/jeroensangers?remote_follow=1) from Mastodon.\n",
+				"date_published": "2022-12-19T07:41:52+01:00",
+				"url": "https://jeroensangers.com/2022/12/19/the-benefit-of.html"
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2022/12/15/work-about-work.html",
+				"title": "Work about work",
+				"content_html": "<p>Most professionals spend about 60% or their time on work about work.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2022/02/03/spent-a-little.html\">Invest</a>, <a href=\"https://jeroensangers.com/2022/12/15/less-meetings.html\">Less meetings</a>, <a href=\"https://jeroensangers.com/2021/11/05/start-with-as.html\">Simplicity</a></p>\n",
+				"content_text": "Most professionals spend about 60% or their time on work about work.\n\n_Related_: [Invest](https://jeroensangers.com/2022/02/03/spent-a-little.html), [Less meetings](https://jeroensangers.com/2022/12/15/less-meetings.html), [Simplicity](https://jeroensangers.com/2021/11/05/start-with-as.html)\n",
+				"date_published": "2022-12-15T14:16:56+01:00",
+				"url": "https://jeroensangers.com/2022/12/15/work-about-work.html",
+				"tags": ["Digital garden"]
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2022/12/15/less-meetings.html",
+				"title": "Less meetings",
+				"content_html": "<p>Professionals lose an average of three hours per week on unnecessary meetings.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/09/large-organisations-kill.html\">Indifference</a>, <a href=\"https://jeroensangers.com/2022/12/15/work-about-work.html\">Work about work</a></p>\n",
+				"content_text": "Professionals lose an average of three hours per week on unnecessary meetings.\n\n_Related_: [Indifference](https://jeroensangers.com/2021/09/09/large-organisations-kill.html), [Work about work](https://jeroensangers.com/2022/12/15/work-about-work.html)\n",
+				"date_published": "2022-12-15T14:08:09+01:00",
+				"url": "https://jeroensangers.com/2022/12/15/less-meetings.html",
+				"tags": ["Digital garden"]
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2022/12/15/escuchando-al-ltimo.html",
+				
+				"content_html": "<p>Escuchando al <a href=\"https://fivmadridpm.wordpress.com/2022/12/15/donde-guardar-cada-cosa-el-fin-de-evernote-y-los-cerebros-digitales/\">último episodio de @feliztividad</a>, no podría estar más de acuerdo con <a href=\"https://twitter.com/fjrascon\">@fjrascon</a> y <a href=\"https://twitter.com/jlgomezp\">@jlgomezp</a>.\nNecesitamos como mínimo dos repositorios de conocimiento, que no necesariamente debes estar en la misma herramienta:</p>\n<ol>\n<li>Documentos originales de terceros</li>\n<li>Nuestras propias ideas</li>\n</ol>\n<p>Y Evernote continúa siendo una buena solución para ambos usos.</p>\n",
+				"content_text": "Escuchando al [último episodio de @feliztividad](https://fivmadridpm.wordpress.com/2022/12/15/donde-guardar-cada-cosa-el-fin-de-evernote-y-los-cerebros-digitales/), no podría estar más de acuerdo con [@fjrascon](https://twitter.com/fjrascon) y [@jlgomezp](https://twitter.com/jlgomezp).\nNecesitamos como mínimo dos repositorios de conocimiento, que no necesariamente debes estar en la misma herramienta:\n\n1. Documentos originales de terceros\n2. Nuestras propias ideas\n\nY Evernote continúa siendo una buena solución para ambos usos.\n",
+				"date_published": "2022-12-15T12:21:54+01:00",
+				"url": "https://jeroensangers.com/2022/12/15/escuchando-al-ltimo.html"
+			},
+			{
 				"id": "http://jeroensangers.micro.blog/2022/12/13/muy-contento-que.html",
 				
 				"content_html": "<p>🎉 Muy contento que Apple ha incluido el podcast de KENSO en sus lista de «Programas que nos encantaron en  2022» (estamos en las secciones «Programas más seguidos de 2022» y «Programas más compartidos de 2022»).</p>\n<p>🙏 Muchísimas gracias a todos los oyentes para hacerlo posible.</p>\n",
@@ -18,7 +52,7 @@
 				"id": "http://jeroensangers.micro.blog/2022/12/09/155604.html",
 				
 				"content_html": "<p>¿Qué es este podcast recomendado por Amazon Music Podcasts?</p>\n<!-- raw HTML omitted -->\n<p>Sí, ¡es el podcast de KENSO! 🎉</p>\n",
-				"content_text": "¿Qué es este podcast recomendado por Amazon Music Podcasts?\n\n<img src=\"uploads/2022/ef87389dc6.png\" width=\"600\" height=\"151\" alt=\"Recomendaciones de Apple Music Podcasts\">\n\nSí, ¡es el podcast de KENSO! 🎉\n",
+				"content_text": "¿Qué es este podcast recomendado por Amazon Music Podcasts?\n\n<img src=\"https://jeroensangers.com/uploads/2022/ef87389dc6.png\" width=\"600\" height=\"151\" alt=\"Recomendaciones de Apple Music Podcasts\">\n\nSí, ¡es el podcast de KENSO! 🎉\n",
 				"date_published": "2022-12-09T15:56:04+01:00",
 				"url": "https://jeroensangers.com/2022/12/09/155604.html"
 			},
@@ -26,7 +60,7 @@
 				"id": "http://jeroensangers.micro.blog/2022/12/06/delta-debre.html",
 				
 				"content_html": "<p>📸 Delta de l&rsquo;Ebre</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "📸 Delta de l'Ebre\n\n<img src=\"uploads/2022/dbe5369eaf.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2022/b9db84fefc.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2022/3ddca69e69.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "📸 Delta de l'Ebre\n\n<img src=\"https://jeroensangers.com/uploads/2022/dbe5369eaf.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://jeroensangers.com/uploads/2022/b9db84fefc.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://jeroensangers.com/uploads/2022/3ddca69e69.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-12-06T17:10:00+01:00",
 				"url": "https://jeroensangers.com/2022/12/06/delta-debre.html"
 			},
@@ -1510,8 +1544,8 @@
 			{
 				"id": "http://JeroenSangers.micro.blog/2022/02/03/spent-a-little.html",
 				"title": "Invest",
-				"content_html": "<p>Spent a little bit of attention, but no more than absolutely necessary, on the meta-work of planning, processing and prioritising. Then, get to work.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/09/explore-a-map.html\">Monthly map</a>, <a href=\"https://jeroensangers.com/2021/09/09/during-the-mornings.html\">Work cycle</a>, <a href=\"https://jeroensangers.com/2021/09/03/do-the-right.html\">Effectiveness</a>, <a href=\"https://jeroensangers.com/2021/09/09/take-your-time.html\">Prudence</a>, <a href=\"https://jeroensangers.com/2021/10/20/be-fore-you.html\">Intention</a>, <a href=\"https://jeroensangers.com/2021/11/05/start-with-as.html\">Simplicity</a>, <a href=\"https://jeroensangers.com/2022/06/27/when-capturing-information.html\">Motive</a>, <a href=\"https://jeroensangers.com/2022/07/28/brainstorm.html\">Brainstorm</a>, <a href=\"https://jeroensangers.com/2022/07/29/eufriction.html\">Eufriction</a></p>\n",
-				"content_text": "Spent a little bit of attention, but no more than absolutely necessary, on the meta-work of planning, processing and prioritising. Then, get to work.\n\n_Related_: [Monthly map](https://jeroensangers.com/2021/09/09/explore-a-map.html), [Work cycle](https://jeroensangers.com/2021/09/09/during-the-mornings.html), [Effectiveness](https://jeroensangers.com/2021/09/03/do-the-right.html), [Prudence](https://jeroensangers.com/2021/09/09/take-your-time.html), [Intention](https://jeroensangers.com/2021/10/20/be-fore-you.html), [Simplicity](https://jeroensangers.com/2021/11/05/start-with-as.html), [Motive](https://jeroensangers.com/2022/06/27/when-capturing-information.html), [Brainstorm](https://jeroensangers.com/2022/07/28/brainstorm.html), [Eufriction](https://jeroensangers.com/2022/07/29/eufriction.html)\n",
+				"content_html": "<p>Spend a little bit of attention, but no more than absolutely necessary, on the meta-work of planning, processing and prioritising. Then, get to work.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/09/explore-a-map.html\">Monthly map</a>, <a href=\"https://jeroensangers.com/2021/09/09/during-the-mornings.html\">Work cycle</a>, <a href=\"https://jeroensangers.com/2021/09/03/do-the-right.html\">Effectiveness</a>, <a href=\"https://jeroensangers.com/2021/09/09/take-your-time.html\">Prudence</a>, <a href=\"https://jeroensangers.com/2021/10/20/be-fore-you.html\">Intention</a>, <a href=\"https://jeroensangers.com/2021/11/05/start-with-as.html\">Simplicity</a>, <a href=\"https://jeroensangers.com/2022/06/27/when-capturing-information.html\">Motive</a>, <a href=\"https://jeroensangers.com/2022/07/28/brainstorm.html\">Brainstorm</a>, <a href=\"https://jeroensangers.com/2022/07/29/eufriction.html\">Eufriction</a>, <a href=\"https://jeroensangers.com/2022/12/15/work-about-work.html\">Work about work</a></p>\n",
+				"content_text": "Spend a little bit of attention, but no more than absolutely necessary, on the meta-work of planning, processing and prioritising. Then, get to work.\n\n_Related_: [Monthly map](https://jeroensangers.com/2021/09/09/explore-a-map.html), [Work cycle](https://jeroensangers.com/2021/09/09/during-the-mornings.html), [Effectiveness](https://jeroensangers.com/2021/09/03/do-the-right.html), [Prudence](https://jeroensangers.com/2021/09/09/take-your-time.html), [Intention](https://jeroensangers.com/2021/10/20/be-fore-you.html), [Simplicity](https://jeroensangers.com/2021/11/05/start-with-as.html), [Motive](https://jeroensangers.com/2022/06/27/when-capturing-information.html), [Brainstorm](https://jeroensangers.com/2022/07/28/brainstorm.html), [Eufriction](https://jeroensangers.com/2022/07/29/eufriction.html), [Work about work](https://jeroensangers.com/2022/12/15/work-about-work.html)\n",
 				"date_published": "2022-02-03T09:48:12+01:00",
 				"url": "https://jeroensangers.com/2022/02/03/spent-a-little.html",
 				"tags": ["Digital garden"]
@@ -2053,8 +2087,8 @@
 			{
 				"id": "http://JeroenSangers.micro.blog/2021/11/05/start-with-as.html",
 				"title": "Simplicity",
-				"content_html": "<p>Start with as little as possible and add complexity as you go.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/03/do-the-right.html\">Effectiveness</a>, <a href=\"https://jeroensangers.com/2021/09/09/take-reversible-decisions.html\">Impulse</a>, <a href=\"https://jeroensangers.com/2021/10/20/be-fore-you.html\">Intention</a>, <a href=\"https://jeroensangers.com/2022/01/11/evaluate-whether-the.html\">Systems maintenance</a>, <a href=\"https://jeroensangers.com/2022/02/03/spent-a-little.html\">Invest</a></p>\n",
-				"content_text": "Start with as little as possible and add complexity as you go.\n\n_Related_: [Effectiveness](https://jeroensangers.com/2021/09/03/do-the-right.html), [Impulse](https://jeroensangers.com/2021/09/09/take-reversible-decisions.html), [Intention](https://jeroensangers.com/2021/10/20/be-fore-you.html), [Systems maintenance](https://jeroensangers.com/2022/01/11/evaluate-whether-the.html), [Invest](https://jeroensangers.com/2022/02/03/spent-a-little.html)\n",
+				"content_html": "<p>Start with as little as possible and add complexity as you go.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/03/do-the-right.html\">Effectiveness</a>, <a href=\"https://jeroensangers.com/2021/09/09/take-reversible-decisions.html\">Impulse</a>, <a href=\"https://jeroensangers.com/2021/10/20/be-fore-you.html\">Intention</a>, <a href=\"https://jeroensangers.com/2022/01/11/evaluate-whether-the.html\">Systems maintenance</a>, <a href=\"https://jeroensangers.com/2022/02/03/spent-a-little.html\">Invest</a>, <a href=\"https://jeroensangers.com/2022/12/15/work-about-work.html\">Work about work</a></p>\n",
+				"content_text": "Start with as little as possible and add complexity as you go.\n\n_Related_: [Effectiveness](https://jeroensangers.com/2021/09/03/do-the-right.html), [Impulse](https://jeroensangers.com/2021/09/09/take-reversible-decisions.html), [Intention](https://jeroensangers.com/2021/10/20/be-fore-you.html), [Systems maintenance](https://jeroensangers.com/2022/01/11/evaluate-whether-the.html), [Invest](https://jeroensangers.com/2022/02/03/spent-a-little.html), [Work about work](https://jeroensangers.com/2022/12/15/work-about-work.html)\n",
 				"date_published": "2021-11-05T16:50:00+01:00",
 				"url": "https://jeroensangers.com/2021/11/05/start-with-as.html",
 				"tags": ["Digital garden"]
@@ -2417,8 +2451,8 @@
 			{
 				"id": "http://JeroenSangers.micro.blog/2021/09/09/large-organisations-kill.html",
 				"title": "Indifference",
-				"content_html": "<p>Large organisations kill workers’ passion.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/03/do-the-right.html\">Effectiveness</a>, <a href=\"https://jeroensangers.com/2021/09/09/dedicate-time-to.html\">Joy</a>, <a href=\"https://jeroensangers.com/2021/09/07/choose-a-work.html\">Inspiration</a>, <a href=\"https://jeroensangers.com/2022/08/25/openplan-workspace.html\">Open-plan office</a>, <a href=\"https://jeroensangers.com/2022/08/31/hard-work.html\">Hard work</a>, <a href=\"https://jeroensangers.com/2022/10/04/private-offices.html\">Private offices</a>, <a href=\"https://jeroensangers.com/2022/11/15/boundaries.html\">Boundaries</a></p>\n",
-				"content_text": "Large organisations kill workers’ passion.\n\n_Related_: [Effectiveness](https://jeroensangers.com/2021/09/03/do-the-right.html), [Joy](https://jeroensangers.com/2021/09/09/dedicate-time-to.html), [Inspiration](https://jeroensangers.com/2021/09/07/choose-a-work.html), [Open-plan office](https://jeroensangers.com/2022/08/25/openplan-workspace.html), [Hard work](https://jeroensangers.com/2022/08/31/hard-work.html), [Private offices](https://jeroensangers.com/2022/10/04/private-offices.html), [Boundaries](https://jeroensangers.com/2022/11/15/boundaries.html)\n",
+				"content_html": "<p>Large organisations kill workers’ passion.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/03/do-the-right.html\">Effectiveness</a>, <a href=\"https://jeroensangers.com/2021/09/09/dedicate-time-to.html\">Joy</a>, <a href=\"https://jeroensangers.com/2021/09/07/choose-a-work.html\">Inspiration</a>, <a href=\"https://jeroensangers.com/2022/08/25/openplan-workspace.html\">Open-plan office</a>, <a href=\"https://jeroensangers.com/2022/08/31/hard-work.html\">Hard work</a>, <a href=\"https://jeroensangers.com/2022/10/04/private-offices.html\">Private offices</a>, <a href=\"https://jeroensangers.com/2022/11/15/boundaries.html\">Boundaries</a>, <a href=\"https://jeroensangers.com/2022/12/15/less-meetings.html\">Less meetings</a></p>\n",
+				"content_text": "Large organisations kill workers’ passion.\n\n_Related_: [Effectiveness](https://jeroensangers.com/2021/09/03/do-the-right.html), [Joy](https://jeroensangers.com/2021/09/09/dedicate-time-to.html), [Inspiration](https://jeroensangers.com/2021/09/07/choose-a-work.html), [Open-plan office](https://jeroensangers.com/2022/08/25/openplan-workspace.html), [Hard work](https://jeroensangers.com/2022/08/31/hard-work.html), [Private offices](https://jeroensangers.com/2022/10/04/private-offices.html), [Boundaries](https://jeroensangers.com/2022/11/15/boundaries.html), [Less meetings](https://jeroensangers.com/2022/12/15/less-meetings.html)\n",
 				"date_published": "2021-09-09T10:12:00+01:00",
 				"url": "https://jeroensangers.com/2021/09/09/large-organisations-kill.html",
 				"tags": ["Digital garden"]
