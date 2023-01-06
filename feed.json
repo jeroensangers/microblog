@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://jeroensangers.micro.blog/2023/01/06/was-a-great.html",
+				
+				"content_html": "<p>2022 was a great year!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "2022 was a great year!\n\n<img src=\"uploads/2023/6661653200.png\" />\n",
+				"date_published": "2023-01-06T13:37:01+01:00",
+				"url": "https://jeroensangers.com/2023/01/06/was-a-great.html"
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2023/01/01/finished-reading-ego.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781782832836\">Ego is the Enemy</a> by Ryan Holiday 📚</p>\n",
+				"content_text": "Finished reading: [Ego is the Enemy](https://micro.blog/books/9781782832836) by Ryan Holiday 📚\n",
+				"date_published": "2023-01-01T19:15:26+01:00",
+				"url": "https://jeroensangers.com/2023/01/01/finished-reading-ego.html",
+				"tags": ["Reading"]
+			},
+			{
 				"id": "http://jeroensangers.micro.blog/2022/12/27/because-of-the.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>I have to disagree here. Using a virtual background makes you look <em>less</em> professional and <em>less</em> polished, unless you use a proper green screen and good lighting. In most cases, you&rsquo;ll look more profesional and polished if you simply fix and arrange what&rsquo;s behind you on camera.</p>\n",
