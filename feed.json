@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://jeroensangers.micro.blog/2023/01/16/after-all-these.html",
+				
+				"content_html": "<p>After all these years, the YouTube algorithm still hasn&rsquo;t figured me out. All recommendations are either:</p>\n<ul>\n<li>Videos I have already seen and don&rsquo;t plan on seeing again</li>\n<li>Videos that don&rsquo;t interest me at all</li>\n<li>Videos from channels I subscribe to and will watch anyway</li>\n</ul>\n",
+				"content_text": "After all these years, the YouTube algorithm still hasn't figured me out. All recommendations are either:\n\n* Videos I have already seen and don't plan on seeing again\n* Videos that don't interest me at all\n* Videos from channels I subscribe to and will watch anyway\n",
+				"date_published": "2023-01-16T15:51:35+01:00",
+				"url": "https://jeroensangers.com/2023/01/16/after-all-these.html"
+			},
+			{
 				"id": "http://jeroensangers.micro.blog/2023/01/11/i-wish-offered.html",
 				
 				"content_html": "<p>I wish  offered a hybrid book format that allows frictionless switching between reading and listening on multiple devices</p>\n",
