@@ -7,6 +7,47 @@
 	"items": [
 		
 			{
+				"id": "http://jeroensangers.micro.blog/2023/01/31/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780060516079\">The Effective Executive</a> by Peter F. Drucker 📚</p>\n<p>Amazing how it still hold up after more than 50 years. A true classic.</p>\n",
+				"content_text": "Finished reading: [The Effective Executive](https://micro.blog/books/9780060516079) by Peter F. Drucker 📚\n\nAmazing how it still hold up after more than 50 years. A true classic.\n",
+				"date_published": "2023-01-31T12:04:30+01:00",
+				"url": "https://jeroensangers.com/2023/01/31/finished-reading-the.html",
+				"tags": ["Reading"]
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2023/01/28/our-book-in.html",
+				
+				"content_html": "<p>📸 Our book in good company</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📸 Our book in good company\n\n<img src=\"uploads/2023/f65b3841c3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-01-28T13:25:20+01:00",
+				"url": "https://jeroensangers.com/2023/01/28/our-book-in.html"
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2023/01/26/poco-a-poco.html",
+				
+				"content_html": "<p>Poco a poco vamos subiendo en las listas de Amazon…</p>\n<!-- raw HTML omitted -->\n<p>#EfectividadKENSO</p>\n",
+				"content_text": "Poco a poco vamos subiendo en las listas de Amazon…\n\n<img src=\"uploads/2023/edd8567fa1.png\" alt=\"Efectividad KENSO en Amazon\" />\n\n#EfectividadKENSO\n",
+				"date_published": "2023-01-26T12:24:58+01:00",
+				"url": "https://jeroensangers.com/2023/01/26/poco-a-poco.html"
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2023/01/25/its-book-launch.html",
+				
+				"content_html": "<p>📖 It&rsquo;s book launch day!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📖 It's book launch day!\r\n\r\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/Cmeg2YKMqRU\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe>\n",
+				"date_published": "2023-01-25T12:12:04+01:00",
+				"url": "https://jeroensangers.com/2023/01/25/its-book-launch.html"
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2023/01/24/he-venido-a.html",
+				
+				"content_html": "<p><a href=\"https://raulhernandezgonzalez.com/he-venido-a-hablar-de-mi-libro-efectividad-kenso/\">He venido a hablar de mi libro: Efectividad KENSO</a></p>\n<p><a href=\"https://twitter.com/rahego\">@rahego</a> comparte cómo ha sido su experiencia de escribir y publicar el libro.</p>\n",
+				"content_text": "[He venido a hablar de mi libro: Efectividad KENSO](https://raulhernandezgonzalez.com/he-venido-a-hablar-de-mi-libro-efectividad-kenso/)\n\n[@rahego](https://twitter.com/rahego) comparte cómo ha sido su experiencia de escribir y publicar el libro.\n",
+				"date_published": "2023-01-24T09:23:40+01:00",
+				"url": "https://jeroensangers.com/2023/01/24/he-venido-a.html"
+			},
+			{
 				"id": "http://jeroensangers.micro.blog/2023/01/24/this-is-great.html",
 				
 				"content_html": "<p>This is great: <a href=\"https://www.productivityblocker.com/\">Productivity blocker</a> (via <a href=\"https://www.densediscovery.com\">Dense Discovery</a>)</p>\n<p>Agree with the testimonial though: “wish it worked on Safari“.</p>\n",
@@ -36,7 +77,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/01/19/ya-he-encontrado.html",
 				
 				"content_html": "<p>Ya he encontrado el soporte perfecto para mi micrófono: <a href=\"https://kenso.es/libro\">Efectividad KENSO</a>. Espero que <a href=\"https://twitter.com/jlgomezp\">@jlgomezp</a> también hace el cambio…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Ya he encontrado el soporte perfecto para mi micrófono: [Efectividad KENSO](https://kenso.es/libro). Espero que [@jlgomezp](https://twitter.com/jlgomezp) también hace el cambio…\n\n<img src=\"uploads/2023/2df3cf620c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Ya he encontrado el soporte perfecto para mi micrófono: [Efectividad KENSO](https://kenso.es/libro). Espero que [@jlgomezp](https://twitter.com/jlgomezp) también hace el cambio…\n\n<img src=\"https://jeroensangers.com/uploads/2023/2df3cf620c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-01-19T14:35:07+01:00",
 				"url": "https://jeroensangers.com/2023/01/19/ya-he-encontrado.html"
 			},
@@ -44,7 +85,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/01/18/ilusionado-y-feliz.html",
 				
 				"content_html": "<p>📸 Ilusionado y feliz 📖</p>\n<p>¡Finalmente lo tengo en mis manos! Nuestro libro #EfectividadKENSO</p>\n<p>Siento el enorme satisfecho de tener un resultado concreto después de tantos meses de trabajo.</p>\n<p>¡A celebrarlo! 🥂</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 Ilusionado y feliz 📖\n\n\n¡Finalmente lo tengo en mis manos! Nuestro libro #EfectividadKENSO\n\nSiento el enorme satisfecho de tener un resultado concreto después de tantos meses de trabajo.\n\n¡A celebrarlo! 🥂\n\n<img src=\"uploads/2023/8c2ea72dda.jpg\" width=\"600\" height=\"450\" alt=\"Efectividad KENSO\" />\n",
+				"content_text": "📸 Ilusionado y feliz 📖\n\n\n¡Finalmente lo tengo en mis manos! Nuestro libro #EfectividadKENSO\n\nSiento el enorme satisfecho de tener un resultado concreto después de tantos meses de trabajo.\n\n¡A celebrarlo! 🥂\n\n<img src=\"https://jeroensangers.com/uploads/2023/8c2ea72dda.jpg\" width=\"600\" height=\"450\" alt=\"Efectividad KENSO\" />\n",
 				"date_published": "2023-01-18T14:28:38+01:00",
 				"url": "https://jeroensangers.com/2023/01/18/ilusionado-y-feliz.html"
 			},
