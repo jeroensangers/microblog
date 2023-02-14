@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://jeroensangers.micro.blog/2023/02/13/what-we-believe.html",
+				
+				"content_html": "<p>What we believe in, and in fact one of the two key messages from our book #EffectividadKENSO.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "What we believe in, and in fact one of the two key messages from our book #EffectividadKENSO.\n\n<blockquote class=\"quoteback\" darkmode=\"\" data-title=\"This Is The Most Fun Way To Make Your Life Awesome - Barking Up The Wrong Tree\" data-author=\"Eric Barker\" cite=\"https://bakadesuyo.com/2023/02/find-your-passion/\">\n“Become A Scientist Of Yourself”\n<footer>Eric Barker<cite> <a href=\"https://bakadesuyo.com/2023/02/find-your-passion/\">https://bakadesuyo.com/2023/02/find-your-passion/</a></cite></footer>\n</blockquote><script note=\"\" src=\"https://micro.blog/quoteback.js\"></script>\n",
+				"date_published": "2023-02-13T09:14:07+01:00",
+				"url": "https://jeroensangers.com/2023/02/13/what-we-believe.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2023/02/09/love-this-quote.html",
+				
+				"content_html": "<p>Love this quote ❤️</p>\n<blockquote>\n<p>«Working hard for something we don’t care about is called stress. Working hard for something we love is called passion.»<br>\n— Simon Sinek</p>\n</blockquote>\n",
+				"content_text": "Love this quote ❤️ \n\n> «Working hard for something we don’t care about is called stress. Working hard for something we love is called passion.»  \n— Simon Sinek\n",
+				"date_published": "2023-02-09T11:48:35+01:00",
+				"url": "https://jeroensangers.com/2023/02/09/love-this-quote.html"
+			},
+			{
 				"id": "http://jeroensangers.micro.blog/2023/02/03/if-twitter-closes.html",
 				
 				"content_html": "<p>If Twitter closes its free API, crossposting from Micro.blog will be impossible.\nI wonder what to do: stop publishing on Twitter or manually copy and paste my posts… 🤔</p>\n",
@@ -44,7 +61,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/01/28/our-book-in.html",
 				
 				"content_html": "<p>📸 Our book in good company</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 Our book in good company\n\n<img src=\"uploads/2023/f65b3841c3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "📸 Our book in good company\n\n<img src=\"https://jeroensangers.com/uploads/2023/f65b3841c3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-28T13:25:20+01:00",
 				"url": "https://jeroensangers.com/2023/01/28/our-book-in.html"
 			},
