@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://jeroensangers.micro.blog/2023/02/15/dicen-que-crecer.html",
+				
+				"content_html": "<p>Dicen que «crecer es aprender a despedirse», pero me sigue costando mucho.</p>\n",
+				"content_text": "Dicen que «crecer es aprender a despedirse», pero me sigue costando mucho.\n",
+				"date_published": "2023-02-15T12:50:00+01:00",
+				"url": "https://jeroensangers.com/2023/02/15/dicen-que-crecer.html"
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2023/02/14/us-upcoming-album.html",
+				
+				"content_html": "<p>U2&rsquo;s upcoming album <a href=\"https://album.link/9b99cmhfzncrw\">Songs of Surrender</a> looks very promising. I love the minimalist versions in the pre-release.\n(The old U2 will always be the best U2)</p>\n",
+				"content_text": "U2's upcoming album [Songs of Surrender](https://album.link/9b99cmhfzncrw) looks very promising. I love the minimalist versions in the pre-release.\n(The old U2 will always be the best U2)\n",
+				"date_published": "2023-02-14T10:14:05+01:00",
+				"url": "https://jeroensangers.com/2023/02/14/us-upcoming-album.html"
+			},
+			{
 				"id": "http://jeroensangers.micro.blog/2023/02/13/what-we-believe.html",
 				
 				"content_html": "<p>What we believe in, and in fact one of the two key messages from our book #EffectividadKENSO.</p>\n<!-- raw HTML omitted -->\n",
@@ -61,7 +77,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/01/28/our-book-in.html",
 				
 				"content_html": "<p>📸 Our book in good company</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 Our book in good company\n\n<img src=\"https://jeroensangers.com/uploads/2023/f65b3841c3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "📸 Our book in good company\n\n<img src=\"uploads/2023/e7e9c8584b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2023-01-28T13:25:20+01:00",
 				"url": "https://jeroensangers.com/2023/01/28/our-book-in.html"
 			},
