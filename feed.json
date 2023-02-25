@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://jeroensangers.micro.blog/2023/02/23/currently-reading-thinking.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781429969352\">Thinking, Fast and Slow</a> by Daniel Kahneman 📚</p>\n",
+				"content_text": "Currently reading: [Thinking, Fast and Slow](https://micro.blog/books/9781429969352) by Daniel Kahneman 📚\n",
+				"date_published": "2023-02-23T22:15:26+01:00",
+				"url": "https://jeroensangers.com/2023/02/23/currently-reading-thinking.html",
+				"tags": ["Reading"]
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2023/02/21/if-we-did.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>In other words: If our physical needs were met, it would cause an economic crisis.</p>\n<p>Once again, a short-term problem (economic crisis) stands in the way of long-term progress (wellbeing).</p>\n",
+				"content_text": "<blockquote class=\"quoteback\" darkmode=\"\" data-title=\"Johann Hari: Our Attention Spans Are Being Stolen | Atmos\" data-author=\"Charles Czeisler\" cite=\"https://atmos.earth/johann-hari-stolen-focus-concentration-span-attention-economy-climate-action/\">\nIf we did go back to sleeping as much as we need to, as much as we did a century ago, then that would cause a huge recession as people would consume an hour less every day.\n<footer>Charles Czeisler<cite> <a href=\"https://atmos.earth/johann-hari-stolen-focus-concentration-span-attention-economy-climate-action/\">https://atmos.earth/johann-hari-stolen-focus-concentration-span-attention-economy-climate-action/</a></cite></footer>\n</blockquote><script note=\"\" src=\"https://micro.blog/quoteback.js\"></script>\n\nIn other words: If our physical needs were met, it would cause an economic crisis.\n\nOnce again, a short-term problem (economic crisis) stands in the way of long-term progress (wellbeing).\n",
+				"date_published": "2023-02-21T07:55:08+01:00",
+				"url": "https://jeroensangers.com/2023/02/21/if-we-did.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2023/02/20/finished-reading-finish.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780698184800\">Finish</a> by Jon Acuff 📚</p>\n",
+				"content_text": "Finished reading: [Finish](https://micro.blog/books/9780698184800) by Jon Acuff 📚\n",
+				"date_published": "2023-02-20T12:19:08+01:00",
+				"url": "https://jeroensangers.com/2023/02/20/finished-reading-finish.html",
+				"tags": ["Reading"]
+			},
+			{
 				"id": "http://jeroensangers.micro.blog/2023/02/15/dicen-que-crecer.html",
 				
 				"content_html": "<p>Dicen que «crecer es aprender a despedirse», pero me sigue costando mucho.</p>\n",
@@ -85,7 +112,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/01/26/poco-a-poco.html",
 				
 				"content_html": "<p>Poco a poco vamos subiendo en las listas de Amazon…</p>\n<!-- raw HTML omitted -->\n<p>#EfectividadKENSO</p>\n",
-				"content_text": "Poco a poco vamos subiendo en las listas de Amazon…\n\n<img src=\"uploads/2023/edd8567fa1.png\" alt=\"Efectividad KENSO en Amazon\" />\n\n#EfectividadKENSO\n",
+				"content_text": "Poco a poco vamos subiendo en las listas de Amazon…\n\n<img src=\"https://jeroensangers.com/uploads/2023/edd8567fa1.png\" alt=\"Efectividad KENSO en Amazon\" />\n\n#EfectividadKENSO\n",
 				"date_published": "2023-01-26T12:24:58+01:00",
 				"url": "https://jeroensangers.com/2023/01/26/poco-a-poco.html"
 			},
