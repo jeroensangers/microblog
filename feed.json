@@ -1,16 +1,50 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "brain tags",
+	"title": "Jeroen Sangers ◦ brain tags",
 	"icon": "https://micro.blog/jeroensangers/avatar.jpg",
 	"home_page_url": "https://jeroensangers.com/",
 	"feed_url": "https://jeroensangers.com/feed.json",
 	"items": [
 		
 			{
+				"id": "http://jeroensangers.micro.blog/2023/03/20/i-never-ever.html",
+				
+				"content_html": "<p>I never ever use the skin tones on emoji. To me, yellow is the all-inclusive color and using a skin tone is only appropriate when referring to a specific person.</p>\n",
+				"content_text": "I never ever use the skin tones on emoji. To me, yellow is the all-inclusive color and using a skin tone is only appropriate when referring to a specific person.\n",
+				"date_published": "2023-03-20T13:24:12+01:00",
+				"url": "https://jeroensangers.com/2023/03/20/i-never-ever.html"
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2023/03/20/something-to-reflect.html",
+				
+				"content_html": "<p>Something to reflect on:</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Something to reflect on:\n\n<blockquote class=\"quoteback\" darkmode=\"\" data-title=\"Focus\" data-author=\"Rebecca Toh\" cite=\"https://rebeccatoh.co/focus/\">\n<p>Our brain craves focus.</p>\n<p>When it is focused, it is happy, still, powerful.</p>\n<p>But a focused brain is a rarity in today’s world. </p>\n<p>What do you do to keep your brain focused?</p>\n<footer>Rebecca Toh<cite> <a href=\"https://rebeccatoh.co/focus/\">https://rebeccatoh.co/focus/</a></cite></footer>\n</blockquote><script note=\"\" src=\"https://micro.blog/quoteback.js\"></script>\n",
+				"date_published": "2023-03-20T07:55:07+01:00",
+				"url": "https://jeroensangers.com/2023/03/20/something-to-reflect.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2023/03/19/blossom-in-aitona.html",
+				
+				"content_html": "<p>📸 Blossom in Aitona</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📸 Blossom in Aitona\n\n<img src=\"uploads/2023/3139d3361e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-03-19T20:54:50+01:00",
+				"url": "https://jeroensangers.com/2023/03/19/blossom-in-aitona.html"
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2023/03/17/this-post-is.html",
+				
+				"content_html": "<p>This post is hilarious:</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This post is hilarious:\n\n<blockquote class=\"quoteback\" darkmode=\"\" data-title=\"Winners Wake Up Early: Every Article I’ve Written About My Morning Routine\" data-author=\"Alex Baia\" cite=\"https://www.newyorker.com/humor/daily-shouts/winners-wake-up-early-every-article-ive-written-about-my-morning-routine\">\nActually, You Should Wake Up at 4:12 a.m.—Don’t Ask Me Why, It Just Sounds Right—and Nine Reasons We Should Cyberbully People Who Wake Up Later Than That\n<footer>Alex Baia<cite> <a href=\"https://www.newyorker.com/humor/daily-shouts/winners-wake-up-early-every-article-ive-written-about-my-morning-routine\">https://www.newyorker.com/humor/daily-shouts/winners-wake-up-early-every-article-ive-written-about-my-morning-routine</a></cite></footer>\n</blockquote><script note=\"\" src=\"https://micro.blog/quoteback.js\"></script>\n",
+				"date_published": "2023-03-17T10:41:29+01:00",
+				"url": "https://jeroensangers.com/2023/03/17/this-post-is.html",
+				"tags": ["Quotes"]
+			},
+			{
 				"id": "http://jeroensangers.micro.blog/2023/03/16/at-the-end.html",
 				
-				"content_html": "<p>At the end of each workshop I organize, I always ask for the main takeaway from the session.</p>\n<p>And almost always the most popular takeaway is something that was not on the training outline, but rather something that they took from an offhand comment by me or one of the other participants.</p>\n<p>No  matter how much I prepare the training, how much I adapt the training contents based on what I know about the participants or how much</p>\n",
-				"content_text": "At the end of each workshop I organize, I always ask for the main takeaway from the session.\n\nAnd almost always the most popular takeaway is something that was not on the training outline, but rather something that they took from an offhand comment by me or one of the other participants.\n\nNo  matter how much I prepare the training, how much I adapt the training contents based on what I know about the participants or how much\n",
+				"content_html": "<p>At the end of each workshop I organize, I always ask for the main takeaway from the session.</p>\n<p>And almost always the most popular takeaway is something that was not on the training outline, but rather something that they took from an offhand comment by me or one of the other participants.</p>\n<p>No  matter how much I prepare the training or how much I adapt the training contents based on what I know about the participants…</p>\n",
+				"content_text": "At the end of each workshop I organize, I always ask for the main takeaway from the session.\n\nAnd almost always the most popular takeaway is something that was not on the training outline, but rather something that they took from an offhand comment by me or one of the other participants.\n\nNo  matter how much I prepare the training or how much I adapt the training contents based on what I know about the participants…\n",
 				"date_published": "2023-03-16T14:44:04+01:00",
 				"url": "https://jeroensangers.com/2023/03/16/at-the-end.html"
 			},
