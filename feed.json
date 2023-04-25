@@ -7,6 +7,38 @@
 	"items": [
 		
 			{
+				"id": "http://jeroensangers.micro.blog/2023/04/25/bye-bye-wavelength.html",
+				"title": "Bye bye Wavelength 👋",
+				"content_html": "<p>As with many new tools I try out, I found that <a href=\"https://wavelength.app/\">Wavelength</a> didn’t improve my life in a meaningful way, so I will close my account.</p>\n<p>It was nice chatting with a few of the Micro.blog users for the first days, but that seemed weird from the beginning. after all, why wouldn’t we have those conversations right on Micro.blog?</p>\n<p>See you all over here…</p>\n",
+				"content_text": "As with many new tools I try out, I found that [Wavelength](https://wavelength.app/) didn’t improve my life in a meaningful way, so I will close my account.\n\nIt was nice chatting with a few of the Micro.blog users for the first days, but that seemed weird from the beginning. after all, why wouldn’t we have those conversations right on Micro.blog?\n\nSee you all over here…\n",
+				"date_published": "2023-04-25T08:02:24+02:00",
+				"url": "https://jeroensangers.com/2023/04/25/bye-bye-wavelength.html"
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2023/04/18/i-updated-some.html",
+				
+				"content_html": "<p>I updated some minor details in the list of the <a href=\"https://jeroensangers.com/tools/\">tools I use</a> for my daily work.</p>\n",
+				"content_text": "I updated some minor details in the list of the [tools I use](https://jeroensangers.com/tools/) for my daily work.\n",
+				"date_published": "2023-04-18T18:09:04+02:00",
+				"url": "https://jeroensangers.com/2023/04/18/i-updated-some.html"
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2023/04/18/why-does-macos.html",
+				
+				"content_html": "<p>Why does macOS only warn me about my Magic Mouse&rsquo;s battery level when it gets to 1%. You know I can&rsquo;t charge it while working…</p>\n",
+				"content_text": "Why does macOS only warn me about my Magic Mouse's battery level when it gets to 1%. You know I can't charge it while working…\n",
+				"date_published": "2023-04-18T17:46:28+02:00",
+				"url": "https://jeroensangers.com/2023/04/18/why-does-macos.html"
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2023/04/18/remember-before-looking.html",
+				
+				"content_html": "<p>Remember before looking at your device:</p>\n<blockquote>\n<p>«A wealth of information creates poverty of attention and a need to allocate that attention efficiently»\n— Herb Simon</p>\n</blockquote>\n",
+				"content_text": "Remember before looking at your device:\n\n> «A wealth of information creates poverty of attention and a need to allocate that attention efficiently»\n— Herb Simon\n",
+				"date_published": "2023-04-18T11:28:13+02:00",
+				"url": "https://jeroensangers.com/2023/04/18/remember-before-looking.html"
+			},
+			{
 				"id": "http://jeroensangers.micro.blog/2023/04/18/last-week-i.html",
 				
 				"content_html": "<p>Last week I imported my whole tweet archive into Micro.blog to save my insignificant ramblings for the future (since some maniac may suddenly decide to delete them).</p>\n<p>Until this morning I did not have the possibility to review the results and came to two conclusions:</p>\n<ol>\n<li>I am very impressed by the work <a href=\"https://micro.blog/manton\">@manton</a> did to make this a frictionless experience. 🙏</li>\n<li>I am ver unimpressed by the quality of my tweets. 🤢</li>\n</ol>\n",
@@ -18,7 +50,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/04/15/golden-door-i.html",
 				
 				"content_html": "<p>📸 Golden door</p>\n<p>I was afraid that the gold paint would look too “over the top”, but it turned out very nice.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 Golden door\n\nI was afraid that the gold paint would look too “over the top”, but it turned out very nice. \n\n<img src=\"uploads/2023/feef779eb7.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "📸 Golden door\n\nI was afraid that the gold paint would look too “over the top”, but it turned out very nice. \n\n<img src=\"https://cdn.uploads.micro.blog/5908/2023/feef779eb7.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-04-15T12:06:52+02:00",
 				"url": "https://jeroensangers.com/2023/04/15/golden-door-i.html"
 			},
@@ -35,7 +67,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/04/01/oura-ring-brings.html",
 				
 				"content_html": "<p>Oura ring brings back Clippy for April fool’s day</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Oura ring brings back Clippy for April fool’s day\n\n<img src=\"uploads/2023/3975f287f7.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"content_text": "Oura ring brings back Clippy for April fool’s day\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2023/3975f287f7.png\" width=\"277\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-04-01T23:39:16+02:00",
 				"url": "https://jeroensangers.com/2023/04/01/oura-ring-brings.html"
 			},
