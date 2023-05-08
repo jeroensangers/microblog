@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://jeroensangers.micro.blog/2023/05/05/bcn-ams.html",
+				
+				"content_html": "<p>BCN 🛫🛬 AMS</p>\n",
+				"content_text": "BCN 🛫🛬 AMS\n",
+				"date_published": "2023-05-05T09:08:47+02:00",
+				"url": "https://jeroensangers.com/2023/05/05/bcn-ams.html"
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2023/05/05/this-is-one.html",
+				
+				"content_html": "<p>This is one of the finest capture apps I have ever used.<br>\nEspecially the voice recordings in combination with Tana’s transcribe function is magic.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This is one of the finest capture apps I have ever used.  \nEspecially the voice recordings in combination with Tana’s transcribe function is magic. \n\n<img src=\"uploads/2023/ebf59e35a5.png\" alt=\"Tana Capture\" />\n",
+				"date_published": "2023-05-05T08:58:52+02:00",
+				"url": "https://jeroensangers.com/2023/05/05/this-is-one.html"
+			},
+			{
 				"id": "http://jeroensangers.micro.blog/2023/05/03/i-wanted-to.html",
 				
 				"content_html": "<p>I wanted to try out GPT4, but OpenAI rejected my credit cards.\nSo now I have more money and more time (but less fun).</p>\n",
