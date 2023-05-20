@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://jeroensangers.micro.blog/2023/05/16/ests-usando-la.html",
+				
+				"content_html": "<p>¿Estás usando la inteligencia artificial en tu trabajo? ¿Me puedes dar algún ejemplo concreto?</p>\n",
+				"content_text": "¿Estás usando la inteligencia artificial en tu trabajo? ¿Me puedes dar algún ejemplo concreto?\n",
+				"date_published": "2023-05-16T07:56:37+02:00",
+				"url": "https://jeroensangers.com/2023/05/16/ests-usando-la.html"
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2023/05/15/switch-costs.html",
+				"title": "Switch costs",
+				"content_html": "<p>Workers lose 9% of their time at work by toggling roughly 1200 times per day between applications and websites.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/09/attempting-to-do.html\">Multitasking</a>, <a href=\"https://jeroensangers.com/2021/09/09/avoid-excessive-task.html\">Task switching</a>, <a href=\"https://jeroensangers.com/2022/07/25/a-little-bit.html\">Attention residue</a>, <a href=\"https://jeroensangers.com/2021/09/09/get-a-computer.html\">Screen size</a></p>\n",
+				"content_text": "Workers lose 9% of their time at work by toggling roughly 1200 times per day between applications and websites.\n\n_Related_: [Multitasking](https://jeroensangers.com/2021/09/09/attempting-to-do.html), [Task switching](https://jeroensangers.com/2021/09/09/avoid-excessive-task.html), [Attention residue](https://jeroensangers.com/2022/07/25/a-little-bit.html), [Screen size](https://jeroensangers.com/2021/09/09/get-a-computer.html)\n",
+				"date_published": "2023-05-15T17:18:07+02:00",
+				"url": "https://jeroensangers.com/2023/05/15/switch-costs.html",
+				"tags": ["Digital garden"]
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2023/05/15/each-day-i.html",
+				
+				"content_html": "<p>Each day I here more and more about Bluesky and little by little I’m getting curious.</p>\n<p>Does anybody have an invite for me?</p>\n",
+				"content_text": "Each day I here more and more about Bluesky and little by little I’m getting curious.\n\nDoes anybody have an invite for me?\n",
+				"date_published": "2023-05-15T13:32:43+02:00",
+				"url": "https://jeroensangers.com/2023/05/15/each-day-i.html"
+			},
+			{
 				"id": "http://jeroensangers.micro.blog/2023/05/09/playing-videos-music.html",
 				
 				"content_html": "<p>Playing videos, music or voice messages using your phone’s speaker in a public space such as in restaurants or public transport is <strong>rude</strong>.</p>\n<p>I guess this is a lost battle for me, as it seems to happening more and more …</p>\n",
@@ -26,7 +51,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/05/05/this-is-one.html",
 				
 				"content_html": "<p>This is one of the finest capture apps I have ever used.<br>\nEspecially the voice recordings in combination with Tana’s transcribe function is magic.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This is one of the finest capture apps I have ever used.  \nEspecially the voice recordings in combination with Tana’s transcribe function is magic. \n\n<img src=\"uploads/2023/ebf59e35a5.png\" alt=\"Tana Capture\" />\n",
+				"content_text": "This is one of the finest capture apps I have ever used.  \nEspecially the voice recordings in combination with Tana’s transcribe function is magic. \n\n<img src=\"https://cdn.uploads.micro.blog/5908/2023/ebf59e35a5.png\" alt=\"Tana Capture\" />\n",
 				"date_published": "2023-05-05T08:58:52+02:00",
 				"url": "https://jeroensangers.com/2023/05/05/this-is-one.html"
 			},
@@ -1085,8 +1110,8 @@
 			{
 				"id": "http://jeroensangers.micro.blog/2022/07/25/a-little-bit.html",
 				"title": "Attention residue",
-				"content_html": "<p>A little bit of time pressure when working on your tasks will help reduce attention residue.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/09/avoid-excessive-task.html\">Task switching</a>, <a href=\"https://jeroensangers.com/2021/09/09/attempting-to-do.html\">Multitasking</a>, <a href=\"https://jeroensangers.com/2021/10/20/be-fore-you.html\">Intention</a>, <a href=\"https://jeroensangers.com/2021/09/09/link-desired-behaviour.html\">Implementation intentions</a>, <a href=\"https://jeroensangers.com/2022/12/19/singletasking.html\">Singletasking</a></p>\n",
-				"content_text": "A little bit of time pressure when working on your tasks will help reduce attention residue.\n\n_Related_: [Task switching](https://jeroensangers.com/2021/09/09/avoid-excessive-task.html), [Multitasking](https://jeroensangers.com/2021/09/09/attempting-to-do.html), [Intention](https://jeroensangers.com/2021/10/20/be-fore-you.html), [Implementation intentions](https://jeroensangers.com/2021/09/09/link-desired-behaviour.html), [Singletasking](https://jeroensangers.com/2022/12/19/singletasking.html)\n",
+				"content_html": "<p>A little bit of time pressure when working on your tasks will help reduce attention residue.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/09/avoid-excessive-task.html\">Task switching</a>, <a href=\"https://jeroensangers.com/2021/09/09/attempting-to-do.html\">Multitasking</a>, <a href=\"https://jeroensangers.com/2021/10/20/be-fore-you.html\">Intention</a>, <a href=\"https://jeroensangers.com/2021/09/09/link-desired-behaviour.html\">Implementation intentions</a>, <a href=\"https://jeroensangers.com/2022/12/19/singletasking.html\">Singletasking</a>, <a href=\"https://jeroensangers.com/2023/05/15/switch-costs.html\">Switch costs</a></p>\n",
+				"content_text": "A little bit of time pressure when working on your tasks will help reduce attention residue.\n\n_Related_: [Task switching](https://jeroensangers.com/2021/09/09/avoid-excessive-task.html), [Multitasking](https://jeroensangers.com/2021/09/09/attempting-to-do.html), [Intention](https://jeroensangers.com/2021/10/20/be-fore-you.html), [Implementation intentions](https://jeroensangers.com/2021/09/09/link-desired-behaviour.html), [Singletasking](https://jeroensangers.com/2022/12/19/singletasking.html), [Switch costs](https://jeroensangers.com/2023/05/15/switch-costs.html)\n",
 				"date_published": "2022-07-25T15:12:04+02:00",
 				"url": "https://jeroensangers.com/2022/07/25/a-little-bit.html",
 				"tags": ["Digital garden"]
@@ -2841,8 +2866,8 @@
 			{
 				"id": "http://JeroenSangers.micro.blog/2021/09/09/attempting-to-do.html",
 				"title": "Multitasking",
-				"content_html": "<p>Attempting to do two or more attention-demanding tasks simultaneously reduces productivity.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/03/do-the-right.html\">Effectiveness</a>, <a href=\"https://jeroensangers.com/2021/09/09/avoid-excessive-task.html\">Task switching</a>, <a href=\"https://jeroensangers.com/2021/09/09/a-small-part.html\">Supertaskers</a>, <a href=\"https://jeroensangers.com/2022/07/25/a-little-bit.html\">Attention residue</a>, <a href=\"https://jeroensangers.com/2022/12/19/singletasking.html\">Singletasking</a>, <a href=\"https://jeroensangers.com/2023/01/19/responsiveness.html\">Responsiveness</a></p>\n",
-				"content_text": "Attempting to do two or more attention-demanding tasks simultaneously reduces productivity.\n\n_Related_: [Effectiveness](https://jeroensangers.com/2021/09/03/do-the-right.html), [Task switching](https://jeroensangers.com/2021/09/09/avoid-excessive-task.html), [Supertaskers](https://jeroensangers.com/2021/09/09/a-small-part.html), [Attention residue](https://jeroensangers.com/2022/07/25/a-little-bit.html), [Singletasking](https://jeroensangers.com/2022/12/19/singletasking.html), [Responsiveness](https://jeroensangers.com/2023/01/19/responsiveness.html)\n",
+				"content_html": "<p>Attempting to do two or more attention-demanding tasks simultaneously reduces productivity.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/03/do-the-right.html\">Effectiveness</a>, <a href=\"https://jeroensangers.com/2021/09/09/avoid-excessive-task.html\">Task switching</a>, <a href=\"https://jeroensangers.com/2021/09/09/a-small-part.html\">Supertaskers</a>, <a href=\"https://jeroensangers.com/2022/07/25/a-little-bit.html\">Attention residue</a>, <a href=\"https://jeroensangers.com/2022/12/19/singletasking.html\">Singletasking</a>, <a href=\"https://jeroensangers.com/2023/01/19/responsiveness.html\">Responsiveness</a>, <a href=\"https://jeroensangers.com/2023/05/15/switch-costs.html\">Switch costs</a></p>\n",
+				"content_text": "Attempting to do two or more attention-demanding tasks simultaneously reduces productivity.\n\n_Related_: [Effectiveness](https://jeroensangers.com/2021/09/03/do-the-right.html), [Task switching](https://jeroensangers.com/2021/09/09/avoid-excessive-task.html), [Supertaskers](https://jeroensangers.com/2021/09/09/a-small-part.html), [Attention residue](https://jeroensangers.com/2022/07/25/a-little-bit.html), [Singletasking](https://jeroensangers.com/2022/12/19/singletasking.html), [Responsiveness](https://jeroensangers.com/2023/01/19/responsiveness.html), [Switch costs](https://jeroensangers.com/2023/05/15/switch-costs.html)\n",
 				"date_published": "2021-09-09T16:23:00+02:00",
 				"url": "https://jeroensangers.com/2021/09/09/attempting-to-do.html",
 				"tags": ["Digital garden"]
@@ -2850,8 +2875,8 @@
 			{
 				"id": "http://JeroenSangers.micro.blog/2021/09/09/avoid-excessive-task.html",
 				"title": "Task switching",
-				"content_html": "<p>Avoid excessive task switching to increase efficiency.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/03/do-the-right.html\">Effectiveness</a>, <a href=\"https://jeroensangers.com/2021/09/09/during-the-mornings.html\">Work cycle</a>, <a href=\"https://jeroensangers.com/2021/09/09/get-a-computer.html\">Screen size</a>, <a href=\"https://jeroensangers.com/2021/09/09/attempting-to-do.html\">Multitasking</a>, <a href=\"https://jeroensangers.com/2021/09/09/a-small-part.html\">Supertaskers</a>, <a href=\"https://jeroensangers.com/2021/10/20/be-fore-you.html\">Intention</a>, <a href=\"https://jeroensangers.com/2021/12/18/interruptions-arent-intrinsically.html\">Interruptions</a>, <a href=\"https://jeroensangers.com/2022/03/31/stressfree-people-have.html\">Productive stress</a>, <a href=\"https://jeroensangers.com/2022/07/25/a-little-bit.html\">Attention residue</a>, <a href=\"https://jeroensangers.com/2022/12/19/singletasking.html\">Singletasking</a>, <a href=\"https://jeroensangers.com/2023/01/19/responsiveness.html\">Responsiveness</a></p>\n",
-				"content_text": "Avoid excessive task switching to increase efficiency.\n\n_Related_: [Effectiveness](https://jeroensangers.com/2021/09/03/do-the-right.html), [Work cycle](https://jeroensangers.com/2021/09/09/during-the-mornings.html), [Screen size](https://jeroensangers.com/2021/09/09/get-a-computer.html), [Multitasking](https://jeroensangers.com/2021/09/09/attempting-to-do.html), [Supertaskers](https://jeroensangers.com/2021/09/09/a-small-part.html), [Intention](https://jeroensangers.com/2021/10/20/be-fore-you.html), [Interruptions](https://jeroensangers.com/2021/12/18/interruptions-arent-intrinsically.html), [Productive stress](https://jeroensangers.com/2022/03/31/stressfree-people-have.html), [Attention residue](https://jeroensangers.com/2022/07/25/a-little-bit.html), [Singletasking](https://jeroensangers.com/2022/12/19/singletasking.html), [Responsiveness](https://jeroensangers.com/2023/01/19/responsiveness.html)\n",
+				"content_html": "<p>Avoid excessive task switching to increase efficiency.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/03/do-the-right.html\">Effectiveness</a>, <a href=\"https://jeroensangers.com/2021/09/09/during-the-mornings.html\">Work cycle</a>, <a href=\"https://jeroensangers.com/2021/09/09/get-a-computer.html\">Screen size</a>, <a href=\"https://jeroensangers.com/2021/09/09/attempting-to-do.html\">Multitasking</a>, <a href=\"https://jeroensangers.com/2021/09/09/a-small-part.html\">Supertaskers</a>, <a href=\"https://jeroensangers.com/2021/10/20/be-fore-you.html\">Intention</a>, <a href=\"https://jeroensangers.com/2021/12/18/interruptions-arent-intrinsically.html\">Interruptions</a>, <a href=\"https://jeroensangers.com/2022/03/31/stressfree-people-have.html\">Productive stress</a>, <a href=\"https://jeroensangers.com/2022/07/25/a-little-bit.html\">Attention residue</a>, <a href=\"https://jeroensangers.com/2022/12/19/singletasking.html\">Singletasking</a>, <a href=\"https://jeroensangers.com/2023/01/19/responsiveness.html\">Responsiveness</a>, <a href=\"https://jeroensangers.com/2023/05/15/switch-costs.html\">Switch costs</a></p>\n",
+				"content_text": "Avoid excessive task switching to increase efficiency.\n\n_Related_: [Effectiveness](https://jeroensangers.com/2021/09/03/do-the-right.html), [Work cycle](https://jeroensangers.com/2021/09/09/during-the-mornings.html), [Screen size](https://jeroensangers.com/2021/09/09/get-a-computer.html), [Multitasking](https://jeroensangers.com/2021/09/09/attempting-to-do.html), [Supertaskers](https://jeroensangers.com/2021/09/09/a-small-part.html), [Intention](https://jeroensangers.com/2021/10/20/be-fore-you.html), [Interruptions](https://jeroensangers.com/2021/12/18/interruptions-arent-intrinsically.html), [Productive stress](https://jeroensangers.com/2022/03/31/stressfree-people-have.html), [Attention residue](https://jeroensangers.com/2022/07/25/a-little-bit.html), [Singletasking](https://jeroensangers.com/2022/12/19/singletasking.html), [Responsiveness](https://jeroensangers.com/2023/01/19/responsiveness.html), [Switch costs](https://jeroensangers.com/2023/05/15/switch-costs.html)\n",
 				"date_published": "2021-09-09T14:04:00+02:00",
 				"url": "https://jeroensangers.com/2021/09/09/avoid-excessive-task.html",
 				"tags": ["Digital garden"]
@@ -2957,8 +2982,8 @@
 			{
 				"id": "http://JeroenSangers.micro.blog/2021/09/09/get-a-computer.html",
 				"title": "Screen size",
-				"content_html": "<p>Get a computer screen big enough to be able to simultaneously see the working document and the reference material.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/06/a-standing-desk.html\">Standing desk</a></p>\n",
-				"content_text": "Get a computer screen big enough to be able to simultaneously see the working document and the reference material.\n\n_Related_: [Standing desk](https://jeroensangers.com/2021/09/06/a-standing-desk.html)\n",
+				"content_html": "<p>Get a computer screen big enough to be able to simultaneously see the working document and the reference material.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/06/a-standing-desk.html\">Standing desk</a>, <a href=\"https://jeroensangers.com/2023/05/15/switch-costs.html\">Switch costs</a></p>\n",
+				"content_text": "Get a computer screen big enough to be able to simultaneously see the working document and the reference material.\n\n_Related_: [Standing desk](https://jeroensangers.com/2021/09/06/a-standing-desk.html), [Switch costs](https://jeroensangers.com/2023/05/15/switch-costs.html)\n",
 				"date_published": "2021-09-09T10:59:00+02:00",
 				"url": "https://jeroensangers.com/2021/09/09/get-a-computer.html",
 				"tags": ["Digital garden"]
