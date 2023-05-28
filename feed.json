@@ -7,6 +7,55 @@
 	"items": [
 		
 			{
+				"id": "http://jeroensangers.micro.blog/2023/05/25/lcg-bcn.html",
+				
+				"content_html": "<p>🛫 LCG – BCN 🛬</p>\n",
+				"content_text": "🛫 LCG – BCN 🛬\n",
+				"date_published": "2023-05-25T19:52:07+02:00",
+				"url": "https://jeroensangers.com/2023/05/25/lcg-bcn.html"
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2023/05/24/bcn-lcg.html",
+				
+				"content_html": "<p>🛫 BCN – LCG 🛬</p>\n",
+				"content_text": "🛫 BCN – LCG 🛬\n",
+				"date_published": "2023-05-24T05:55:22+02:00",
+				"url": "https://jeroensangers.com/2023/05/24/bcn-lcg.html"
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2023/05/23/currently-reading-attention.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780369733054\">Attention Span</a> by Gloria Mark 📚</p>\n",
+				"content_text": "Currently reading: [Attention Span](https://micro.blog/books/9780369733054) by Gloria Mark 📚\n",
+				"date_published": "2023-05-23T13:15:50+02:00",
+				"url": "https://jeroensangers.com/2023/05/23/currently-reading-attention.html",
+				"tags": ["Reading"]
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2023/05/23/for-those-who.html",
+				
+				"content_html": "<blockquote>\n<p>For those who gift with joy, that joy is their reward<br>\n— Khalil Gibran in On Giving</p>\n</blockquote>\n",
+				"content_text": "> For those who gift with joy, that joy is their reward  \n— Khalil Gibran in On Giving\n",
+				"date_published": "2023-05-23T11:37:37+02:00",
+				"url": "https://jeroensangers.com/2023/05/23/for-those-who.html"
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2023/05/23/this-footnote-brings.html",
+				
+				"content_html": "<p>This footnote brings up so many questions about the discussions there must have been between the authors of <a href=\"https://www.jstor.org/stable/3328150\">this paper</a>.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This footnote brings up so many questions about the discussions there must have been between the authors of [this paper](https://www.jstor.org/stable/3328150).\n\n<img src=\"uploads/2023/7c589ec170.png\" width=\"600\" height=\"42\" alt=\"Authors are listed in order of degree of belief in the central thesis\">\n",
+				"date_published": "2023-05-23T09:32:40+02:00",
+				"url": "https://jeroensangers.com/2023/05/23/this-footnote-brings.html"
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2023/05/22/back-to-my.html",
+				
+				"content_html": "<p>📸 Back to my mid-morning coffee and reading routine</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📸 Back to my mid-morning coffee and reading routine\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2023/621d87a01c.jpg\" alt=\"A cup of coffee in my hand and my iPad on my lap\" />\n",
+				"date_published": "2023-05-22T12:35:27+02:00",
+				"url": "https://jeroensangers.com/2023/05/22/back-to-my.html"
+			},
+			{
 				"id": "http://jeroensangers.micro.blog/2023/05/16/ests-usando-la.html",
 				
 				"content_html": "<p>¿Estás usando la inteligencia artificial en tu trabajo? ¿Me puedes dar algún ejemplo concreto?</p>\n",
