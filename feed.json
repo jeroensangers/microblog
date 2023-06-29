@@ -7,6 +7,39 @@
 	"items": [
 		
 			{
+				"id": "http://jeroensangers.micro.blog/2023/06/29/all-truly-great.html",
+				
+				"content_html": "<blockquote>\n<p>“All truly great thoughts are conceived by walking”\n— Friedrich Nietzsche</p>\n</blockquote>\n<p>The 1000th quote stored in my Quotebook app.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "> “All truly great thoughts are conceived by walking”\n— Friedrich Nietzsche\n\nThe 1000th quote stored in my Quotebook app.\n\n\n\n<img src=\"uploads/2023/image.jpg\" width=\"277\" height=\"600\" alt=\"1000 quotes in the Quotebook app\">\n",
+				"date_published": "2023-06-29T11:57:13+02:00",
+				"url": "https://jeroensangers.com/2023/06/29/all-truly-great.html"
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2023/06/20/this-weekend-i.html",
+				
+				"content_html": "<p>This weekend I will be staying a few days in Göteborg. Any tips? Anything off the beaten path?</p>\n",
+				"content_text": "This weekend I will be staying a few days in Göteborg. Any tips? Anything off the beaten path?\n",
+				"date_published": "2023-06-20T22:13:25+02:00",
+				"url": "https://jeroensangers.com/2023/06/20/this-weekend-i.html"
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2023/06/20/fourday-workweek.html",
+				"title": "Four-day workweek",
+				"content_html": "<p>Increase employee wellbeing without productivity loss by reducing the workweek to four days.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2022/08/31/173746.html\">Hard work</a>, <a href=\"https://jeroensangers.com/2021/09/16/free-time.html\">Free time</a>, <a href=\"https://jeroensangers.com/2021/09/09/large-organisations-kill.html\">Indifference</a>, <a href=\"https://jeroensangers.com/2022/12/15/work-about-work.html\">Work about work</a></p>\n",
+				"content_text": "Increase employee wellbeing without productivity loss by reducing the workweek to four days.\n\n_Related_: [Hard work](https://jeroensangers.com/2022/08/31/173746.html), [Free time](https://jeroensangers.com/2021/09/16/free-time.html), [Indifference](https://jeroensangers.com/2021/09/09/large-organisations-kill.html), [Work about work](https://jeroensangers.com/2022/12/15/work-about-work.html)\n",
+				"date_published": "2023-06-20T11:07:16+02:00",
+				"url": "https://jeroensangers.com/2023/06/20/fourday-workweek.html",
+				"tags": ["Digital garden"]
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2023/06/19/i-just-found.html",
+				
+				"content_html": "<p>I just found out about <a href=\"https://old.reddit.com\">Old Reddit</a>. This makes the site so much more usable.</p>\n",
+				"content_text": "I just found out about [Old Reddit](https://old.reddit.com). This makes the site so much more usable.\n",
+				"date_published": "2023-06-19T10:31:46+02:00",
+				"url": "https://jeroensangers.com/2023/06/19/i-just-found.html"
+			},
+			{
 				"id": "http://jeroensangers.micro.blog/2023/06/10/currently-reading-designing.html",
 				
 				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9798574576656\">Designing the Mind</a> by Ryan Bush 📚</p>\n",
@@ -37,7 +70,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/06/05/feria-del-libro.html",
 				
 				"content_html": "<p>📸 Feria del libro de Madrid</p>\n<p>Cómo he disfrutado esta tarde volviendo a ver mis amigos de KENSO y, más importante, encontrarme en persona con los oyentes y viejos amigos.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 Feria del libro de Madrid\n\nCómo he disfrutado esta tarde volviendo a ver mis amigos de KENSO y, más importante, encontrarme en persona con los oyentes y viejos amigos.\n\n<img src=\"uploads/2023/47732d6bc1.jpg\" alt=\"El equipo de KENSO firmando libros en la feria del libro en Madrid\" />\n",
+				"content_text": "📸 Feria del libro de Madrid\n\nCómo he disfrutado esta tarde volviendo a ver mis amigos de KENSO y, más importante, encontrarme en persona con los oyentes y viejos amigos.\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2023/47732d6bc1.jpg\" alt=\"El equipo de KENSO firmando libros en la feria del libro en Madrid\" />\n",
 				"date_published": "2023-06-05T22:28:06+02:00",
 				"url": "https://jeroensangers.com/2023/06/05/feria-del-libro.html"
 			},
@@ -78,7 +111,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/05/23/this-footnote-brings.html",
 				
 				"content_html": "<p>This footnote brings up so many questions about the discussions there must have been between the authors of <a href=\"https://www.jstor.org/stable/3328150\">this paper</a>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This footnote brings up so many questions about the discussions there must have been between the authors of [this paper](https://www.jstor.org/stable/3328150).\n\n<img src=\"uploads/2023/7c589ec170.png\" width=\"600\" height=\"42\" alt=\"Authors are listed in order of degree of belief in the central thesis\">\n",
+				"content_text": "This footnote brings up so many questions about the discussions there must have been between the authors of [this paper](https://www.jstor.org/stable/3328150).\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2023/7c589ec170.png\" width=\"600\" height=\"42\" alt=\"Authors are listed in order of degree of belief in the central thesis\">\n",
 				"date_published": "2023-05-23T09:32:40+02:00",
 				"url": "https://jeroensangers.com/2023/05/23/this-footnote-brings.html"
 			},
@@ -615,8 +648,8 @@
 			{
 				"id": "http://jeroensangers.micro.blog/2022/12/15/work-about-work.html",
 				"title": "Work about work",
-				"content_html": "<p>Most professionals spend about 60% or their time on work about work.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2022/02/03/spent-a-little.html\">Invest</a>, <a href=\"https://jeroensangers.com/2022/12/15/less-meetings.html\">Less meetings</a>, <a href=\"https://jeroensangers.com/2021/11/05/start-with-as.html\">Simplicity</a></p>\n",
-				"content_text": "Most professionals spend about 60% or their time on work about work.\n\n_Related_: [Invest](https://jeroensangers.com/2022/02/03/spent-a-little.html), [Less meetings](https://jeroensangers.com/2022/12/15/less-meetings.html), [Simplicity](https://jeroensangers.com/2021/11/05/start-with-as.html)\n",
+				"content_html": "<p>Most professionals spend about 60% or their time on work about work.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2022/02/03/spent-a-little.html\">Invest</a>, <a href=\"https://jeroensangers.com/2022/12/15/less-meetings.html\">Less meetings</a>, <a href=\"https://jeroensangers.com/2021/11/05/start-with-as.html\">Simplicity</a>, <a href=\"https://jeroensangers.com/2023/06/20/fourday-workweek.html\">Four-day workweek</a></p>\n",
+				"content_text": "Most professionals spend about 60% or their time on work about work.\n\n_Related_: [Invest](https://jeroensangers.com/2022/02/03/spent-a-little.html), [Less meetings](https://jeroensangers.com/2022/12/15/less-meetings.html), [Simplicity](https://jeroensangers.com/2021/11/05/start-with-as.html), [Four-day workweek](https://jeroensangers.com/2023/06/20/fourday-workweek.html)\n",
 				"date_published": "2022-12-15T15:16:56+02:00",
 				"url": "https://jeroensangers.com/2022/12/15/work-about-work.html",
 				"tags": ["Digital garden"]
@@ -1024,8 +1057,8 @@
 			{
 				"id": "http://jeroensangers.micro.blog/2022/08/31/173746.html",
 				"title": "Hard work",
-				"content_html": "<p>Long working hours negatively effect cognitive performance</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/16/the-optimal-amount.html\">Free time</a>, <a href=\"https://jeroensangers.com/2021/09/09/explore-a-map.html\">Monthly map</a>, <a href=\"https://jeroensangers.com/2022/02/21/try-to-get.html\">Time to flow</a>, <a href=\"https://jeroensangers.com/2021/09/09/large-organisations-kill.html\">Indifference</a>, <a href=\"https://jeroensangers.com/2022/11/15/boundaries.html\">Boundaries</a></p>\n",
-				"content_text": "Long working hours negatively effect cognitive performance\n\n_Related_: [Free time](https://jeroensangers.com/2021/09/16/the-optimal-amount.html), [Monthly map](https://jeroensangers.com/2021/09/09/explore-a-map.html), [Time to flow](https://jeroensangers.com/2022/02/21/try-to-get.html), [Indifference](https://jeroensangers.com/2021/09/09/large-organisations-kill.html), [Boundaries](https://jeroensangers.com/2022/11/15/boundaries.html)\n",
+				"content_html": "<p>Long working hours negatively effect cognitive performance</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/16/the-optimal-amount.html\">Free time</a>, <a href=\"https://jeroensangers.com/2021/09/09/explore-a-map.html\">Monthly map</a>, <a href=\"https://jeroensangers.com/2022/02/21/try-to-get.html\">Time to flow</a>, <a href=\"https://jeroensangers.com/2021/09/09/large-organisations-kill.html\">Indifference</a>, <a href=\"https://jeroensangers.com/2022/11/15/boundaries.html\">Boundaries</a>, <a href=\"https://jeroensangers.com/2023/06/20/fourday-workweek.html\">Four-day workweek</a></p>\n",
+				"content_text": "Long working hours negatively effect cognitive performance\n\n_Related_: [Free time](https://jeroensangers.com/2021/09/16/the-optimal-amount.html), [Monthly map](https://jeroensangers.com/2021/09/09/explore-a-map.html), [Time to flow](https://jeroensangers.com/2022/02/21/try-to-get.html), [Indifference](https://jeroensangers.com/2021/09/09/large-organisations-kill.html), [Boundaries](https://jeroensangers.com/2022/11/15/boundaries.html), [Four-day workweek](https://jeroensangers.com/2023/06/20/fourday-workweek.html)\n",
 				"date_published": "2022-08-31T17:37:46+02:00",
 				"url": "https://jeroensangers.com/2022/08/31/173746.html",
 				"tags": ["Digital garden"]
@@ -2855,8 +2888,8 @@
 			{
 				"id": "http://jeroensangers.micro.blog/2021/09/16/free-time.html",
 				"title": "Free time",
-				"content_html": "<p>The optimal amount of free time seems to be between 2 and 4 hours per day.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/03/do-the-right.html\">Effectiveness</a>, <a href=\"https://jeroensangers.com/2021/09/09/explore-a-map.html\">Monthly map</a>, <a href=\"https://jeroensangers.com/2021/09/15/take-regular-thinking.html\">Walk</a>, <a href=\"https://jeroensangers.com/2021/09/09/dedicate-time-to.html\">Joy</a>, <a href=\"https://jeroensangers.com/2022/08/31/hard-work.html\">Hard work</a>, <a href=\"https://jeroensangers.com/2022/11/15/boundaries.html\">Boundaries</a>, <a href=\"https://jeroensangers.com/2023/01/10/standard-work-time.html\">Standard work time</a></p>\n",
-				"content_text": "The optimal amount of free time seems to be between 2 and 4 hours per day.\n\n_Related_: [Effectiveness](https://jeroensangers.com/2021/09/03/do-the-right.html), [Monthly map](https://jeroensangers.com/2021/09/09/explore-a-map.html), [Walk](https://jeroensangers.com/2021/09/15/take-regular-thinking.html), [Joy](https://jeroensangers.com/2021/09/09/dedicate-time-to.html), [Hard work](https://jeroensangers.com/2022/08/31/hard-work.html), [Boundaries](https://jeroensangers.com/2022/11/15/boundaries.html), [Standard work time](https://jeroensangers.com/2023/01/10/standard-work-time.html)\n",
+				"content_html": "<p>The optimal amount of free time seems to be between 2 and 4 hours per day.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/03/do-the-right.html\">Effectiveness</a>, <a href=\"https://jeroensangers.com/2021/09/09/explore-a-map.html\">Monthly map</a>, <a href=\"https://jeroensangers.com/2021/09/15/take-regular-thinking.html\">Walk</a>, <a href=\"https://jeroensangers.com/2021/09/09/dedicate-time-to.html\">Joy</a>, <a href=\"https://jeroensangers.com/2022/08/31/hard-work.html\">Hard work</a>, <a href=\"https://jeroensangers.com/2022/11/15/boundaries.html\">Boundaries</a>, <a href=\"https://jeroensangers.com/2023/01/10/standard-work-time.html\">Standard work time</a>, <a href=\"https://jeroensangers.com/2023/06/20/fourday-workweek.html\">Four-day workweek</a></p>\n",
+				"content_text": "The optimal amount of free time seems to be between 2 and 4 hours per day.\n\n_Related_: [Effectiveness](https://jeroensangers.com/2021/09/03/do-the-right.html), [Monthly map](https://jeroensangers.com/2021/09/09/explore-a-map.html), [Walk](https://jeroensangers.com/2021/09/15/take-regular-thinking.html), [Joy](https://jeroensangers.com/2021/09/09/dedicate-time-to.html), [Hard work](https://jeroensangers.com/2022/08/31/hard-work.html), [Boundaries](https://jeroensangers.com/2022/11/15/boundaries.html), [Standard work time](https://jeroensangers.com/2023/01/10/standard-work-time.html), [Four-day workweek](https://jeroensangers.com/2023/06/20/fourday-workweek.html)\n",
 				"date_published": "2021-09-16T17:36:00+02:00",
 				"url": "https://jeroensangers.com/2021/09/16/free-time.html",
 				"tags": ["Digital garden"]
@@ -3049,8 +3082,8 @@
 			{
 				"id": "http://JeroenSangers.micro.blog/2021/09/09/large-organisations-kill.html",
 				"title": "Indifference",
-				"content_html": "<p>Large organisations kill workers’ passion.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/03/do-the-right.html\">Effectiveness</a>, <a href=\"https://jeroensangers.com/2021/09/09/dedicate-time-to.html\">Joy</a>, <a href=\"https://jeroensangers.com/2021/09/07/choose-a-work.html\">Inspiration</a>, <a href=\"https://jeroensangers.com/2022/08/25/openplan-workspace.html\">Open-plan office</a>, <a href=\"https://jeroensangers.com/2022/08/31/hard-work.html\">Hard work</a>, <a href=\"https://jeroensangers.com/2022/10/04/private-offices.html\">Private offices</a>, <a href=\"https://jeroensangers.com/2022/11/15/boundaries.html\">Boundaries</a>, <a href=\"https://jeroensangers.com/2022/12/15/less-meetings.html\">Less meetings</a>, <a href=\"https://jeroensangers.com/2023/01/10/standard-work-time.html\">Standard work time</a></p>\n",
-				"content_text": "Large organisations kill workers’ passion.\n\n_Related_: [Effectiveness](https://jeroensangers.com/2021/09/03/do-the-right.html), [Joy](https://jeroensangers.com/2021/09/09/dedicate-time-to.html), [Inspiration](https://jeroensangers.com/2021/09/07/choose-a-work.html), [Open-plan office](https://jeroensangers.com/2022/08/25/openplan-workspace.html), [Hard work](https://jeroensangers.com/2022/08/31/hard-work.html), [Private offices](https://jeroensangers.com/2022/10/04/private-offices.html), [Boundaries](https://jeroensangers.com/2022/11/15/boundaries.html), [Less meetings](https://jeroensangers.com/2022/12/15/less-meetings.html), [Standard work time](https://jeroensangers.com/2023/01/10/standard-work-time.html)\n",
+				"content_html": "<p>Large organisations kill workers’ passion.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/03/do-the-right.html\">Effectiveness</a>, <a href=\"https://jeroensangers.com/2021/09/09/dedicate-time-to.html\">Joy</a>, <a href=\"https://jeroensangers.com/2021/09/07/choose-a-work.html\">Inspiration</a>, <a href=\"https://jeroensangers.com/2022/08/25/openplan-workspace.html\">Open-plan office</a>, <a href=\"https://jeroensangers.com/2022/08/31/hard-work.html\">Hard work</a>, <a href=\"https://jeroensangers.com/2022/10/04/private-offices.html\">Private offices</a>, <a href=\"https://jeroensangers.com/2022/11/15/boundaries.html\">Boundaries</a>, <a href=\"https://jeroensangers.com/2022/12/15/less-meetings.html\">Less meetings</a>, <a href=\"https://jeroensangers.com/2023/01/10/standard-work-time.html\">Standard work time</a>, <a href=\"https://jeroensangers.com/2023/06/20/fourday-workweek.html\">Four-day workweek</a></p>\n",
+				"content_text": "Large organisations kill workers’ passion.\n\n_Related_: [Effectiveness](https://jeroensangers.com/2021/09/03/do-the-right.html), [Joy](https://jeroensangers.com/2021/09/09/dedicate-time-to.html), [Inspiration](https://jeroensangers.com/2021/09/07/choose-a-work.html), [Open-plan office](https://jeroensangers.com/2022/08/25/openplan-workspace.html), [Hard work](https://jeroensangers.com/2022/08/31/hard-work.html), [Private offices](https://jeroensangers.com/2022/10/04/private-offices.html), [Boundaries](https://jeroensangers.com/2022/11/15/boundaries.html), [Less meetings](https://jeroensangers.com/2022/12/15/less-meetings.html), [Standard work time](https://jeroensangers.com/2023/01/10/standard-work-time.html), [Four-day workweek](https://jeroensangers.com/2023/06/20/fourday-workweek.html)\n",
 				"date_published": "2021-09-09T11:12:00+02:00",
 				"url": "https://jeroensangers.com/2021/09/09/large-organisations-kill.html",
 				"tags": ["Digital garden"]
