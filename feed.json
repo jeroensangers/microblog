@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://jeroensangers.micro.blog/2023/07/23/walk-into-working.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Until a few weeks ago I always created my week plan on Monday morning and now I usually do it on Sundays to start the week with impulse.\nOf course, Nicholas is right: Friday afternoon is the best moment to plan the week ahead.</p>\n",
+				"content_text": "<blockquote class=\"quoteback\" darkmode=\"\" data-title=\"The Most Powerful Productivity Tips, 57\" data-author=\"Nicholas Bate\" cite=\"https://blog.strategicedge.co.uk/2023/07/the-most-powerful-productivity-tips-57.html\">\n<p>Walk into working Monday with a plan.</p>\n<p>(Best created Friday mid-PM)</p>\n<footer>Nicholas Bate<cite> <a href=\"https://blog.strategicedge.co.uk/2023/07/the-most-powerful-productivity-tips-57.html\">https://blog.strategicedge.co.uk/2023/07/the-most-powerful-productivity-tips-57.html</a></cite></footer>\n</blockquote><script note=\"\" src=\"https://micro.blog/quoteback.js\"></script>\n\nUntil a few weeks ago I always created my week plan on Monday morning and now I usually do it on Sundays to start the week with impulse.\nOf course, Nicholas is right: Friday afternoon is the best moment to plan the week ahead.\n",
+				"date_published": "2023-07-23T09:21:25+02:00",
+				"url": "https://jeroensangers.com/2023/07/23/walk-into-working.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2023/07/21/what-we-believe.html",
+				
+				"content_html": "<p>What we believe in:</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "What we believe in:\n\n<blockquote class=\"quoteback\" darkmode=\"\" data-title=\"Effective > Productive\" data-author=\"Jason Fried\" cite=\"https://world.hey.com/jason/effective-productive-acfa210d\">\nWe believe in effectiveness. How little can we do? How much can we cut out? Instead of adding to-dos, we add to-don’ts.\n<footer>Jason Fried<cite> <a href=\"https://world.hey.com/jason/effective-productive-acfa210d\">https://world.hey.com/jason/effective-productive-acfa210d</a></cite></footer>\n</blockquote><script note=\"\" src=\"https://micro.blog/quoteback.js\"></script>\n",
+				"date_published": "2023-07-21T17:54:03+02:00",
+				"url": "https://jeroensangers.com/2023/07/21/what-we-believe.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2023/07/19/currently-reading-built.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780593534809\">Built to Move</a> by Kelly Starrett 📚</p>\n",
+				"content_text": "Currently reading: [Built to Move](https://micro.blog/books/9780593534809) by Kelly Starrett 📚\n",
+				"date_published": "2023-07-19T20:45:34+02:00",
+				"url": "https://jeroensangers.com/2023/07/19/currently-reading-built.html",
+				"tags": ["Reading"]
+			},
+			{
 				"id": "http://jeroensangers.micro.blog/2023/07/19/do-less-and.html",
 				
 				"content_html": "<p>Do less and achieve more.</p>\n<!-- raw HTML omitted -->\n",
@@ -27,7 +54,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/07/12/quality-of-life.html",
 				
 				"content_html": "<p>📸 Quality of life</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 Quality of life\n\n<img src=\"uploads/2023/media.jpg\" alt=\"Dining table with a view of the mountains\" />\n",
+				"content_text": "📸 Quality of life\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2023/media.jpg\" alt=\"Dining table with a view of the mountains\" />\n",
 				"date_published": "2023-07-12T22:29:48+02:00",
 				"url": "https://jeroensangers.com/2023/07/12/quality-of-life.html"
 			},
@@ -2821,8 +2848,8 @@
 			{
 				"id": "http://JeroenSangers.micro.blog/2021/10/20/be-fore-you.html",
 				"title": "Intention",
-				"content_html": "<p>Be fore you start (a task, a work session, a project&hellip;), decide when you should finish.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/09/during-the-mornings.html\">Work cycle</a>, <a href=\"https://jeroensangers.com/2021/09/09/link-desired-behaviour.html\">Implementation intentions</a>, <a href=\"https://jeroensangers.com/2021/09/09/avoid-excessive-task.html\">Task switching</a>, <a href=\"https://jeroensangers.com/2021/11/05/start-with-as.html\">Simplicity</a>, <a href=\"https://jeroensangers.com/2021/12/18/interruptions-arent-intrinsically.html\">Interruptions</a>, <a href=\"https://jeroensangers.com/2022/01/11/evaluate-whether-the.html\">Systems maintenance</a>, <a href=\"https://jeroensangers.com/2022/02/03/spent-a-little.html\">Invest</a>, <a href=\"https://jeroensangers.com/2022/02/21/try-to-get.html\">Time to flow</a>, <a href=\"https://jeroensangers.com/2022/04/06/decision-fatigue-only.html\">Willpower</a>, <a href=\"https://jeroensangers.com/2022/05/10/reduce-mobile-phone.html\">Less mobile</a>, <a href=\"https://jeroensangers.com/2022/05/20/block-two-hours.html\">Deep work</a>, <a href=\"https://jeroensangers.com/2022/06/27/when-capturing-information.html\">Motive</a>, <a href=\"https://jeroensangers.com/2022/07/25/a-little-bit.html\">Attention residue</a></p>\n",
-				"content_text": "Be fore you start (a task, a work session, a project...), decide when you should finish.\n\n_Related_: [Work cycle](https://jeroensangers.com/2021/09/09/during-the-mornings.html), [Implementation intentions](https://jeroensangers.com/2021/09/09/link-desired-behaviour.html), [Task switching](https://jeroensangers.com/2021/09/09/avoid-excessive-task.html), [Simplicity](https://jeroensangers.com/2021/11/05/start-with-as.html), [Interruptions](https://jeroensangers.com/2021/12/18/interruptions-arent-intrinsically.html), [Systems maintenance](https://jeroensangers.com/2022/01/11/evaluate-whether-the.html), [Invest](https://jeroensangers.com/2022/02/03/spent-a-little.html), [Time to flow](https://jeroensangers.com/2022/02/21/try-to-get.html), [Willpower](https://jeroensangers.com/2022/04/06/decision-fatigue-only.html), [Less mobile](https://jeroensangers.com/2022/05/10/reduce-mobile-phone.html), [Deep work](https://jeroensangers.com/2022/05/20/block-two-hours.html), [Motive](https://jeroensangers.com/2022/06/27/when-capturing-information.html), [Attention residue](https://jeroensangers.com/2022/07/25/a-little-bit.html)\n",
+				"content_html": "<p>Before you start (a task, a work session, a project…), set a time budget.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/09/during-the-mornings.html\">Work cycle</a>, <a href=\"https://jeroensangers.com/2021/09/09/link-desired-behaviour.html\">Implementation intentions</a>, <a href=\"https://jeroensangers.com/2021/09/09/avoid-excessive-task.html\">Task switching</a>, <a href=\"https://jeroensangers.com/2021/11/05/start-with-as.html\">Simplicity</a>, <a href=\"https://jeroensangers.com/2021/12/18/interruptions-arent-intrinsically.html\">Interruptions</a>, <a href=\"https://jeroensangers.com/2022/01/11/evaluate-whether-the.html\">Systems maintenance</a>, <a href=\"https://jeroensangers.com/2022/02/03/spent-a-little.html\">Invest</a>, <a href=\"https://jeroensangers.com/2022/02/21/try-to-get.html\">Time to flow</a>, <a href=\"https://jeroensangers.com/2022/04/06/decision-fatigue-only.html\">Willpower</a>, <a href=\"https://jeroensangers.com/2022/05/10/reduce-mobile-phone.html\">Less mobile</a>, <a href=\"https://jeroensangers.com/2022/05/20/block-two-hours.html\">Deep work</a>, <a href=\"https://jeroensangers.com/2022/06/27/when-capturing-information.html\">Motive</a>, <a href=\"https://jeroensangers.com/2022/07/25/a-little-bit.html\">Attention residue</a></p>\n",
+				"content_text": "Before you start (a task, a work session, a project…), set a time budget.\n\n_Related_: [Work cycle](https://jeroensangers.com/2021/09/09/during-the-mornings.html), [Implementation intentions](https://jeroensangers.com/2021/09/09/link-desired-behaviour.html), [Task switching](https://jeroensangers.com/2021/09/09/avoid-excessive-task.html), [Simplicity](https://jeroensangers.com/2021/11/05/start-with-as.html), [Interruptions](https://jeroensangers.com/2021/12/18/interruptions-arent-intrinsically.html), [Systems maintenance](https://jeroensangers.com/2022/01/11/evaluate-whether-the.html), [Invest](https://jeroensangers.com/2022/02/03/spent-a-little.html), [Time to flow](https://jeroensangers.com/2022/02/21/try-to-get.html), [Willpower](https://jeroensangers.com/2022/04/06/decision-fatigue-only.html), [Less mobile](https://jeroensangers.com/2022/05/10/reduce-mobile-phone.html), [Deep work](https://jeroensangers.com/2022/05/20/block-two-hours.html), [Motive](https://jeroensangers.com/2022/06/27/when-capturing-information.html), [Attention residue](https://jeroensangers.com/2022/07/25/a-little-bit.html)\n",
 				"date_published": "2021-10-20T19:13:00+02:00",
 				"url": "https://jeroensangers.com/2021/10/20/be-fore-you.html",
 				"tags": ["Digital garden"]
