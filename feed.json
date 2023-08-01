@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://jeroensangers.micro.blog/2023/08/01/get-rich.html",
+				"title": "Get rich",
+				"content_html": "<p>More money will make you happier.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/09/dedicate-time-to.html\">Joy</a>, <a href=\"https://jeroensangers.com/2023/01/23/productive-happiness.html\">Productive happiness</a></p>\n",
+				"content_text": "More money will make you happier.\n\n_Related_: [Joy](https://jeroensangers.com/2021/09/09/dedicate-time-to.html), [Productive happiness](https://jeroensangers.com/2023/01/23/productive-happiness.html)\n",
+				"date_published": "2023-08-01T13:32:01+02:00",
+				"url": "https://jeroensangers.com/2023/08/01/get-rich.html",
+				"tags": ["Digital garden"]
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2023/07/28/is-substack-blocking.html",
+				"title": "Is Substack blocking kill-the-newsletter.com?",
+				"content_html": "<p>I rely on <a href=\"https://kill-the-newsletter.com\">Kill the newsletter!</a> to manage all my newsletter subscriptions, as I prefer reading them in my feed reader rather than my email app.</p>\n<p>However, I&rsquo;ve encountered an issue recently with Substack. They are not allowing me to subscribe using a kill-the-newsletter.com email address, stating that they cannot validate the email domain. This is quite disappointing. ☹️</p>\n<p>I attempted to find information on how to validate an email domain on their support site, but there is no relevant information available. Even if there were, it wouldn&rsquo;t make a difference since it&rsquo;s not my domain.</p>\n<p>Nevertheless, I still do not want those newsletters cluttering my email inbox, so I have decided not to subscribe for now&hellip;</p>\n",
+				"content_text": "I rely on [Kill the newsletter!](https://kill-the-newsletter.com) to manage all my newsletter subscriptions, as I prefer reading them in my feed reader rather than my email app.\n\nHowever, I've encountered an issue recently with Substack. They are not allowing me to subscribe using a kill-the-newsletter.com email address, stating that they cannot validate the email domain. This is quite disappointing. ☹️\n\nI attempted to find information on how to validate an email domain on their support site, but there is no relevant information available. Even if there were, it wouldn't make a difference since it's not my domain.\n\nNevertheless, I still do not want those newsletters cluttering my email inbox, so I have decided not to subscribe for now...\n",
+				"date_published": "2023-07-28T10:31:28+02:00",
+				"url": "https://jeroensangers.com/2023/07/28/is-substack-blocking.html"
+			},
+			{
 				"id": "http://jeroensangers.micro.blog/2023/07/23/walk-into-working.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Until a few weeks ago I always created my week plan on Monday morning and now I usually do it on Sundays to start the week with impulse.\nOf course, Nicholas is right: Friday afternoon is the best moment to plan the week ahead.</p>\n",
@@ -46,7 +63,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/07/16/sunset-in-valds.html",
 				
 				"content_html": "<p>📸 Sunset in Valdés</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 Sunset in Valdés\n\n<img src=\"uploads/2023/a73edeef19074b16b54bcb6ec19de10f.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"content_text": "📸 Sunset in Valdés\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2023/a73edeef19074b16b54bcb6ec19de10f.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
 				"date_published": "2023-07-16T22:21:35+02:00",
 				"url": "https://jeroensangers.com/2023/07/16/sunset-in-valds.html"
 			},
@@ -590,8 +607,8 @@
 			{
 				"id": "http://jeroensangers.micro.blog/2023/01/23/productive-happiness.html",
 				"title": "Productive happiness",
-				"content_html": "<p>Do things that makes you happy everyday, since happy workers are 12% more productive.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/09/dedicate-time-to.html\">Joy</a>, <a href=\"https://jeroensangers.com/2021/09/30/convince-yourself-that.html\">Motivation</a>, <a href=\"https://jeroensangers.com/2022/02/21/try-to-get.html\">Time to flow</a></p>\n",
-				"content_text": "Do things that makes you happy everyday, since happy workers are 12% more productive.\n\n_Related_: [Joy](https://jeroensangers.com/2021/09/09/dedicate-time-to.html), [Motivation](https://jeroensangers.com/2021/09/30/convince-yourself-that.html), [Time to flow](https://jeroensangers.com/2022/02/21/try-to-get.html)\n",
+				"content_html": "<p>Do things that makes you happy everyday, since happy workers are 12% more productive.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/09/dedicate-time-to.html\">Joy</a>, <a href=\"https://jeroensangers.com/2021/09/30/convince-yourself-that.html\">Motivation</a>, <a href=\"https://jeroensangers.com/2022/02/21/try-to-get.html\">Time to flow</a>, <a href=\"https://jeroensangers.com/2023/08/01/get-rich.html\">Get rich</a></p>\n",
+				"content_text": "Do things that makes you happy everyday, since happy workers are 12% more productive.\n\n_Related_: [Joy](https://jeroensangers.com/2021/09/09/dedicate-time-to.html), [Motivation](https://jeroensangers.com/2021/09/30/convince-yourself-that.html), [Time to flow](https://jeroensangers.com/2022/02/21/try-to-get.html), [Get rich](https://jeroensangers.com/2023/08/01/get-rich.html)\n",
 				"date_published": "2023-01-23T11:38:39+02:00",
 				"url": "https://jeroensangers.com/2023/01/23/productive-happiness.html",
 				"tags": ["Digital garden"]
