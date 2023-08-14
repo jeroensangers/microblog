@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://jeroensangers.micro.blog/2023/08/14/headphones.html",
+				"title": "Headphones",
+				"content_html": "<p>Active noise cancelling headphones have no effect on your concentration capacity in open office spaces.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2022/05/24/noise-pollution.html\">Noise pollution</a>, <a href=\"https://jeroensangers.com/2022/08/25/165029.html\">Open-plan workspace</a>, <a href=\"https://jeroensangers.com/2022/05/20/block-two-hours.html\">Deep work</a></p>\n",
+				"content_text": "Active noise cancelling headphones have no effect on your concentration capacity in open office spaces.\n\n_Related_: [Noise pollution](https://jeroensangers.com/2022/05/24/noise-pollution.html), [Open-plan workspace](https://jeroensangers.com/2022/08/25/165029.html), [Deep work](https://jeroensangers.com/2022/05/20/block-two-hours.html)\n",
+				"date_published": "2023-08-14T17:35:50+02:00",
+				"url": "https://jeroensangers.com/2023/08/14/headphones.html",
+				"tags": ["Digital garden"]
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2023/08/07/un-acto-de.html",
+				
+				"content_html": "<p>Un acto de generosidad.<br>\nAsí es como describiría la <a href=\"https://www.larazon.es/cultura/literatura/xanty-elias-kenso-hace-valorar-tiempo-manera-que-realmente-sea-oro_2023080564cd9ffa51e7e10001c12523.html\">recomendación</a> del chef Xanty Elías.</p>\n<p>De todo corazón y en nombre de todo el equipo de KENSO: ¡Gracias Xanty! 🤗😍</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Un acto de generosidad.  \nAsí es como describiría la [recomendación](https://www.larazon.es/cultura/literatura/xanty-elias-kenso-hace-valorar-tiempo-manera-que-realmente-sea-oro_2023080564cd9ffa51e7e10001c12523.html) del chef Xanty Elías.\n\nDe todo corazón y en nombre de todo el equipo de KENSO: ¡Gracias Xanty! 🤗😍\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2023/xanty-elas-recomienda.png\" width=\"600\" height=\"550\" alt=\"Artículo en el diario La Razón en que Xanty Elías recomienda el libro de KENSO\">\n",
+				"date_published": "2023-08-07T15:23:17+02:00",
+				"url": "https://jeroensangers.com/2023/08/07/un-acto-de.html"
+			},
+			{
 				"id": "http://jeroensangers.micro.blog/2023/08/07/tana-is-by.html",
 				
 				"content_html": "<p><a href=\"https://tana.inc\">Tana</a> is by far the app that gives me the most pleasure to use. So powerful, so many possibilities …</p>\n",
@@ -121,7 +138,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/06/29/all-truly-great.html",
 				
 				"content_html": "<blockquote>\n<p>“All truly great thoughts are conceived by walking”<br>\n— Friedrich Nietzsche</p>\n</blockquote>\n<p>The 1000th quote saved in my Quotebook app.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "> “All truly great thoughts are conceived by walking”  \n— Friedrich Nietzsche\n\nThe 1000th quote saved in my Quotebook app.\n\n\n\n<img src=\"uploads/2023/image.jpg\" width=\"277\" height=\"600\" alt=\"1000 quotes in the Quotebook app\">\n",
+				"content_text": "> “All truly great thoughts are conceived by walking”  \n— Friedrich Nietzsche\n\nThe 1000th quote saved in my Quotebook app.\n\n\n<img src=\"uploads/2023/quotebook.png\" width=\"600\" height=\"1299\" alt=\"1000 quotes in the Quotebook app\">\n",
 				"date_published": "2023-06-29T11:57:13+02:00",
 				"url": "https://jeroensangers.com/2023/06/29/all-truly-great.html"
 			},
@@ -1203,8 +1220,8 @@
 			{
 				"id": "http://jeroensangers.micro.blog/2022/08/25/165029.html",
 				"title": "Open-plan workspace",
-				"content_html": "<p>An open office is a short-term financial solution with huge intangible long-term costs.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2022/05/20/block-two-hours.html\">Deep work</a>, <a href=\"https://jeroensangers.com/2022/02/21/try-to-get.html\">Time to flow</a>, <a href=\"https://jeroensangers.com/2022/05/24/noise-pollution.html\">Noise pollution</a>, <a href=\"https://jeroensangers.com/2021/09/09/large-organisations-kill.html\">Indifference</a>, <a href=\"https://jeroensangers.com/2022/10/04/private-offices.html\">Private offices</a></p>\n",
-				"content_text": "An open office is a short-term financial solution with huge intangible long-term costs.\n\n_Related_: [Deep work](https://jeroensangers.com/2022/05/20/block-two-hours.html), [Time to flow](https://jeroensangers.com/2022/02/21/try-to-get.html), [Noise pollution](https://jeroensangers.com/2022/05/24/noise-pollution.html), [Indifference](https://jeroensangers.com/2021/09/09/large-organisations-kill.html), [Private offices](https://jeroensangers.com/2022/10/04/private-offices.html)\n",
+				"content_html": "<p>An open office is a short-term financial solution with huge intangible long-term costs.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2022/05/20/block-two-hours.html\">Deep work</a>, <a href=\"https://jeroensangers.com/2022/02/21/try-to-get.html\">Time to flow</a>, <a href=\"https://jeroensangers.com/2022/05/24/noise-pollution.html\">Noise pollution</a>, <a href=\"https://jeroensangers.com/2021/09/09/large-organisations-kill.html\">Indifference</a>, <a href=\"https://jeroensangers.com/2022/10/04/private-offices.html\">Private offices</a>, <a href=\"https://jeroensangers.com/2023/08/14/headphones.html\">Headphones</a></p>\n",
+				"content_text": "An open office is a short-term financial solution with huge intangible long-term costs.\n\n_Related_: [Deep work](https://jeroensangers.com/2022/05/20/block-two-hours.html), [Time to flow](https://jeroensangers.com/2022/02/21/try-to-get.html), [Noise pollution](https://jeroensangers.com/2022/05/24/noise-pollution.html), [Indifference](https://jeroensangers.com/2021/09/09/large-organisations-kill.html), [Private offices](https://jeroensangers.com/2022/10/04/private-offices.html), [Headphones](https://jeroensangers.com/2023/08/14/headphones.html)\n",
 				"date_published": "2022-08-25T16:50:29+02:00",
 				"url": "https://jeroensangers.com/2022/08/25/165029.html",
 				"tags": ["Digital garden"]
@@ -1591,8 +1608,8 @@
 			{
 				"id": "http://jeroensangers.micro.blog/2022/05/24/noise-pollution.html",
 				"title": "Noise pollution",
-				"content_html": "<p>An increase of 10 dB of noise in the workplace reduces detailed work productivity by 5%. Noise pollution doesn’t affect your effort, but does lower your ability to think, so you don’t notice the damage.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/06/physical-cues-affect.html\">Environment</a>, <a href=\"https://jeroensangers.com/2022/05/24/a-moderate-level.html\">Background noise</a>, <a href=\"https://jeroensangers.com/2022/08/25/openplan-workspace.html\">Open-plan office</a></p>\n",
-				"content_text": "An increase of 10 dB of noise in the workplace reduces detailed work productivity by 5%. Noise pollution doesn’t affect your effort, but does lower your ability to think, so you don’t notice the damage.\n\n_Related_: [Environment](https://jeroensangers.com/2021/09/06/physical-cues-affect.html), [Background noise](https://jeroensangers.com/2022/05/24/a-moderate-level.html), [Open-plan office](https://jeroensangers.com/2022/08/25/openplan-workspace.html)\n",
+				"content_html": "<p>An increase of 10 dB of noise in the workplace reduces detailed work productivity by 5%. Noise pollution doesn’t affect your effort, but does lower your ability to think, so you don’t notice the damage.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/06/physical-cues-affect.html\">Environment</a>, <a href=\"https://jeroensangers.com/2022/05/24/a-moderate-level.html\">Background noise</a>, <a href=\"https://jeroensangers.com/2022/08/25/openplan-workspace.html\">Open-plan office</a>, <a href=\"https://jeroensangers.com/2023/08/14/headphones.html\">Headphones</a></p>\n",
+				"content_text": "An increase of 10 dB of noise in the workplace reduces detailed work productivity by 5%. Noise pollution doesn’t affect your effort, but does lower your ability to think, so you don’t notice the damage.\n\n_Related_: [Environment](https://jeroensangers.com/2021/09/06/physical-cues-affect.html), [Background noise](https://jeroensangers.com/2022/05/24/a-moderate-level.html), [Open-plan office](https://jeroensangers.com/2022/08/25/openplan-workspace.html), [Headphones](https://jeroensangers.com/2023/08/14/headphones.html)\n",
 				"date_published": "2022-05-24T19:47:00+02:00",
 				"url": "https://jeroensangers.com/2022/05/24/noise-pollution.html",
 				"tags": ["Digital garden"]
@@ -1600,8 +1617,8 @@
 			{
 				"id": "http://JeroenSangers.micro.blog/2022/05/20/block-two-hours.html",
 				"title": "Deep work",
-				"content_html": "<p>Block two hours a day for important but non-urgent work to increase happiness and productivity.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/09/during-the-mornings.html\">Work cycle</a>, <a href=\"https://jeroensangers.com/2022/02/21/try-to-get.html\">Time to flow</a>, <a href=\"https://jeroensangers.com/2021/09/09/link-desired-behaviour.html\">Implementation intentions</a>, <a href=\"https://jeroensangers.com/2021/10/20/be-fore-you.html\">Intention</a>, <a href=\"https://jeroensangers.com/2022/08/25/openplan-workspace.html\">Open-plan office</a>, <a href=\"https://jeroensangers.com/2022/12/19/singletasking.html\">Singletasking</a>, <a href=\"https://jeroensangers.com/2023/01/19/responsiveness.html\">Responsiveness</a></p>\n",
-				"content_text": "Block two hours a day for important but non-urgent work to increase happiness and productivity.\n\n_Related_: [Work cycle](https://jeroensangers.com/2021/09/09/during-the-mornings.html), [Time to flow](https://jeroensangers.com/2022/02/21/try-to-get.html), [Implementation intentions](https://jeroensangers.com/2021/09/09/link-desired-behaviour.html), [Intention](https://jeroensangers.com/2021/10/20/be-fore-you.html), [Open-plan office](https://jeroensangers.com/2022/08/25/openplan-workspace.html), [Singletasking](https://jeroensangers.com/2022/12/19/singletasking.html), [Responsiveness](https://jeroensangers.com/2023/01/19/responsiveness.html)\n",
+				"content_html": "<p>Block two hours a day for important but non-urgent work to increase happiness and productivity.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/09/during-the-mornings.html\">Work cycle</a>, <a href=\"https://jeroensangers.com/2022/02/21/try-to-get.html\">Time to flow</a>, <a href=\"https://jeroensangers.com/2021/09/09/link-desired-behaviour.html\">Implementation intentions</a>, <a href=\"https://jeroensangers.com/2021/10/20/be-fore-you.html\">Intention</a>, <a href=\"https://jeroensangers.com/2022/08/25/openplan-workspace.html\">Open-plan office</a>, <a href=\"https://jeroensangers.com/2022/12/19/singletasking.html\">Singletasking</a>, <a href=\"https://jeroensangers.com/2023/01/19/responsiveness.html\">Responsiveness</a>, <a href=\"https://jeroensangers.com/2023/08/14/headphones.html\">Headphones</a></p>\n",
+				"content_text": "Block two hours a day for important but non-urgent work to increase happiness and productivity.\n\n_Related_: [Work cycle](https://jeroensangers.com/2021/09/09/during-the-mornings.html), [Time to flow](https://jeroensangers.com/2022/02/21/try-to-get.html), [Implementation intentions](https://jeroensangers.com/2021/09/09/link-desired-behaviour.html), [Intention](https://jeroensangers.com/2021/10/20/be-fore-you.html), [Open-plan office](https://jeroensangers.com/2022/08/25/openplan-workspace.html), [Singletasking](https://jeroensangers.com/2022/12/19/singletasking.html), [Responsiveness](https://jeroensangers.com/2023/01/19/responsiveness.html), [Headphones](https://jeroensangers.com/2023/08/14/headphones.html)\n",
 				"date_published": "2022-05-20T18:38:14+02:00",
 				"url": "https://jeroensangers.com/2022/05/20/block-two-hours.html",
 				"tags": ["Digital garden"]
@@ -3021,15 +3038,6 @@
 				"content_text": "Take regular ‘thinking walks’ to change your brain to enhance thinking, creativity and memory.\n\n_Related_: [Implementation intentions](https://jeroensangers.com/2021/09/09/link-desired-behaviour.html), [Environment](https://jeroensangers.com/2021/09/06/physical-cues-affect.html), [Effectiveness](https://jeroensangers.com/2021/09/03/do-the-right.html), [Free time](https://jeroensangers.com/2021/09/16/the-optimal-amount.html), [Ventilate](https://jeroensangers.com/2021/09/23/clean-air-multiplies.html), [Meditate](https://jeroensangers.com/2021/09/24/mindfulness-meditation-reduces.html), [Wandering mind](https://jeroensangers.com/2021/11/02/people-with-a.html), [Think](https://jeroensangers.com/2022/05/17/think.html)\n",
 				"date_published": "2021-09-15T18:10:00+02:00",
 				"url": "https://jeroensangers.com/2021/09/15/take-regular-thinking.html",
-				"tags": ["Digital garden"]
-			},
-			{
-				"id": "http://JeroenSangers.micro.blog/2021/09/14/reading-is-digesting.html",
-				"title": "Reading is digesting",
-				"content_html": "<p>Reserve quality time for reading. Only by using full focus can you switch from ‘reading for information’ to ‘reading for knowledge’.</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/06/physical-cues-affect.html\">Environment</a>, <a href=\"https://jeroensangers.com/2021/09/08/when-reading-capture.html\">Fleeting notes</a>, <a href=\"https://jeroensangers.com/2021/09/09/rewording-a-text.html\">Literature notes</a>, <a href=\"https://jeroensangers.com/2021/09/09/a-zettelkasten-is.html\">Tools for thought</a>, <a href=\"https://jeroensangers.com/2021/09/09/when-helping-someone.html\">Teach to learn</a>, <a href=\"https://jeroensangers.com/2022/05/17/think.html\">Think</a>, <a href=\"https://jeroensangers.com/2022/07/29/eufriction.html\">Eufriction</a></p>\n",
-				"content_text": "Reserve quality time for reading. Only by using full focus can you switch from ‘reading for information’ to ‘reading for knowledge’.\n\n_Related_: [Environment](https://jeroensangers.com/2021/09/06/physical-cues-affect.html), [Fleeting notes](https://jeroensangers.com/2021/09/08/when-reading-capture.html), [Literature notes](https://jeroensangers.com/2021/09/09/rewording-a-text.html), [Tools for thought](https://jeroensangers.com/2021/09/09/a-zettelkasten-is.html), [Teach to learn](https://jeroensangers.com/2021/09/09/when-helping-someone.html), [Think](https://jeroensangers.com/2022/05/17/think.html), [Eufriction](https://jeroensangers.com/2022/07/29/eufriction.html)\n",
-				"date_published": "2021-09-14T14:04:00+02:00",
-				"url": "https://jeroensangers.com/2021/09/14/reading-is-digesting.html",
 				"tags": ["Digital garden"]
 			},
 			{
