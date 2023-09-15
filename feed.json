@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://jeroensangers.micro.blog/2023/09/15/redundancy-is-ambiguous.html",
+				
+				"content_html": "<blockquote>\n<p>“Redundancy is ambiguous because it seems like a waste if nothing unusual happens. Except that something unusual happens—usually.”<br>\n— Nassim Nicholas Taleb in Antifragile</p>\n</blockquote>\n<p>Be prepared…</p>\n",
+				"content_text": "> “Redundancy is ambiguous because it seems like a waste if nothing unusual happens. Except that something unusual happens—usually.”  \n— Nassim Nicholas Taleb in Antifragile\n\nBe prepared…\n",
+				"date_published": "2023-09-15T11:53:02+02:00",
+				"url": "https://jeroensangers.com/2023/09/15/redundancy-is-ambiguous.html"
+			},
+			{
 				"id": "http://jeroensangers.micro.blog/2023/09/01/finished-reading-designing.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9798574576656\">Designing the Mind</a> by Ryan Bush 📚</p>\n<p>Interesting and well written book about building proactive life on a cognitive, emotional and behavioral level. I liked how Ryan was able to draw simple schematics for the algorithms in our mind.</p>\n",
