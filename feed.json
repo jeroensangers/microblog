@@ -7,6 +7,39 @@
 	"items": [
 		
 			{
+				"id": "http://jeroensangers.micro.blog/2023/09/25/such-a-great.html",
+				
+				"content_html": "<p>Such a great list!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Such a great list!\n\n<blockquote class=\"quoteback\" darkmode=\"\" data-title=\"100 Simple Pleasures In Life\" data-author=\"Brian Comly\" cite=\"https://www.mindbodydad.com/mind/100-simple-pleasures\">\n<li>A ribeye fresh off the grill</li><li>Warm sun on your skin</li><li>An old favorite song on the radio</li>\n<footer>Brian Comly<cite> <a href=\"https://www.mindbodydad.com/mind/100-simple-pleasures\">https://www.mindbodydad.com/mind/100-simple-pleasures</a></cite></footer>\n</blockquote><script note=\"\" src=\"https://micro.blog/quoteback.js\"></script>\n",
+				"date_published": "2023-09-25T07:58:26+02:00",
+				"url": "https://jeroensangers.com/2023/09/25/such-a-great.html",
+				"tags": ["Quotes"]
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2023/09/22/thats-a-lot.html",
+				
+				"content_html": "<p>That’s a lot of quantified self data</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "That’s a lot of quantified self data\n\n<img src=\"uploads/2023/e52d82ae41c84156986516395281e879.jpg\" width=\"600\" height=\"245\" alt=\"\">\n",
+				"date_published": "2023-09-22T14:32:24+02:00",
+				"url": "https://jeroensangers.com/2023/09/22/thats-a-lot.html"
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2023/09/22/mira-cul-es.html",
+				
+				"content_html": "<p>Observa cuál es el primer podcast recomendado en Apple Podcasts. 🥹</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Observa cuál es el primer podcast recomendado en Apple Podcasts. 🥹\n\n<img src=\"uploads/2023/524e2529a5.png\" width=\"416\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-09-22T10:18:57+02:00",
+				"url": "https://jeroensangers.com/2023/09/22/mira-cul-es.html"
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2023/09/22/i-wish-i.html",
+				
+				"content_html": "<p>I wish I could reclassify apps in the iOS App Library.</p>\n",
+				"content_text": "I wish I could reclassify apps in the iOS App Library.\n",
+				"date_published": "2023-09-22T08:27:18+02:00",
+				"url": "https://jeroensangers.com/2023/09/22/i-wish-i.html"
+			},
+			{
 				"id": "http://jeroensangers.micro.blog/2023/09/20/logistics-is-not.html",
 				
 				"content_html": "<p>Logistics is not logical 📦</p>\n<!-- raw HTML omitted -->\n",
