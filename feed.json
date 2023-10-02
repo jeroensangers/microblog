@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://jeroensangers.micro.blog/2023/09/28/i-have-updated.html",
+				
+				"content_html": "<p>I have updated the <a href=\"https://jeroensangers.com/tools/\">list of all the tools I use</a>.</p>\n<p>What are your favourite tools?</p>\n",
+				"content_text": "I have updated the [list of all the tools I use](https://jeroensangers.com/tools/). \n\nWhat are your favourite tools?\n",
+				"date_published": "2023-09-28T16:37:01+02:00",
+				"url": "https://jeroensangers.com/2023/09/28/i-have-updated.html"
+			},
+			{
 				"id": "http://jeroensangers.micro.blog/2023/09/25/such-a-great.html",
 				
 				"content_html": "<p>Such a great list!</p>\n<!-- raw HTML omitted -->\n",
@@ -43,7 +51,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/09/20/logistics-is-not.html",
 				
 				"content_html": "<p>Logistics is not logical 📦</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Logistics is not logical 📦\n\n<img src=\"uploads/2023/image.png\" width=\"487\" height=\"600\" alt=\"\">\n",
+				"content_text": "Logistics is not logical 📦\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2023/image.png\" width=\"487\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-09-20T12:37:13+02:00",
 				"url": "https://jeroensangers.com/2023/09/20/logistics-is-not.html"
 			},
