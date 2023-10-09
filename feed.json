@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://jeroensangers.micro.blog/2023/10/09/phone-addiction.html",
+				"title": "Phone addiction",
+				"content_html": "<p>We pick up our phones over 350 times per day, almost four times more than in 2019</p>\n<p><em>Related</em>: <a href=\"https://jeroensangers.com/2021/09/09/avoid-excessive-task.html\">Task switching</a>, <a href=\"https://jeroensangers.com/2023/05/15/switch-costs.html\">Switch costs</a></p>\n",
+				"content_text": "We pick up our phones over 350 times per day, almost four times more than in 2019\n\n_Related_: [Task switching](https://jeroensangers.com/2021/09/09/avoid-excessive-task.html), [Switch costs](https://jeroensangers.com/2023/05/15/switch-costs.html)\n",
+				"date_published": "2023-10-09T19:46:10+02:00",
+				"url": "https://jeroensangers.com/2023/10/09/phone-addiction.html",
+				"tags": ["Digital garden"]
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2023/10/05/i-am-so.html",
+				
+				"content_html": "<p>I am so proud to see our podcast at number 30 in Apple&rsquo;s podcast ranking for Spain:</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I am so proud to see our podcast at number 30 in Apple's podcast ranking for Spain:\r\n\r\n<img src=\"uploads/2023/kenso-apple-podcasts-30.png\" width=\"600\" height=\"390\" alt=\"Los podcast más populares de España\">\n",
+				"date_published": "2023-10-05T09:26:02+02:00",
+				"url": "https://jeroensangers.com/2023/10/05/i-am-so.html"
+			},
+			{
 				"id": "http://jeroensangers.micro.blog/2023/09/28/i-have-updated.html",
 				
 				"content_html": "<p>I have updated the <a href=\"https://jeroensangers.com/tools/\">list of all the tools I use</a>.</p>\n<p>What are your favourite tools?</p>\n",
@@ -35,7 +52,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/09/22/mira-cul-es.html",
 				
 				"content_html": "<p>Observa cuál es el primer podcast recomendado en Apple Podcasts. 🥹</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Observa cuál es el primer podcast recomendado en Apple Podcasts. 🥹\n\n<img src=\"uploads/2023/524e2529a5.png\" width=\"416\" height=\"600\" alt=\"\">\n",
+				"content_text": "Observa cuál es el primer podcast recomendado en Apple Podcasts. 🥹\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2023/524e2529a5.png\" width=\"416\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-09-22T10:18:57+02:00",
 				"url": "https://jeroensangers.com/2023/09/22/mira-cul-es.html"
 			},
