@@ -7,6 +7,49 @@
 	"items": [
 		
 			{
+				"id": "http://jeroensangers.micro.blog/2023/11/22/i-have-data.html",
+				"title": "I have data, therefore I Exist",
+				"content_html": "<p>I signed up for <a href=\"https://exist.io/?referred_by=jeroen\">Exist</a> in an attempt to make sense of all my quantified self data. I hooked up Apple Health, <a href=\"https://ouraring.com/discount/0467035ade\">Oura</a>, my <a href=\"https://www.withings.com/es/en/scales\">Withings scale</a>, my calendar and weather data to see what comes out.</p>\n<p>The app doesn’t have much data yet, but already shows some correlations. Some of them are useless and uninformative (I burn more energy when I work out longer and I wake up up later in the weekend), some of them are useless but surprising (apparently on Wednesdays there is a higher chance on rain in Lleida), but others sparked my interest: my weight is higher when the days are longer (seems to be very common) and my lean mass is higher when I have fewer events.</p>\n<p>So far, it looks intriguing.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I signed up for [Exist](https://exist.io/?referred_by=jeroen) in an attempt to make sense of all my quantified self data. I hooked up Apple Health, [Oura](https://ouraring.com/discount/0467035ade), my [Withings scale](https://www.withings.com/es/en/scales), my calendar and weather data to see what comes out.\n\nThe app doesn’t have much data yet, but already shows some correlations. Some of them are useless and uninformative (I burn more energy when I work out longer and I wake up up later in the weekend), some of them are useless but surprising (apparently on Wednesdays there is a higher chance on rain in Lleida), but others sparked my interest: my weight is higher when the days are longer (seems to be very common) and my lean mass is higher when I have fewer events.\n\nSo far, it looks intriguing.\n\n<img src=\"uploads/2023/exist.io.png\" width=\"600\" height=\"415\" alt=\"Exist.io\">\n",
+				"date_published": "2023-11-22T12:11:34+01:00",
+				"url": "https://jeroensangers.com/2023/11/22/i-have-data.html"
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2023/11/21/currently-reading-the.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781429953382\">The Checklist Manifesto</a> by Atul Gawande 📚</p>\n",
+				"content_text": "Currently reading: [The Checklist Manifesto](https://micro.blog/books/9781429953382) by Atul Gawande 📚\n",
+				"date_published": "2023-11-21T17:38:05+01:00",
+				"url": "https://jeroensangers.com/2023/11/21/currently-reading-the.html",
+				"tags": ["Reading"]
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2023/11/21/finished-reading-schaamteloos.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789461278319\">Schaamteloos delegeren</a> by Taco J. Oosterkamp 📚</p>\n<p>Kort en praktisch, een aanrader.</p>\n",
+				"content_text": "Finished reading: [Schaamteloos delegeren](https://micro.blog/books/9789461278319) by Taco J. Oosterkamp 📚\n\nKort en praktisch, een aanrader.\n",
+				"date_published": "2023-11-21T12:36:10+01:00",
+				"url": "https://jeroensangers.com/2023/11/21/finished-reading-schaamteloos.html",
+				"tags": ["Reading"]
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2023/11/19/ficus-pumila-on.html",
+				
+				"content_html": "<p>📸  Ficus Pumila on a Tevaplanter</p>\n<!-- raw HTML omitted -->\n<p>After this summer’s <a href=\"https://jeroensangers.com/2023/08/28/another-week-another.html\">experiments with my Tevaplanter</a>, I decided this weekend whether I could grow something more permanent.</p>\n<p>So I got myself a small ficus and spend half an hour removing all the soil from the roots, which was more work than  expected.</p>\n<p>I am quiteite happy with the result.</p>\n<p>The only doubt I have is where to place it. I would like to have it on my office table, but that is probably too shady, so for the moment it recovers from today’s stress in front of mef the living room window.</p>\n",
+				"content_text": "📸  Ficus Pumila on a Tevaplanter\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2023/fe6ddfb6747d4e048f6163dafc0f0a71.jpg\" width=\"600\" height=\"450\" alt=\"Ficus Pumila on a Tevaplanter\">\n\nAfter this summer’s [experiments with my Tevaplanter](https://jeroensangers.com/2023/08/28/another-week-another.html), I decided this weekend whether I could grow something more permanent.\n\nSo I got myself a small ficus and spend half an hour removing all the soil from the roots, which was more work than  expected.\n\nI am quiteite happy with the result.\n\nThe only doubt I have is where to place it. I would like to have it on my office table, but that is probably too shady, so for the moment it recovers from today’s stress in front of mef the living room window.\n",
+				"date_published": "2023-11-19T19:11:25+01:00",
+				"url": "https://jeroensangers.com/2023/11/19/ficus-pumila-on.html"
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2023/11/17/currently-reading-schaamteloos.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9789461278319\">Schaamteloos delegeren</a> by Taco Oosterkamp 📚</p>\n",
+				"content_text": "Currently reading: [Schaamteloos delegeren](https://micro.blog/books/9789461278319) by Taco Oosterkamp 📚\n",
+				"date_published": "2023-11-17T16:16:00+01:00",
+				"url": "https://jeroensangers.com/2023/11/17/currently-reading-schaamteloos.html",
+				"tags": ["Reading"]
+			},
+			{
 				"id": "http://jeroensangers.micro.blog/2023/11/15/finished-reading-the.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781101904046\">The Productivity Project</a> by Chris Bailey 📚</p>\n<p>A great introduction into personal effectiveness written in a easy to digest style.</p>\n",
