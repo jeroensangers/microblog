@@ -7,6 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://jeroensangers.micro.blog/2023/12/15/i-decided-to.html",
+				
+				"content_html": "<p>I decided to take it slow for the remainder of the year. I will focus on the absolute necessary things and besides that just do what feels best.</p>\n",
+				"content_text": "I decided to take it slow for the remainder of the year. I will focus on the absolute necessary things and besides that just do what feels best.\n",
+				"date_published": "2023-12-15T09:38:38+01:00",
+				"url": "https://jeroensangers.com/2023/12/15/i-decided-to.html"
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2023/12/14/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781429953382\">The Checklist Manifesto</a> by Atul Gawande 📚</p>\n<p>Very well written book, with lots of anecdotes to see how to apply the principles outside the operating room.</p>\n<p>Now I have to figure out whether we can implement some of these practices in our business.</p>\n",
+				"content_text": "Finished reading: [The Checklist Manifesto](https://micro.blog/books/9781429953382) by Atul Gawande 📚\n\nVery well written book, with lots of anecdotes to see how to apply the principles outside the operating room.\n\nNow I have to figure out whether we can implement some of these practices in our business.\n",
+				"date_published": "2023-12-14T11:50:44+01:00",
+				"url": "https://jeroensangers.com/2023/12/14/finished-reading-the.html",
+				"tags": ["Reading"]
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2023/12/14/nice-day-one.html",
+				
+				"content_html": "<p>Nice! Day One has included journaling suggestions.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Nice! Day One has included journaling suggestions.\n\n<img src=\"uploads/2023/e5b68812f6.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-12-14T09:06:44+01:00",
+				"url": "https://jeroensangers.com/2023/12/14/nice-day-one.html"
+			},
+			{
 				"id": "http://jeroensangers.micro.blog/2023/12/10/mir.html",
 				
 				"content_html": "<p>📸 Miró</p>\n<!-- raw HTML omitted -->\n",
