@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://jeroensangers.micro.blog/2023/12/19/currently-reading-deep.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780349411910\">Deep Work</a> by Cal Newport 📚</p>\n",
+				"content_text": "Currently reading: [Deep Work](https://micro.blog/books/9780349411910) by Cal Newport 📚\n",
+				"date_published": "2023-12-19T22:19:36+01:00",
+				"url": "https://jeroensangers.com/2023/12/19/currently-reading-deep.html",
+				"tags": ["Reading"]
+			},
+			{
 				"id": "http://jeroensangers.micro.blog/2023/12/15/i-decided-to.html",
 				
 				"content_html": "<p>I decided to take it slow for the remainder of the year. I will focus on the absolute necessary things and besides that just do what feels best.</p>\n",
