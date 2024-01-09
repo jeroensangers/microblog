@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://jeroensangers.micro.blog/2023/12/29/a-minimalist-traveling.html",
+				
+				"content_html": "<p>A minimalist traveling in company always ends up lugging around other people’s stuff.</p>\n",
+				"content_text": "A minimalist traveling in company always ends up lugging around other people’s stuff.\n",
+				"date_published": "2023-12-29T14:20:14+01:00",
+				"url": "https://jeroensangers.com/2023/12/29/a-minimalist-traveling.html"
+			},
+			{
 				"id": "http://jeroensangers.micro.blog/2023/12/28/i-finally-had.html",
 				
 				"content_html": "<p>I finally had a moment to follow <a href=\"https://frankmeeuwsen.com/2023/12/24/funkopop-yourself.html\">Frank</a>&rsquo;s example and create my own Funkopop. It took a few versions (the AI kept giving me a beard) but this one is quite &ldquo;me&rdquo;.</p>\n<!-- raw HTML omitted -->\n",
