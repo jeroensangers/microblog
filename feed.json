@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://jeroensangers.micro.blog/2024/01/19/i-still-havent.html",
+				
+				"content_html": "<p>I still haven&rsquo;t found any use for the desktop widgets in macOS. The only widget I would probably use, a &ldquo;Now Playing&rdquo; widget, is precisely the one widget Apple decided not to make.</p>\n",
+				"content_text": "I still haven't found any use for the desktop widgets in macOS. The only widget I would probably use, a \"Now Playing\" widget, is precisely the one widget Apple decided not to make.\n",
+				"date_published": "2024-01-19T16:28:07+01:00",
+				"url": "https://jeroensangers.com/2024/01/19/i-still-havent.html"
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2024/01/18/currently-reading-drive.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781101524381\">Drive</a> by Daniel H. Pink 📚</p>\n",
+				"content_text": "Currently reading: [Drive](https://micro.blog/books/9781101524381) by Daniel H. Pink 📚\n",
+				"date_published": "2024-01-18T19:12:53+01:00",
+				"url": "https://jeroensangers.com/2024/01/18/currently-reading-drive.html",
+				"tags": ["Reading"]
+			},
+			{
 				"id": "http://jeroensangers.micro.blog/2024/01/18/finished-reading-deep.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780349411910\">Deep Work</a> by Cal Newport 📚</p>\n<p>Already a classic work, explaining a concept which is very needed in current times.\nI feel, however, that Cal emphasizes too much how good his particular way of working is and doesn’t give many alternative ways of doing deep work.</p>\n",
