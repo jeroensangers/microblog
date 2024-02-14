@@ -7,10 +7,28 @@
 	"items": [
 		
 			{
+				"id": "http://jeroensangers.micro.blog/2024/02/14/currently-reading-solve.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9781509809967\">Solve For Happy</a> by Mo Gawdat 📚</p>\n",
+				"content_text": "Currently reading: [Solve For Happy](https://micro.blog/books/9781509809967) by Mo Gawdat 📚\n",
+				"date_published": "2024-02-14T07:40:36+01:00",
+				"url": "https://jeroensangers.com/2024/02/14/currently-reading-solve.html",
+				"tags": ["Reading"]
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2024/02/08/finished-reading-drive.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781101524381\">Drive</a> by Daniel H. Pink 📚</p>\n<p>The self-determination theory holds significant importance, yet many businesses overlook its application for employee motivation. Despite its relevance, the book tends to become somewhat repetitive in its exploration.</p>\n",
+				"content_text": "Finished reading: [Drive](https://micro.blog/books/9781101524381) by Daniel H. Pink 📚\n\nThe self-determination theory holds significant importance, yet many businesses overlook its application for employee motivation. Despite its relevance, the book tends to become somewhat repetitive in its exploration.\n",
+				"date_published": "2024-02-08T07:57:26+01:00",
+				"url": "https://jeroensangers.com/2024/02/08/finished-reading-drive.html",
+				"tags": ["Reading"]
+			},
+			{
 				"id": "http://jeroensangers.micro.blog/2024/02/05/misty.html",
 				
 				"content_html": "<p>📸 Misty</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 Misty\n\n<img src=\"uploads/2024/a570b38ad06049a68d07f2c4752d9973.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "📸 Misty\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2024/a570b38ad06049a68d07f2c4752d9973.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-02-05T11:45:40+01:00",
 				"url": "https://jeroensangers.com/2024/02/05/misty.html"
 			},
