@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://jeroensangers.micro.blog/2025/02/17/currently-reading-toda-la-vida.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9788425367816\">Toda la vida es hoy</a> by Grela Bravo 📚</p>\n",
+				"content_text": "Currently reading: [Toda la vida es hoy](https://micro.blog/books/9788425367816) by Grela Bravo 📚\n",
+				"date_published": "2025-02-17T12:11:50+01:00",
+				"url": "https://jeroensangers.com/2025/02/17/currently-reading-toda-la-vida.html",
+				"tags": ["Reading"]
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2025/02/15/finished-reading-i-am-tao.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789047015321\">I am tao</a> by Arjan Broere 📚</p>\n<p>Lot’s of actionable advice on streaming presentations, email, meetings and other forms of communication.</p>\n",
+				"content_text": "Finished reading: [I am tao](https://micro.blog/books/9789047015321) by Arjan Broere 📚\n\nLot’s of actionable advice on streaming presentations, email, meetings and other forms of communication.\n",
+				"date_published": "2025-02-15T10:56:04+01:00",
+				"url": "https://jeroensangers.com/2025/02/15/finished-reading-i-am-tao.html",
+				"tags": ["Reading"]
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2025/02/13/trust-in-yourself-the-process.html",
+				"title": "Trust in yourself, the process, and the client",
+				"content_html": "<p>Trust is the foundation of coaching and personal growth.</p>\n<p>It starts with self-confidence, which is very important for any coach or professional. When you believe in yourself and your knowledge, you can better help and support others. This self-confidence helps you remain calm and assured, even when things get tough. Remember, as a coach, you don&rsquo;t need to have all the answers; your task is to help the client find their own answers.</p>\n<p>The process, such as the GROW model (Goals, Reality, Options, Will), offers a structured approach that helps streamline conversations and provide direction. By following the process, coaches can work step by step towards the client&rsquo;s goals. Trusting this process means believing that the client, by taking the right steps, will come to important insights. The model helps both the coach and the client stay focused and goal-oriented.</p>\n<p>Finally, trust in the client is essential. Every client already has the answers within them, and the coach helps them find these answers. This means believing that the client can grow and change. By being genuinely interested in the client and their story, you naturally ask the right questions that help them move forward. This mix of self-confidence, trust in the process, and trust in the client ensures successful coaching and personal growth.</p>\n",
+				"content_text": "Trust is the foundation of coaching and personal growth.\n\nIt starts with self-confidence, which is very important for any coach or professional. When you believe in yourself and your knowledge, you can better help and support others. This self-confidence helps you remain calm and assured, even when things get tough. Remember, as a coach, you don't need to have all the answers; your task is to help the client find their own answers.\n\nThe process, such as the GROW model (Goals, Reality, Options, Will), offers a structured approach that helps streamline conversations and provide direction. By following the process, coaches can work step by step towards the client's goals. Trusting this process means believing that the client, by taking the right steps, will come to important insights. The model helps both the coach and the client stay focused and goal-oriented.\n\nFinally, trust in the client is essential. Every client already has the answers within them, and the coach helps them find these answers. This means believing that the client can grow and change. By being genuinely interested in the client and their story, you naturally ask the right questions that help them move forward. This mix of self-confidence, trust in the process, and trust in the client ensures successful coaching and personal growth.\n",
+				"date_published": "2025-02-13T09:46:34+01:00",
+				"url": "https://jeroensangers.com/2025/02/13/trust-in-yourself-the-process.html",
+				"tags": ["Digital garden"]
+			},
+			{
 				"id": "http://jeroensangers.micro.blog/2025/02/04/the-art-of-selfimproving-ai.html",
 				"title": "The art of self-improving AI prompts",
 				"content_html": "<p>Have you ever noticed how some conversations with AI flow effortlessly, while others feel like speaking different languages? The secret might be simpler than you think, and it lies in a beautiful Japanese concept called &ldquo;kaizen&rdquo; — the art of continuous improvement.</p>\n<p>Imagine having a friendly assistant who not only helps you today but also thinks about making tomorrow easier. That&rsquo;s what adding a simple kaizen section to your prompts does. It&rsquo;s like leaving a note in your recipe book saying, &ldquo;Next time, remember to soften the butter first!&rdquo;</p>\n<p>Here&rsquo;s the golden phrase I&rsquo;ve discovered works wonders:</p>\n<blockquote>\n<p>&ldquo;Please look over the instructions and changes I&rsquo;ve asked for in our conversation. Can you suggest ways to improve the original prompt so I won&rsquo;t need to request these things next time?&rdquo;</p>\n</blockquote>\n<p>What if every prompt you wrote could learn and evolve? What if each interaction left your templates a little bit better than before? That&rsquo;s the power of adding a kaizen section to your AI prompts.</p>\n",
@@ -433,7 +460,7 @@
 				"id": "http://jeroensangers.micro.blog/2024/06/08/yard-work.html",
 				
 				"content_html": "<p>📸 Yard work</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 Yard work\n\n<img src=\"uploads/2024/6392889a16e84edcb5c64374b3098a53.jpg\" width=\"600\" height=\"450\" alt=\"Lavender plants with purple flowers are growing in a garden, creating a peaceful and natural scene.\">\n",
+				"content_text": "📸 Yard work\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2024/6392889a16e84edcb5c64374b3098a53.jpg\" width=\"600\" height=\"450\" alt=\"Lavender plants with purple flowers are growing in a garden, creating a peaceful and natural scene.\">\n",
 				"date_published": "2024-06-08T18:22:29+01:00",
 				"url": "https://jeroensangers.com/2024/06/08/yard-work.html"
 			},
@@ -450,7 +477,7 @@
 				"id": "http://jeroensangers.micro.blog/2024/05/12/miravet-disconnection-reflection.html",
 				
 				"content_html": "<p>📸 Miravet</p>\n<p>Disconnection, reflection, nature and history…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 Miravet\n\nDisconnection, reflection, nature and history…\n\n<img src=\"uploads/2024/45b82f0bcc.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "📸 Miravet\n\nDisconnection, reflection, nature and history…\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2024/45b82f0bcc.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-05-12T17:07:36+01:00",
 				"url": "https://jeroensangers.com/2024/05/12/miravet-disconnection-reflection.html"
 			},
@@ -500,7 +527,7 @@
 				"id": "http://jeroensangers.micro.blog/2024/04/07/green-infinity.html",
 				
 				"content_html": "<p>📸 Green infinity</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 Green infinity\n\n<img src=\"uploads/2024/cbef047404234d7fbe650393fa95901c.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"content_text": "📸 Green infinity\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2024/cbef047404234d7fbe650393fa95901c.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
 				"date_published": "2024-04-07T18:18:05+01:00",
 				"url": "https://jeroensangers.com/2024/04/07/green-infinity.html"
 			},
@@ -593,7 +620,7 @@
 				"id": "http://jeroensangers.micro.blog/2024/02/05/misty.html",
 				
 				"content_html": "<p>📸 Misty</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 Misty\n\n<img src=\"uploads/2024/a570b38ad06049a68d07f2c4752d9973.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "📸 Misty\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2024/a570b38ad06049a68d07f2c4752d9973.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2024-02-05T11:45:40+01:00",
 				"url": "https://jeroensangers.com/2024/02/05/misty.html"
 			},
@@ -678,7 +705,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/12/28/i-finally-had.html",
 				
 				"content_html": "<p>I finally had a moment to follow <a href=\"https://frankmeeuwsen.com/2023/12/24/funkopop-yourself.html\">Frank</a>&rsquo;s example and create my own Funkopop. It took a few versions (the AI kept giving me a beard) but this one is quite &ldquo;me&rdquo;.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I finally had a moment to follow [Frank](https://frankmeeuwsen.com/2023/12/24/funkopop-yourself.html)'s example and create my own Funkopop. It took a few versions (the AI kept giving me a beard) but this one is quite \"me\".\n\n\n\n<img src=\"uploads/2023/915b15e5fa.png\" width=\"600\" height=\"600\" alt=\"A funkopop figure representing Jeroen Sangers next to its box \">\n",
+				"content_text": "I finally had a moment to follow [Frank](https://frankmeeuwsen.com/2023/12/24/funkopop-yourself.html)'s example and create my own Funkopop. It took a few versions (the AI kept giving me a beard) but this one is quite \"me\".\n\n\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2023/915b15e5fa.png\" width=\"600\" height=\"600\" alt=\"A funkopop figure representing Jeroen Sangers next to its box \">\n",
 				"date_published": "2023-12-28T09:46:42+01:00",
 				"url": "https://jeroensangers.com/2023/12/28/i-finally-had.html"
 			},
@@ -712,7 +739,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/12/14/nice-day-one.html",
 				
 				"content_html": "<p>Nice! Day One has included journaling suggestions.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Nice! Day One has included journaling suggestions.\n\n<img src=\"uploads/2023/e5b68812f6.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"content_text": "Nice! Day One has included journaling suggestions.\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2023/e5b68812f6.png\" width=\"277\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-12-14T09:06:44+01:00",
 				"url": "https://jeroensangers.com/2023/12/14/nice-day-one.html"
 			},
@@ -720,7 +747,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/12/10/mir.html",
 				
 				"content_html": "<p>📸 Miró</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 Miró\n\n<img src=\"uploads/2023/e13b6335def3433787aa8de71f85b443.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"content_text": "📸 Miró\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2023/e13b6335def3433787aa8de71f85b443.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
 				"date_published": "2023-12-10T13:37:54+01:00",
 				"url": "https://jeroensangers.com/2023/12/10/mir.html"
 			},
@@ -763,7 +790,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/11/22/i-have-data.html",
 				"title": "I have data, therefore I Exist",
 				"content_html": "<p>Today I joined <a href=\"https://exist.io/?referred_by=jeroen\">Exist</a> to help organize and interpret my vast array of personal health data. I&rsquo;ve integrated various tools into the platform, including Apple Health, <a href=\"https://ouraring.com/discount/0467035ade\">Oura</a>, my <a href=\"https://www.withings.com/es/en/scales\">Withings scale</a>, and even my calendar and weather data, in order to gain a comprehensive view of my health and habits.</p>\n<p>Even though the app is still in the early stages of data collection, it&rsquo;s already begun to show some interesting correlations. While some are quite predictable and not particularly useful, such as burning more energy when I exercise longer, or waking up later on weekends, others have been surprising. For instance, it appears there&rsquo;s a higher likelihood of rain in Lleida on Wednesdays - an unexpected yet intriguing find.</p>\n<p>What&rsquo;s truly piqued my interest, however, are the correlations related to my body metrics. I&rsquo;ve noticed that my weight tends to increase when the days are longer, a trend that seems to be quite common. Additionally, I&rsquo;ve found that my lean mass tends to be higher when I have fewer events on my calendar.</p>\n<p>So far, my experience with Exist has been quite intriguing. It&rsquo;s fascinating to see the connections between various aspects of my life and health, and I&rsquo;m excited to uncover more insights as I continue to use the app.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Today I joined [Exist](https://exist.io/?referred_by=jeroen) to help organize and interpret my vast array of personal health data. I've integrated various tools into the platform, including Apple Health, [Oura](https://ouraring.com/discount/0467035ade), my [Withings scale](https://www.withings.com/es/en/scales), and even my calendar and weather data, in order to gain a comprehensive view of my health and habits.\n\nEven though the app is still in the early stages of data collection, it's already begun to show some interesting correlations. While some are quite predictable and not particularly useful, such as burning more energy when I exercise longer, or waking up later on weekends, others have been surprising. For instance, it appears there's a higher likelihood of rain in Lleida on Wednesdays - an unexpected yet intriguing find.\n\nWhat's truly piqued my interest, however, are the correlations related to my body metrics. I've noticed that my weight tends to increase when the days are longer, a trend that seems to be quite common. Additionally, I've found that my lean mass tends to be higher when I have fewer events on my calendar.\n\nSo far, my experience with Exist has been quite intriguing. It's fascinating to see the connections between various aspects of my life and health, and I'm excited to uncover more insights as I continue to use the app.\n\n<img src=\"uploads/2023/exist.io.png\" width=\"600\" height=\"415\" alt=\"Exist.io\">\n",
+				"content_text": "Today I joined [Exist](https://exist.io/?referred_by=jeroen) to help organize and interpret my vast array of personal health data. I've integrated various tools into the platform, including Apple Health, [Oura](https://ouraring.com/discount/0467035ade), my [Withings scale](https://www.withings.com/es/en/scales), and even my calendar and weather data, in order to gain a comprehensive view of my health and habits.\n\nEven though the app is still in the early stages of data collection, it's already begun to show some interesting correlations. While some are quite predictable and not particularly useful, such as burning more energy when I exercise longer, or waking up later on weekends, others have been surprising. For instance, it appears there's a higher likelihood of rain in Lleida on Wednesdays - an unexpected yet intriguing find.\n\nWhat's truly piqued my interest, however, are the correlations related to my body metrics. I've noticed that my weight tends to increase when the days are longer, a trend that seems to be quite common. Additionally, I've found that my lean mass tends to be higher when I have fewer events on my calendar.\n\nSo far, my experience with Exist has been quite intriguing. It's fascinating to see the connections between various aspects of my life and health, and I'm excited to uncover more insights as I continue to use the app.\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2023/exist.io.png\" width=\"600\" height=\"415\" alt=\"Exist.io\">\n",
 				"date_published": "2023-11-22T12:11:00+01:00",
 				"url": "https://jeroensangers.com/2023/11/22/i-have-data.html"
 			},
@@ -789,7 +816,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/11/19/ficus-pumila-on.html",
 				
 				"content_html": "<p>📸  Ficus Pumila on a Tevaplanter</p>\n<!-- raw HTML omitted -->\n<p>After this summer’s <a href=\"https://jeroensangers.com/2023/08/28/another-week-another.html\">experiments with my Tevaplanter</a>, I decided this weekend whether I could grow something more permanent.</p>\n<p>So I got myself a small ficus and spend half an hour removing all the soil from the roots, which was more work than  expected.</p>\n<p>I am quite happy with the result.</p>\n<p>The only doubt I have is where to place it. I would like to have it on my office table, but that is probably too shady, so for the moment it recovers from today’s stress in front of mef the living room window.</p>\n",
-				"content_text": "📸  Ficus Pumila on a Tevaplanter\n\n<img src=\"uploads/2023/fe6ddfb6747d4e048f6163dafc0f0a71.jpg\" width=\"600\" height=\"450\" alt=\"Ficus Pumila on a Tevaplanter\">\n\nAfter this summer’s [experiments with my Tevaplanter](https://jeroensangers.com/2023/08/28/another-week-another.html), I decided this weekend whether I could grow something more permanent.\n\nSo I got myself a small ficus and spend half an hour removing all the soil from the roots, which was more work than  expected.\n\nI am quite happy with the result.\n\nThe only doubt I have is where to place it. I would like to have it on my office table, but that is probably too shady, so for the moment it recovers from today’s stress in front of mef the living room window.\n",
+				"content_text": "📸  Ficus Pumila on a Tevaplanter\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2023/fe6ddfb6747d4e048f6163dafc0f0a71.jpg\" width=\"600\" height=\"450\" alt=\"Ficus Pumila on a Tevaplanter\">\n\nAfter this summer’s [experiments with my Tevaplanter](https://jeroensangers.com/2023/08/28/another-week-another.html), I decided this weekend whether I could grow something more permanent.\n\nSo I got myself a small ficus and spend half an hour removing all the soil from the roots, which was more work than  expected.\n\nI am quite happy with the result.\n\nThe only doubt I have is where to place it. I would like to have it on my office table, but that is probably too shady, so for the moment it recovers from today’s stress in front of mef the living room window.\n",
 				"date_published": "2023-11-19T19:11:00+01:00",
 				"url": "https://jeroensangers.com/2023/11/19/ficus-pumila-on.html"
 			},
@@ -849,7 +876,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/11/05/autumn-vineyard.html",
 				
 				"content_html": "<p>📸 Autumn vineyard</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 Autumn vineyard\n\n<img src=\"uploads/2023/1160559127574d86873dc9866b44e087.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "📸 Autumn vineyard\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2023/1160559127574d86873dc9866b44e087.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-11-05T15:22:50+01:00",
 				"url": "https://jeroensangers.com/2023/11/05/autumn-vineyard.html"
 			},
@@ -875,7 +902,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/10/16/aguestortes-we-have.html",
 				
 				"content_html": "<p>📸 Aïguestortes</p>\n<p>We have this fantastic national park at just a few hours driving from home, but it has been years since we went there for a good hike.</p>\n<p>This weekend was a blast and I am sure this time we will return within months, not years.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 Aïguestortes\n\nWe have this fantastic national park at just a few hours driving from home, but it has been years since we went there for a good hike.\n\nThis weekend was a blast and I am sure this time we will return within months, not years.\n\n<img src=\"uploads/2023/p1040212.jpeg\" width=\"600\" height=\"450\" alt=\"Parc Nacional d'Aigüestortes i Estany de Sant Maurici\">\n",
+				"content_text": "📸 Aïguestortes\n\nWe have this fantastic national park at just a few hours driving from home, but it has been years since we went there for a good hike.\n\nThis weekend was a blast and I am sure this time we will return within months, not years.\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2023/p1040212.jpeg\" width=\"600\" height=\"450\" alt=\"Parc Nacional d'Aigüestortes i Estany de Sant Maurici\">\n",
 				"date_published": "2023-10-19T15:43:31+01:00",
 				"url": "https://jeroensangers.com/2023/10/16/aguestortes-we-have.html"
 			},
@@ -936,7 +963,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/10/05/i-am-so.html",
 				
 				"content_html": "<p>I am so proud to see our podcast at number 30 in Apple&rsquo;s podcast ranking for Spain:</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I am so proud to see our podcast at number 30 in Apple's podcast ranking for Spain:\r\n\r\n<img src=\"uploads/2023/kenso-apple-podcasts-30.png\" width=\"600\" height=\"390\" alt=\"Los podcast más populares de España\">\n",
+				"content_text": "I am so proud to see our podcast at number 30 in Apple's podcast ranking for Spain:\r\n\r\n<img src=\"https://cdn.uploads.micro.blog/5908/2023/kenso-apple-podcasts-30.png\" width=\"600\" height=\"390\" alt=\"Los podcast más populares de España\">\n",
 				"date_published": "2023-10-05T08:26:02+01:00",
 				"url": "https://jeroensangers.com/2023/10/05/i-am-so.html"
 			},
@@ -961,7 +988,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/09/22/thats-a-lot.html",
 				
 				"content_html": "<p>That’s a lot of quantified self data</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "That’s a lot of quantified self data\n\n<img src=\"uploads/2023/oura-5.png\" width=\"600\" height=\"245\" alt=\"Oura Anniversary\">\n",
+				"content_text": "That’s a lot of quantified self data\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2023/oura-5.png\" width=\"600\" height=\"245\" alt=\"Oura Anniversary\">\n",
 				"date_published": "2023-09-22T13:32:24+01:00",
 				"url": "https://jeroensangers.com/2023/09/22/thats-a-lot.html"
 			},
@@ -969,7 +996,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/09/22/mira-cul-es.html",
 				
 				"content_html": "<p>Observa cuál es el primer podcast recomendado en Apple Podcasts. 🥹</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Observa cuál es el primer podcast recomendado en Apple Podcasts. 🥹\n\n<img src=\"uploads/2023/524e2529a5.png\" width=\"416\" height=\"600\" alt=\"\">\n",
+				"content_text": "Observa cuál es el primer podcast recomendado en Apple Podcasts. 🥹\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2023/524e2529a5.png\" width=\"416\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-09-22T09:18:57+01:00",
 				"url": "https://jeroensangers.com/2023/09/22/mira-cul-es.html"
 			},
@@ -985,7 +1012,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/09/20/logistics-is-not.html",
 				
 				"content_html": "<p>Logistics is not logical 📦</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Logistics is not logical 📦\n\n<img src=\"uploads/2023/image.png\" width=\"487\" height=\"600\" alt=\"\">\n",
+				"content_text": "Logistics is not logical 📦\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2023/image.png\" width=\"487\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-09-20T11:37:13+01:00",
 				"url": "https://jeroensangers.com/2023/09/20/logistics-is-not.html"
 			},
@@ -1028,7 +1055,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/08/28/another-week-another.html",
 				
 				"content_html": "<p>📸 Another week, another Tevaplanter update</p>\n<p>The chia plants on my <a href=\"https://tevaplanter.com/\">Tevaplanter</a> are thriving, as shown in the progress from <a href=\"https://jeroensangers.com/2023/08/16/tevaplanter-loaded-with.html\">week 0</a> to <a href=\"https://jeroensangers.com/2023/08/21/chia-growing-on.html\">week 1</a> to now:</p>\n<!-- raw HTML omitted -->\n<p>Although I expected all the chia seeds to sprout, there are some areas where growth has not occurred. I suspect this may be due to the high temperatures on my outdoor patio, which make it difficult to maintain proper moisture levels for the plants.</p>\n<p>To further explore and determine the best setup and purpose for the vessel, I plan to conduct an indoor experiment using chia seeds. This will help me make an informed decision on how to proceed.</p>\n",
-				"content_text": "📸 Another week, another Tevaplanter update\n\n\nThe chia plants on my [Tevaplanter](https://tevaplanter.com/) are thriving, as shown in the progress from [week 0](https://jeroensangers.com/2023/08/16/tevaplanter-loaded-with.html) to [week 1](https://jeroensangers.com/2023/08/21/chia-growing-on.html) to now:\n\n<img src=\"uploads/2023/p1040168.jpeg\" width=\"600\" height=\"450\" alt=\"Chia plants growing on a Tevaplanter vessel\">\n\nAlthough I expected all the chia seeds to sprout, there are some areas where growth has not occurred. I suspect this may be due to the high temperatures on my outdoor patio, which make it difficult to maintain proper moisture levels for the plants.\n\nTo further explore and determine the best setup and purpose for the vessel, I plan to conduct an indoor experiment using chia seeds. This will help me make an informed decision on how to proceed.\n",
+				"content_text": "📸 Another week, another Tevaplanter update\n\n\nThe chia plants on my [Tevaplanter](https://tevaplanter.com/) are thriving, as shown in the progress from [week 0](https://jeroensangers.com/2023/08/16/tevaplanter-loaded-with.html) to [week 1](https://jeroensangers.com/2023/08/21/chia-growing-on.html) to now:\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2023/p1040168.jpeg\" width=\"600\" height=\"450\" alt=\"Chia plants growing on a Tevaplanter vessel\">\n\nAlthough I expected all the chia seeds to sprout, there are some areas where growth has not occurred. I suspect this may be due to the high temperatures on my outdoor patio, which make it difficult to maintain proper moisture levels for the plants.\n\nTo further explore and determine the best setup and purpose for the vessel, I plan to conduct an indoor experiment using chia seeds. This will help me make an informed decision on how to proceed.\n",
 				"date_published": "2023-08-28T10:55:38+01:00",
 				"url": "https://jeroensangers.com/2023/08/28/another-week-another.html"
 			},
@@ -1070,7 +1097,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/08/21/chia-growing-on.html",
 				
 				"content_html": "<p>📸 Chia growing on my Tevaplanter</p>\n<p><a href=\"https://jeroensangers.com/2023/08/16/tevaplanter-loaded-with.html\">After five days</a>, the chia buds are clearly visible and the roots start to grab hold of the <a href=\"https://tevaplanter.com\">Tevaplanter</a> vessel&rsquo;s surface</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 Chia growing on my Tevaplanter\n\n[After five days](https://jeroensangers.com/2023/08/16/tevaplanter-loaded-with.html), the chia buds are clearly visible and the roots start to grab hold of the [Tevaplanter](https://tevaplanter.com) vessel's surface\n\n<img src=\"uploads/2023/p1040166.jpeg\" width=\"600\" height=\"450\" alt=\"Chia buds on the Tevaplanter vessel\">\n",
+				"content_text": "📸 Chia growing on my Tevaplanter\n\n[After five days](https://jeroensangers.com/2023/08/16/tevaplanter-loaded-with.html), the chia buds are clearly visible and the roots start to grab hold of the [Tevaplanter](https://tevaplanter.com) vessel's surface\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2023/p1040166.jpeg\" width=\"600\" height=\"450\" alt=\"Chia buds on the Tevaplanter vessel\">\n",
 				"date_published": "2023-08-21T08:24:39+01:00",
 				"url": "https://jeroensangers.com/2023/08/21/chia-growing-on.html"
 			},
@@ -1078,7 +1105,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/08/16/tevaplanter-loaded-with.html",
 				
 				"content_html": "<p>📸 Tevaplanter loaded with chia seeds</p>\n<p>Two and half years after ordering, my <a href=\"https://tevaplanter.com\">Tevaplanter</a> finally arrived. Yesterday I filled the cells with chia seeds for my first experiment to learn how to use it.</p>\n<p>I will keep you posted on further progress.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 Tevaplanter loaded with chia seeds\n\nTwo and half years after ordering, my [Tevaplanter](https://tevaplanter.com) finally arrived. Yesterday I filled the cells with chia seeds for my first experiment to learn how to use it.\n\nI will keep you posted on further progress.\n\n<img src=\"uploads/2023/p1040163.jpeg\" width=\"600\" height=\"450\" alt=\"Tevaplanter loaded with chia seeds\">\n",
+				"content_text": "📸 Tevaplanter loaded with chia seeds\n\nTwo and half years after ordering, my [Tevaplanter](https://tevaplanter.com) finally arrived. Yesterday I filled the cells with chia seeds for my first experiment to learn how to use it.\n\nI will keep you posted on further progress.\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2023/p1040163.jpeg\" width=\"600\" height=\"450\" alt=\"Tevaplanter loaded with chia seeds\">\n",
 				"date_published": "2023-08-16T10:16:44+01:00",
 				"url": "https://jeroensangers.com/2023/08/16/tevaplanter-loaded-with.html"
 			},
@@ -1095,7 +1122,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/08/07/un-acto-de.html",
 				
 				"content_html": "<p>Un acto de generosidad.<br>\nAsí es como describiría la <a href=\"https://www.larazon.es/cultura/literatura/xanty-elias-kenso-hace-valorar-tiempo-manera-que-realmente-sea-oro_2023080564cd9ffa51e7e10001c12523.html\">recomendación</a> del chef Xanty Elías.</p>\n<p>De todo corazón y en nombre de todo el equipo de KENSO: ¡Gracias Xanty! 🤗😍</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Un acto de generosidad.  \nAsí es como describiría la [recomendación](https://www.larazon.es/cultura/literatura/xanty-elias-kenso-hace-valorar-tiempo-manera-que-realmente-sea-oro_2023080564cd9ffa51e7e10001c12523.html) del chef Xanty Elías.\n\nDe todo corazón y en nombre de todo el equipo de KENSO: ¡Gracias Xanty! 🤗😍\n\n<img src=\"uploads/2023/xanty-elas-recomienda.png\" width=\"600\" height=\"550\" alt=\"Artículo en el diario La Razón en que Xanty Elías recomienda el libro de KENSO\">\n",
+				"content_text": "Un acto de generosidad.  \nAsí es como describiría la [recomendación](https://www.larazon.es/cultura/literatura/xanty-elias-kenso-hace-valorar-tiempo-manera-que-realmente-sea-oro_2023080564cd9ffa51e7e10001c12523.html) del chef Xanty Elías.\n\nDe todo corazón y en nombre de todo el equipo de KENSO: ¡Gracias Xanty! 🤗😍\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2023/xanty-elas-recomienda.png\" width=\"600\" height=\"550\" alt=\"Artículo en el diario La Razón en que Xanty Elías recomienda el libro de KENSO\">\n",
 				"date_published": "2023-08-07T14:23:17+01:00",
 				"url": "https://jeroensangers.com/2023/08/07/un-acto-de.html"
 			},
@@ -1164,7 +1191,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/07/16/sunset-in-valds.html",
 				
 				"content_html": "<p>📸 Sunset in Valdés</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 Sunset in Valdés\n\n<img src=\"uploads/2023/a73edeef19074b16b54bcb6ec19de10f.jpg\" width=\"600\" height=\"449\" alt=\"A view over the hills with the see behind them. The sun lits the scene in a beautiful orange color\">\n",
+				"content_text": "📸 Sunset in Valdés\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2023/a73edeef19074b16b54bcb6ec19de10f.jpg\" width=\"600\" height=\"449\" alt=\"A view over the hills with the see behind them. The sun lits the scene in a beautiful orange color\">\n",
 				"date_published": "2023-07-16T21:21:35+01:00",
 				"url": "https://jeroensangers.com/2023/07/16/sunset-in-valds.html"
 			},
@@ -1172,7 +1199,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/07/12/quality-of-life.html",
 				
 				"content_html": "<p>📸 Quality of life</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 Quality of life\n\n<img src=\"uploads/2023/media.jpg\" alt=\"Dining table with a view of the mountains\" />\n",
+				"content_text": "📸 Quality of life\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2023/media.jpg\" alt=\"Dining table with a view of the mountains\" />\n",
 				"date_published": "2023-07-12T21:29:48+01:00",
 				"url": "https://jeroensangers.com/2023/07/12/quality-of-life.html"
 			},
@@ -1214,7 +1241,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/06/29/all-truly-great.html",
 				
 				"content_html": "<blockquote>\n<p>“All truly great thoughts are conceived by walking”<br>\n— Friedrich Nietzsche</p>\n</blockquote>\n<p>The 1000th quote saved in my Quotebook app.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "> “All truly great thoughts are conceived by walking”  \n— Friedrich Nietzsche\n\nThe 1000th quote saved in my Quotebook app.\n\n\n<img src=\"uploads/2023/quotebook.png\" width=\"600\" height=\"1299\" alt=\"1000 quotes in the Quotebook app\">\n",
+				"content_text": "> “All truly great thoughts are conceived by walking”  \n— Friedrich Nietzsche\n\nThe 1000th quote saved in my Quotebook app.\n\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2023/quotebook.png\" width=\"600\" height=\"1299\" alt=\"1000 quotes in the Quotebook app\">\n",
 				"date_published": "2023-06-29T10:57:13+01:00",
 				"url": "https://jeroensangers.com/2023/06/29/all-truly-great.html"
 			},
@@ -1274,7 +1301,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/06/05/feria-del-libro.html",
 				
 				"content_html": "<p>📸 Feria del libro de Madrid</p>\n<p>Cómo he disfrutado esta tarde volviendo a ver mis amigos de KENSO y, más importante, encontrarme en persona con los oyentes y viejos amigos.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 Feria del libro de Madrid\n\nCómo he disfrutado esta tarde volviendo a ver mis amigos de KENSO y, más importante, encontrarme en persona con los oyentes y viejos amigos.\n\n<img src=\"uploads/2023/47732d6bc1.jpg\" alt=\"El equipo de KENSO firmando libros en la feria del libro en Madrid\" />\n",
+				"content_text": "📸 Feria del libro de Madrid\n\nCómo he disfrutado esta tarde volviendo a ver mis amigos de KENSO y, más importante, encontrarme en persona con los oyentes y viejos amigos.\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2023/47732d6bc1.jpg\" alt=\"El equipo de KENSO firmando libros en la feria del libro en Madrid\" />\n",
 				"date_published": "2023-06-05T21:28:06+01:00",
 				"url": "https://jeroensangers.com/2023/06/05/feria-del-libro.html"
 			},
@@ -1315,7 +1342,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/05/23/this-footnote-brings.html",
 				
 				"content_html": "<p>This footnote brings up so many questions about the discussions there must have been between the authors of <a href=\"https://www.jstor.org/stable/3328150\">this paper</a>.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This footnote brings up so many questions about the discussions there must have been between the authors of [this paper](https://www.jstor.org/stable/3328150).\n\n<img src=\"uploads/2023/7c589ec170.png\" width=\"600\" height=\"42\" alt=\"Authors are listed in order of degree of belief in the central thesis\">\n",
+				"content_text": "This footnote brings up so many questions about the discussions there must have been between the authors of [this paper](https://www.jstor.org/stable/3328150).\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2023/7c589ec170.png\" width=\"600\" height=\"42\" alt=\"Authors are listed in order of degree of belief in the central thesis\">\n",
 				"date_published": "2023-05-23T08:32:40+01:00",
 				"url": "https://jeroensangers.com/2023/05/23/this-footnote-brings.html"
 			},
@@ -1323,7 +1350,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/05/22/back-to-my.html",
 				
 				"content_html": "<p>📸 Back to my mid-morning coffee and reading routine</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 Back to my mid-morning coffee and reading routine\n\n<img src=\"uploads/2023/621d87a01c.jpg\" alt=\"A cup of coffee in my hand and my iPad on my lap\" />\n",
+				"content_text": "📸 Back to my mid-morning coffee and reading routine\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2023/621d87a01c.jpg\" alt=\"A cup of coffee in my hand and my iPad on my lap\" />\n",
 				"date_published": "2023-05-22T11:35:27+01:00",
 				"url": "https://jeroensangers.com/2023/05/22/back-to-my.html"
 			},
@@ -1372,7 +1399,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/05/05/this-is-one.html",
 				
 				"content_html": "<p>This is one of the finest capture apps I have ever used.<br>\nEspecially the voice recordings in combination with Tana’s transcribe function is magic.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This is one of the finest capture apps I have ever used.  \nEspecially the voice recordings in combination with Tana’s transcribe function is magic. \n\n<img src=\"uploads/2023/ebf59e35a5.png\" alt=\"Tana Capture\" />\n",
+				"content_text": "This is one of the finest capture apps I have ever used.  \nEspecially the voice recordings in combination with Tana’s transcribe function is magic. \n\n<img src=\"https://cdn.uploads.micro.blog/5908/2023/ebf59e35a5.png\" alt=\"Tana Capture\" />\n",
 				"date_published": "2023-05-05T07:58:52+01:00",
 				"url": "https://jeroensangers.com/2023/05/05/this-is-one.html"
 			},
@@ -1428,7 +1455,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/04/15/golden-door-i.html",
 				
 				"content_html": "<p>📸 Golden door</p>\n<p>I was afraid that the gold paint would look too “over the top”, but it turned out very nice.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 Golden door\n\nI was afraid that the gold paint would look too “over the top”, but it turned out very nice. \n\n<img src=\"uploads/2023/feef779eb7.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "📸 Golden door\n\nI was afraid that the gold paint would look too “over the top”, but it turned out very nice. \n\n<img src=\"https://cdn.uploads.micro.blog/5908/2023/feef779eb7.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-04-15T11:06:52+01:00",
 				"url": "https://jeroensangers.com/2023/04/15/golden-door-i.html"
 			},
@@ -1445,7 +1472,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/04/01/oura-ring-brings.html",
 				
 				"content_html": "<p>Oura ring brings back Clippy for April fool’s day</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Oura ring brings back Clippy for April fool’s day\n\n<img src=\"uploads/2023/3975f287f7.png\" width=\"277\" height=\"600\" alt=\"\">\n",
+				"content_text": "Oura ring brings back Clippy for April fool’s day\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2023/3975f287f7.png\" width=\"277\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-04-01T22:39:16+01:00",
 				"url": "https://jeroensangers.com/2023/04/01/oura-ring-brings.html"
 			},
@@ -1494,7 +1521,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/03/19/blossom-in-aitona.html",
 				
 				"content_html": "<p>📸 Blossom in Aitona</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 Blossom in Aitona\n\n<img src=\"uploads/2023/3139d3361e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "📸 Blossom in Aitona\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2023/3139d3361e.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-03-19T20:54:50+01:00",
 				"url": "https://jeroensangers.com/2023/03/19/blossom-in-aitona.html"
 			},
@@ -1535,7 +1562,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/03/06/twitter-lost-access.html",
 				
 				"content_html": "<p>🐦 Twitter lost access to its own API?</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🐦 Twitter lost access to its own API?\n\n<img src=\"uploads/2023/28483445b2.png\" width=\"600\" height=\"402\" alt=\"\">\n",
+				"content_text": "🐦 Twitter lost access to its own API?\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2023/28483445b2.png\" width=\"600\" height=\"402\" alt=\"\">\n",
 				"date_published": "2023-03-06T18:09:27+01:00",
 				"url": "https://jeroensangers.com/2023/03/06/twitter-lost-access.html"
 			},
@@ -1543,7 +1570,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/03/06/073505.html",
 				
 				"content_html": "<p>📸 A new season is about to begin</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 A new season is about to begin\n\n<img src=\"uploads/2023/cd6a0644c8.jpg\" />\n",
+				"content_text": "📸 A new season is about to begin\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2023/cd6a0644c8.jpg\" />\n",
 				"date_published": "2023-03-06T07:35:05+01:00",
 				"url": "https://jeroensangers.com/2023/03/06/073505.html"
 			},
@@ -1669,7 +1696,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/01/28/our-book-in.html",
 				
 				"content_html": "<p>📸 Our book in good company</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 Our book in good company\n\n<img src=\"uploads/2023/e7e9c8584b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "📸 Our book in good company\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2023/e7e9c8584b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2023-01-28T13:25:20+01:00",
 				"url": "https://jeroensangers.com/2023/01/28/our-book-in.html"
 			},
@@ -1677,7 +1704,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/01/26/poco-a-poco.html",
 				
 				"content_html": "<p>Poco a poco vamos subiendo en las listas de Amazon…</p>\n<!-- raw HTML omitted -->\n<p>#EfectividadKENSO</p>\n",
-				"content_text": "Poco a poco vamos subiendo en las listas de Amazon…\n\n<img src=\"uploads/2023/edd8567fa1.png\" alt=\"Efectividad KENSO en Amazon\" />\n\n#EfectividadKENSO\n",
+				"content_text": "Poco a poco vamos subiendo en las listas de Amazon…\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2023/edd8567fa1.png\" alt=\"Efectividad KENSO en Amazon\" />\n\n#EfectividadKENSO\n",
 				"date_published": "2023-01-26T12:24:58+01:00",
 				"url": "https://jeroensangers.com/2023/01/26/poco-a-poco.html"
 			},
@@ -1727,7 +1754,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/01/19/ya-he-encontrado.html",
 				
 				"content_html": "<p>Ya he encontrado el soporte perfecto para mi micrófono: <a href=\"https://kenso.es/libro\">Efectividad KENSO</a>. Espero que <a href=\"https://twitter.com/jlgomezp\">@jlgomezp</a> también hace el cambio…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Ya he encontrado el soporte perfecto para mi micrófono: [Efectividad KENSO](https://kenso.es/libro). Espero que [@jlgomezp](https://twitter.com/jlgomezp) también hace el cambio…\n\n<img src=\"uploads/2023/2df3cf620c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Ya he encontrado el soporte perfecto para mi micrófono: [Efectividad KENSO](https://kenso.es/libro). Espero que [@jlgomezp](https://twitter.com/jlgomezp) también hace el cambio…\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2023/2df3cf620c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-01-19T14:35:07+01:00",
 				"url": "https://jeroensangers.com/2023/01/19/ya-he-encontrado.html"
 			},
@@ -1735,7 +1762,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/01/18/ilusionado-y-feliz.html",
 				
 				"content_html": "<p>📸 Ilusionado y feliz 📖</p>\n<p>¡Finalmente lo tengo en mis manos! Nuestro libro #EfectividadKENSO</p>\n<p>Siento el enorme satisfecho de tener un resultado concreto después de tantos meses de trabajo.</p>\n<p>¡A celebrarlo! 🥂</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 Ilusionado y feliz 📖\n\n\n¡Finalmente lo tengo en mis manos! Nuestro libro #EfectividadKENSO\n\nSiento el enorme satisfecho de tener un resultado concreto después de tantos meses de trabajo.\n\n¡A celebrarlo! 🥂\n\n<img src=\"uploads/2023/8c2ea72dda.jpg\" width=\"600\" height=\"450\" alt=\"Efectividad KENSO\" />\n",
+				"content_text": "📸 Ilusionado y feliz 📖\n\n\n¡Finalmente lo tengo en mis manos! Nuestro libro #EfectividadKENSO\n\nSiento el enorme satisfecho de tener un resultado concreto después de tantos meses de trabajo.\n\n¡A celebrarlo! 🥂\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2023/8c2ea72dda.jpg\" width=\"600\" height=\"450\" alt=\"Efectividad KENSO\" />\n",
 				"date_published": "2023-01-18T14:28:38+01:00",
 				"url": "https://jeroensangers.com/2023/01/18/ilusionado-y-feliz.html"
 			},
@@ -1785,7 +1812,7 @@
 				"id": "http://jeroensangers.micro.blog/2023/01/06/was-a-great.html",
 				
 				"content_html": "<p>2022 was a great year!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "2022 was a great year!\n\n<img src=\"uploads/2023/6661653200.png\" />\n",
+				"content_text": "2022 was a great year!\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2023/6661653200.png\" />\n",
 				"date_published": "2023-01-06T13:37:01+01:00",
 				"url": "https://jeroensangers.com/2023/01/06/was-a-great.html"
 			},
@@ -1895,7 +1922,7 @@
 				"id": "http://jeroensangers.micro.blog/2022/12/09/155604.html",
 				
 				"content_html": "<p>¿Qué es este podcast recomendado por Amazon Music Podcasts?</p>\n<!-- raw HTML omitted -->\n<p>Sí, ¡es el podcast de KENSO! 🎉</p>\n",
-				"content_text": "¿Qué es este podcast recomendado por Amazon Music Podcasts?\n\n<img src=\"uploads/2022/ef87389dc6.png\" width=\"600\" height=\"151\" alt=\"Recomendaciones de Apple Music Podcasts\">\n\nSí, ¡es el podcast de KENSO! 🎉\n",
+				"content_text": "¿Qué es este podcast recomendado por Amazon Music Podcasts?\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2022/ef87389dc6.png\" width=\"600\" height=\"151\" alt=\"Recomendaciones de Apple Music Podcasts\">\n\nSí, ¡es el podcast de KENSO! 🎉\n",
 				"date_published": "2022-12-09T15:56:04+01:00",
 				"url": "https://jeroensangers.com/2022/12/09/155604.html"
 			},
@@ -1903,7 +1930,7 @@
 				"id": "http://jeroensangers.micro.blog/2022/12/06/delta-debre.html",
 				
 				"content_html": "<p>📸 Delta de l&rsquo;Ebre</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "📸 Delta de l'Ebre\n\n<img src=\"uploads/2022/dbe5369eaf.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2022/b9db84fefc.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2022/3ddca69e69.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "📸 Delta de l'Ebre\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2022/dbe5369eaf.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/5908/2022/b9db84fefc.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/5908/2022/3ddca69e69.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-12-06T17:10:00+01:00",
 				"url": "https://jeroensangers.com/2022/12/06/delta-debre.html"
 			},
@@ -2029,7 +2056,7 @@
 				"id": "http://jeroensangers.micro.blog/2022/11/15/migrating-my-passwords.html",
 				"title": "Migrating my passwords from 1Password to iCloud Keychain",
 				"content_html": "<p>Why am I still using 1Password? A few days ago I asked myself this question, and the only answer I could come up with was “Because that&rsquo;s what I have been doing for years”.</p>\n<p>Now don&rsquo;t get me wrong, I like 1Password and in the past it was vastly superior to any alternative. I loved that it could handle two-factor authentication without needing an additional app, and I liked their password suggestions.</p>\n<p>But most features are now also available in the iCloud Keychain.</p>\n<p>So today I migrated.</p>\n<p>For a moment I thought that this would be the perfect occasion to clean up my list of passwords and delete services that don&rsquo;t exist anymore, update easy to guess passwords. But that would change a 30-minute project into a 30-day project.</p>\n<p>The migration itself was fairly simple. I followed <a href=\"https://simonbs.dev/posts/moving-from-1password-to-icloud-keychain/\">the procedure from Simon B. Støvring</a>: simply exporting all items from 1Password and importing them into the iCloud Keychain. Then I did an advanced search in 1Password for all items with two-factor authentication and created a locked note in Notes to store the backup codes.</p>\n<!-- raw HTML omitted -->\n<p>Easy peasy…</p>\n",
-				"content_text": "Why am I still using 1Password? A few days ago I asked myself this question, and the only answer I could come up with was “Because that's what I have been doing for years”.\n\nNow don't get me wrong, I like 1Password and in the past it was vastly superior to any alternative. I loved that it could handle two-factor authentication without needing an additional app, and I liked their password suggestions.\n\nBut most features are now also available in the iCloud Keychain.\n\nSo today I migrated.\n\nFor a moment I thought that this would be the perfect occasion to clean up my list of passwords and delete services that don't exist anymore, update easy to guess passwords. But that would change a 30-minute project into a 30-day project.\n\nThe migration itself was fairly simple. I followed [the procedure from Simon B. Støvring](https://simonbs.dev/posts/moving-from-1password-to-icloud-keychain/): simply exporting all items from 1Password and importing them into the iCloud Keychain. Then I did an advanced search in 1Password for all items with two-factor authentication and created a locked note in Notes to store the backup codes.\n\n<img src=\"uploads/2022/96ab5f83eb.png\" width=\"600\" height=\"374\" alt=\"Find logins with 2FA aneabled in 1Password\" />\n\nEasy peasy…\n",
+				"content_text": "Why am I still using 1Password? A few days ago I asked myself this question, and the only answer I could come up with was “Because that's what I have been doing for years”.\n\nNow don't get me wrong, I like 1Password and in the past it was vastly superior to any alternative. I loved that it could handle two-factor authentication without needing an additional app, and I liked their password suggestions.\n\nBut most features are now also available in the iCloud Keychain.\n\nSo today I migrated.\n\nFor a moment I thought that this would be the perfect occasion to clean up my list of passwords and delete services that don't exist anymore, update easy to guess passwords. But that would change a 30-minute project into a 30-day project.\n\nThe migration itself was fairly simple. I followed [the procedure from Simon B. Støvring](https://simonbs.dev/posts/moving-from-1password-to-icloud-keychain/): simply exporting all items from 1Password and importing them into the iCloud Keychain. Then I did an advanced search in 1Password for all items with two-factor authentication and created a locked note in Notes to store the backup codes.\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2022/96ab5f83eb.png\" width=\"600\" height=\"374\" alt=\"Find logins with 2FA aneabled in 1Password\" />\n\nEasy peasy…\n",
 				"date_published": "2022-11-15T10:54:14+01:00",
 				"url": "https://jeroensangers.com/2022/11/15/migrating-my-passwords.html"
 			},
@@ -2046,7 +2073,7 @@
 				"id": "http://jeroensangers.micro.blog/2022/11/10/111533.html",
 				
 				"content_html": "<p>I dedicated some more time to reflect on <a href=\"https://jeroensangers.com/2022/11/09/years-of-blogging.html\">yesterday&rsquo;s thoughts</a> and decided to map out my whole personal information workflow in Roam Research.</p>\n<!-- raw HTML omitted -->\n<p>It probably is incomplete and misses a lot of small nuances, but it looks complicated enough already and serves its purpose of getting a high level overview.</p>\n",
-				"content_text": "I dedicated some more time to reflect on [yesterday's thoughts](https://jeroensangers.com/2022/11/09/years-of-blogging.html) and decided to map out my whole personal information workflow in Roam Research.\n\n<img src=\"uploads/2022/190ad07094.png\" width=\"600\" height=\"269\" alt=\"My personal information workflow\">\n\nIt probably is incomplete and misses a lot of small nuances, but it looks complicated enough already and serves its purpose of getting a high level overview.\n",
+				"content_text": "I dedicated some more time to reflect on [yesterday's thoughts](https://jeroensangers.com/2022/11/09/years-of-blogging.html) and decided to map out my whole personal information workflow in Roam Research.\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2022/190ad07094.png\" width=\"600\" height=\"269\" alt=\"My personal information workflow\">\n\nIt probably is incomplete and misses a lot of small nuances, but it looks complicated enough already and serves its purpose of getting a high level overview.\n",
 				"date_published": "2022-11-10T11:15:33+01:00",
 				"url": "https://jeroensangers.com/2022/11/10/111533.html"
 			},
@@ -2079,7 +2106,7 @@
 				"id": "http://jeroensangers.micro.blog/2022/10/24/202051.html",
 				"title": "Focus modes in iOS make me happy",
 				"content_html": "<p>Not so much for focusing, but simply because it solves a practical problem for me.</p>\n<p>You see, just like many people of my age I need reading glasses. Now, when I am working at my desk, I usually have a pair handy, but when I am out and about I usually leave them at home.</p>\n<p>My solution in those cases is incrementing the text size in iOS to Extra Extra Extra Large, so I can read everything without glasses. The issue is that when I get home and use my phone with my glasses in the text is way to big and I have to set the text size back.</p>\n<p>Now to make these text size changes easier, I took a two-step approach.</p>\n<p>First, instead of changing the size in the phone’s settings, I used Shortcuts to create a very simple one-step automation:</p>\n<!-- raw HTML omitted -->\n<p>And in iOS 16, I can use focus modes to automatically trigger these shortcuts by creating automations in the Shotcuts app:</p>\n<!-- raw HTML omitted -->\n<p>Now all I have to do is switch my phone from one focus mode to another, and since I have smart activation configured, my phone quickly learned when to activate each mode, so usually I have the correct text size.</p>\n",
-				"content_text": "Not so much for focusing, but simply because it solves a practical problem for me. \n\nYou see, just like many people of my age I need reading glasses. Now, when I am working at my desk, I usually have a pair handy, but when I am out and about I usually leave them at home.\n\nMy solution in those cases is incrementing the text size in iOS to Extra Extra Extra Large, so I can read everything without glasses. The issue is that when I get home and use my phone with my glasses in the text is way to big and I have to set the text size back.\n\nNow to make these text size changes easier, I took a two-step approach.\n\nFirst, instead of changing the size in the phone’s settings, I used Shortcuts to create a very simple one-step automation:\n\n<img src=\"uploads/2022/0bd7c40fb6.png\" width=\"600\" height=\"204\" alt=\"Set text size in a shortcut\">\n\nAnd in iOS 16, I can use focus modes to automatically trigger these shortcuts by creating automations in the Shotcuts app:\n\n<img src=\"uploads/2022/c2d272f9a9.png\" width=\"600\" height=\"204\" alt=\"Trigger an shortcuts automation by  focus mode\"/>\n\nNow all I have to do is switch my phone from one focus mode to another, and since I have smart activation configured, my phone quickly learned when to activate each mode, so usually I have the correct text size. \n",
+				"content_text": "Not so much for focusing, but simply because it solves a practical problem for me. \n\nYou see, just like many people of my age I need reading glasses. Now, when I am working at my desk, I usually have a pair handy, but when I am out and about I usually leave them at home.\n\nMy solution in those cases is incrementing the text size in iOS to Extra Extra Extra Large, so I can read everything without glasses. The issue is that when I get home and use my phone with my glasses in the text is way to big and I have to set the text size back.\n\nNow to make these text size changes easier, I took a two-step approach.\n\nFirst, instead of changing the size in the phone’s settings, I used Shortcuts to create a very simple one-step automation:\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2022/0bd7c40fb6.png\" width=\"600\" height=\"204\" alt=\"Set text size in a shortcut\">\n\nAnd in iOS 16, I can use focus modes to automatically trigger these shortcuts by creating automations in the Shotcuts app:\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2022/c2d272f9a9.png\" width=\"600\" height=\"204\" alt=\"Trigger an shortcuts automation by  focus mode\"/>\n\nNow all I have to do is switch my phone from one focus mode to another, and since I have smart activation configured, my phone quickly learned when to activate each mode, so usually I have the correct text size. \n",
 				"date_published": "2022-10-24T19:20:51+01:00",
 				"url": "https://jeroensangers.com/2022/10/24/202051.html"
 			},
@@ -2121,7 +2148,7 @@
 				"id": "http://jeroensangers.micro.blog/2022/10/20/wet-leaves-is.html",
 				
 				"content_html": "<p>📸 Wet leaves 🍃 Is autumn finally coming?<br>\nLleida, 12:20 CET <a href=\"http://micro.blog/discover/adayinthelife2\">A Day in the Life of Micro.blog</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 Wet leaves 🍃 Is autumn finally coming?  \nLleida, 12:20 CET [A Day in the Life of Micro.blog](http://micro.blog/discover/adayinthelife2)\n\n<img src=\"uploads/2022/b205ef6866.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "📸 Wet leaves 🍃 Is autumn finally coming?  \nLleida, 12:20 CET [A Day in the Life of Micro.blog](http://micro.blog/discover/adayinthelife2)\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2022/b205ef6866.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-10-20T11:20:40+01:00",
 				"url": "https://jeroensangers.com/2022/10/20/wet-leaves-is.html"
 			},
@@ -2129,7 +2156,7 @@
 				"id": "http://jeroensangers.micro.blog/2022/10/19/all-prepared-for.html",
 				
 				"content_html": "<p>📸 All prepared for the trading course</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 All prepared for the trading course\n\n<img src=\"uploads/2022/d2b0027a77.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "📸 All prepared for the trading course\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2022/d2b0027a77.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-10-19T18:00:41+01:00",
 				"url": "https://jeroensangers.com/2022/10/19/all-prepared-for.html"
 			},
@@ -2161,7 +2188,7 @@
 				"id": "http://jeroensangers.micro.blog/2022/10/16/chores-and-a.html",
 				
 				"content_html": "<p>📸 Chores and a blue sky</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 Chores and a blue sky\n\n<img src=\"uploads/2022/c04b5ec539.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "📸 Chores and a blue sky\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2022/c04b5ec539.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-10-16T13:19:14+01:00",
 				"url": "https://jeroensangers.com/2022/10/16/chores-and-a.html"
 			},
@@ -2169,7 +2196,7 @@
 				"id": "http://jeroensangers.micro.blog/2022/10/15/patio-lleida-cet.html",
 				
 				"content_html": "<p>📸 Patio</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 Patio\n\n<img src=\"uploads/2022/f44c5ddf4b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "📸 Patio\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2022/f44c5ddf4b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-10-15T16:17:37+01:00",
 				"url": "https://jeroensangers.com/2022/10/15/patio-lleida-cet.html"
 			},
@@ -2177,7 +2204,7 @@
 				"id": "http://jeroensangers.micro.blog/2022/10/14/brand-new-cycling.html",
 				
 				"content_html": "<p>📸 Brand new cycling shoes<br>\nLleida, 18:59 CET <a href=\"https://micro.welltempered.net/2022/10/11/a-day-in.html\">A Day in the Life of Micro.blog</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 Brand new cycling shoes  \nLleida, 18:59 CET [A Day in the Life of Micro.blog](https://micro.welltempered.net/2022/10/11/a-day-in.html)\n\n<img src=\"uploads/2022/4f2f9e6b53.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "📸 Brand new cycling shoes  \nLleida, 18:59 CET [A Day in the Life of Micro.blog](https://micro.welltempered.net/2022/10/11/a-day-in.html)\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2022/4f2f9e6b53.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-10-14T18:00:41+01:00",
 				"url": "https://jeroensangers.com/2022/10/14/brand-new-cycling.html"
 			},
@@ -2203,7 +2230,7 @@
 				"id": "http://jeroensangers.micro.blog/2022/10/05/cardona.html",
 				
 				"content_html": "<p>📸 Cardona</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 Cardona\n\n<img src=\"uploads/2022/360027fe4f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "📸 Cardona\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2022/360027fe4f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-10-05T14:09:55+01:00",
 				"url": "https://jeroensangers.com/2022/10/05/cardona.html"
 			},
@@ -2253,7 +2280,7 @@
 				"id": "http://jeroensangers.micro.blog/2022/09/22/lalmadrava.html",
 				
 				"content_html": "<p>📸 L’Almadrava</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 L’Almadrava\n\n<img src=\"uploads/2022/faceb90d7c.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
+				"content_text": "📸 L’Almadrava\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2022/faceb90d7c.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
 				"date_published": "2022-09-22T17:50:46+01:00",
 				"url": "https://jeroensangers.com/2022/09/22/lalmadrava.html"
 			},
@@ -2357,7 +2384,7 @@
 				"id": "http://jeroensangers.micro.blog/2022/08/06/sant-benet-de.html",
 				
 				"content_html": "<p>📸 Sant Benet de Bages</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 Sant Benet de Bages\n\n<img src=\"uploads/2023/2922ae894c.jpg\" width=\"600\" height=\"450\" alt=\"Món Sant Benet\" />\n",
+				"content_text": "📸 Sant Benet de Bages\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2023/2922ae894c.jpg\" width=\"600\" height=\"450\" alt=\"Món Sant Benet\" />\n",
 				"date_published": "2022-08-06T20:02:31+01:00",
 				"url": "https://jeroensangers.com/2022/08/06/sant-benet-de.html"
 			},
@@ -2432,7 +2459,7 @@
 				"id": "http://jeroensangers.micro.blog/2022/07/28/back-on-my.html",
 				"title": "Back on my ‘extended commute’",
 				"content_html": "<p>I work from home, so my regular commute from the dining room, where I eat my breakfast, to the office is about four steps. Nine steps if I pass through the kitchen to get me a bottle of water.</p>\n<p>I have always thought that not having to waste precious time on a commute was one of the perks of working from home.</p>\n<p>But lately I found that there are some benefits that I am missing out on.</p>\n<p>Last autumn I experimented with what I call an ‘extended commute’ and really liked it, but I did not make it into a habit. And today I decided that I wanted to try it again.</p>\n<p>So what exactly is an ‘<em>extended morning commute</em>’?</p>\n<p>Very simple: my extended commute means that I take a detour and instead of walking the shortest route from the dining room to the office I pass through some outside space.</p>\n<p>My aim is to walk about 2 kilometres on my detour, but I will allow myself a shorter commute to our patio or balcony in case of rain or lack of time. Of course, I am may also decide to extend my commute even more if I feel like. After all, I am my own boss.</p>\n<p>I try to accomplish several things by extending my morning commute. The main benefit is an increase in energy during the morning because I activated my body. Then there are the <a href=\"https://hubermanlab.libsyn.com/website/optimize-your-brain-with-science-based-tools-huberman-lab-podcast-8\">positive effects of light exposure early in the morning</a> and the clear transition ritual telling my brain exactly when it is time to switch to ‘work mode’.</p>\n<p>A final benefit is the opportunity to explore my neighbourhood. I use the <a href=\"https://apps.apple.com/es/app/eroutes-walk-run-cycle/id1360999230?l=en&amp;at=11lJXb\">eRoutes</a> app to generate three random walking routes with the length I specify and today it already surprised me by passing through a street I haven&rsquo;t traversed for many years.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I work from home, so my regular commute from the dining room, where I eat my breakfast, to the office is about four steps. Nine steps if I pass through the kitchen to get me a bottle of water.\n\nI have always thought that not having to waste precious time on a commute was one of the perks of working from home.\n\nBut lately I found that there are some benefits that I am missing out on.\n\nLast autumn I experimented with what I call an ‘extended commute’ and really liked it, but I did not make it into a habit. And today I decided that I wanted to try it again.\n\nSo what exactly is an ‘_extended morning commute_’?\n\nVery simple: my extended commute means that I take a detour and instead of walking the shortest route from the dining room to the office I pass through some outside space.\n\nMy aim is to walk about 2 kilometres on my detour, but I will allow myself a shorter commute to our patio or balcony in case of rain or lack of time. Of course, I am may also decide to extend my commute even more if I feel like. After all, I am my own boss.\n\nI try to accomplish several things by extending my morning commute. The main benefit is an increase in energy during the morning because I activated my body. Then there are the [positive effects of light exposure early in the morning](https://hubermanlab.libsyn.com/website/optimize-your-brain-with-science-based-tools-huberman-lab-podcast-8) and the clear transition ritual telling my brain exactly when it is time to switch to ‘work mode’.\n\nA final benefit is the opportunity to explore my neighbourhood. I use the [eRoutes](https://apps.apple.com/es/app/eroutes-walk-run-cycle/id1360999230?l=en&at=11lJXb) app to generate three random walking routes with the length I specify and today it already surprised me by passing through a street I haven't traversed for many years.\n\n<img src=\"uploads/2022/83351c415d.png\" width=\"600\" height=\"600\" alt=\"eRoutes\" />\n",
+				"content_text": "I work from home, so my regular commute from the dining room, where I eat my breakfast, to the office is about four steps. Nine steps if I pass through the kitchen to get me a bottle of water.\n\nI have always thought that not having to waste precious time on a commute was one of the perks of working from home.\n\nBut lately I found that there are some benefits that I am missing out on.\n\nLast autumn I experimented with what I call an ‘extended commute’ and really liked it, but I did not make it into a habit. And today I decided that I wanted to try it again.\n\nSo what exactly is an ‘_extended morning commute_’?\n\nVery simple: my extended commute means that I take a detour and instead of walking the shortest route from the dining room to the office I pass through some outside space.\n\nMy aim is to walk about 2 kilometres on my detour, but I will allow myself a shorter commute to our patio or balcony in case of rain or lack of time. Of course, I am may also decide to extend my commute even more if I feel like. After all, I am my own boss.\n\nI try to accomplish several things by extending my morning commute. The main benefit is an increase in energy during the morning because I activated my body. Then there are the [positive effects of light exposure early in the morning](https://hubermanlab.libsyn.com/website/optimize-your-brain-with-science-based-tools-huberman-lab-podcast-8) and the clear transition ritual telling my brain exactly when it is time to switch to ‘work mode’.\n\nA final benefit is the opportunity to explore my neighbourhood. I use the [eRoutes](https://apps.apple.com/es/app/eroutes-walk-run-cycle/id1360999230?l=en&at=11lJXb) app to generate three random walking routes with the length I specify and today it already surprised me by passing through a street I haven't traversed for many years.\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2022/83351c415d.png\" width=\"600\" height=\"600\" alt=\"eRoutes\" />\n",
 				"date_published": "2022-07-28T09:05:37+01:00",
 				"url": "https://jeroensangers.com/2022/07/28/back-on-my.html"
 			},
@@ -2449,7 +2476,7 @@
 				"id": "http://jeroensangers.micro.blog/2022/07/21/a-rough-day.html",
 				
 				"content_html": "<p>A rough day 🚗</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A rough day 🚗\n\n<img src=\"uploads/2022/3fd110b854.png\" width=\"277\" height=\"600\" alt=\"\" />\n",
+				"content_text": "A rough day 🚗\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2022/3fd110b854.png\" width=\"277\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-07-21T20:23:15+01:00",
 				"url": "https://jeroensangers.com/2022/07/21/a-rough-day.html"
 			},
@@ -2465,7 +2492,7 @@
 				"id": "http://jeroensangers.micro.blog/2022/07/20/151940.html",
 				
 				"content_html": "<p>📸 In the black forest, part 2</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 In the black forest, part 2\r\n\r\n<img src=\"uploads/2022/c1401c9015.jpg\" width=\"600\" height=\"450\" alt=\"Houses in Schiltach\" />\n",
+				"content_text": "📸 In the black forest, part 2\r\n\r\n<img src=\"https://cdn.uploads.micro.blog/5908/2022/c1401c9015.jpg\" width=\"600\" height=\"450\" alt=\"Houses in Schiltach\" />\n",
 				"date_published": "2022-07-20T14:19:40+01:00",
 				"url": "https://jeroensangers.com/2022/07/20/151940.html"
 			},
@@ -2473,7 +2500,7 @@
 				"id": "http://jeroensangers.micro.blog/2022/07/20/in-the-black.html",
 				
 				"content_html": "<p>📸 In the black forest, part 1</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 In the black forest, part 1\r\n\r\n<img src=\"uploads/2022/016c0294ba.jpg\" width=\"600\" height=\"450\" alt=\"Black forest view\" />\n",
+				"content_text": "📸 In the black forest, part 1\r\n\r\n<img src=\"https://cdn.uploads.micro.blog/5908/2022/016c0294ba.jpg\" width=\"600\" height=\"450\" alt=\"Black forest view\" />\n",
 				"date_published": "2022-07-20T14:17:55+01:00",
 				"url": "https://jeroensangers.com/2022/07/20/in-the-black.html"
 			},
@@ -2489,7 +2516,7 @@
 				"id": "http://jeroensangers.micro.blog/2022/07/09/now-this-is.html",
 				
 				"content_html": "<p>📸 Now this is how you take a coffee break</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 Now this is how you take a coffee break\r\n\r\n<img src=\"uploads/2022/e948fb8524.jpg\" width=\"600\" height=\"450\" alt=\"Coffee, a sandwich and my iPad on the table in the patio\" />\n",
+				"content_text": "📸 Now this is how you take a coffee break\r\n\r\n<img src=\"https://cdn.uploads.micro.blog/5908/2022/e948fb8524.jpg\" width=\"600\" height=\"450\" alt=\"Coffee, a sandwich and my iPad on the table in the patio\" />\n",
 				"date_published": "2022-07-09T09:05:58+01:00",
 				"url": "https://jeroensangers.com/2022/07/09/now-this-is.html"
 			},
@@ -2548,7 +2575,7 @@
 				"id": "http://jeroensangers.micro.blog/2022/06/30/nos-encanta-que.html",
 				
 				"content_html": "<p>📸 Nos encanta que los planes salgan bien</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 Nos encanta que los planes salgan bien\n\n<img src=\"uploads/2022/034d537e4a.jpg\" width=\"600\" height=\"450\" alt=\"Equipo KENSO\" />\n",
+				"content_text": "📸 Nos encanta que los planes salgan bien\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2022/034d537e4a.jpg\" width=\"600\" height=\"450\" alt=\"Equipo KENSO\" />\n",
 				"date_published": "2022-06-30T15:23:45+01:00",
 				"url": "https://jeroensangers.com/2022/06/30/nos-encanta-que.html"
 			},
@@ -2599,7 +2626,7 @@
 				"id": "http://jeroensangers.micro.blog/2022/06/21/i-made-it.html",
 				
 				"content_html": "<p>I made it! Mythic level in MTGA.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I made it! Mythic level in MTGA.\n\n<img src=\"uploads/2022/7142aa0fcf.png\" width=\"406\" height=\"600\" alt=\"\" />\n",
+				"content_text": "I made it! Mythic level in MTGA.\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2022/7142aa0fcf.png\" width=\"406\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-06-21T10:01:44+01:00",
 				"url": "https://jeroensangers.com/2022/06/21/i-made-it.html"
 			},
@@ -2676,7 +2703,7 @@
 				"id": "http://jeroensangers.micro.blog/2022/05/30/waiting-on-a.html",
 				
 				"content_html": "<p>Waiting on a sunny day…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Waiting on a sunny day…\n\n<img src=\"uploads/2022/8a647772c0.png\" width=\"600\" height=\"387\" alt=\"\" />\n",
+				"content_text": "Waiting on a sunny day…\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2022/8a647772c0.png\" width=\"600\" height=\"387\" alt=\"\" />\n",
 				"date_published": "2022-05-30T08:58:14+01:00",
 				"url": "https://jeroensangers.com/2022/05/30/waiting-on-a.html"
 			},
@@ -2762,7 +2789,7 @@
 				"id": "http://JeroenSangers.micro.blog/2022/05/16/day-time-seconds.html",
 				
 				"content_html": "<p>📸 Day 16: <strong>Time</strong></p>\n<p>Seconds and minutes don&rsquo;t matter.</p>\n<p><a href=\"https://micro.welltempered.net/2022/04/30/the-may-photoblogging.html\">#mbmay</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 Day 16: **Time**\n\nSeconds and minutes don't matter.\n\n[#mbmay](https://micro.welltempered.net/2022/04/30/the-may-photoblogging.html)\n\n<img src=\"uploads/2022/b9f29d1d0c.jpg\" width=\"600\" height=\"450\" alt=\"Slow Watch\" />\n",
+				"content_text": "📸 Day 16: **Time**\n\nSeconds and minutes don't matter.\n\n[#mbmay](https://micro.welltempered.net/2022/04/30/the-may-photoblogging.html)\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2022/b9f29d1d0c.jpg\" width=\"600\" height=\"450\" alt=\"Slow Watch\" />\n",
 				"date_published": "2022-05-16T13:42:00+01:00",
 				"url": "https://jeroensangers.com/2022/05/16/day-time-seconds.html"
 			},
@@ -2829,7 +2856,7 @@
 				"id": "http://JeroenSangers.micro.blog/2022/05/10/day-pot-usually.html",
 				
 				"content_html": "<p>📸 Day 10: <strong>Pot</strong></p>\n<p>Usually I focus on the plants, but today I made an exception.</p>\n<p><a href=\"https://micro.welltempered.net/2022/04/30/the-may-photoblogging.html\">#mbmay</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 Day 10: **Pot**\n\nUsually I focus on the plants, but today I made an exception.\n\n[#mbmay](https://micro.welltempered.net/2022/04/30/the-may-photoblogging.html)\n\n<img src=\"uploads/2022/58d9bbb4e3.jpg\" />\n",
+				"content_text": "📸 Day 10: **Pot**\n\nUsually I focus on the plants, but today I made an exception.\n\n[#mbmay](https://micro.welltempered.net/2022/04/30/the-may-photoblogging.html)\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2022/58d9bbb4e3.jpg\" />\n",
 				"date_published": "2022-05-10T20:10:47+01:00",
 				"url": "https://jeroensangers.com/2022/05/10/day-pot-usually.html"
 			},
@@ -2872,7 +2899,7 @@
 				"id": "http://JeroenSangers.micro.blog/2022/05/05/day-earth-view.html",
 				
 				"content_html": "<p>📸 Day 5: <strong>Earth</strong></p>\n<p>View from planet earth.</p>\n<p><a href=\"https://micro.welltempered.net/2022/04/30/the-may-photoblogging.html\">#mbmay</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 Day 5: **Earth**\n\nView from planet earth. \n\n[#mbmay](https://micro.welltempered.net/2022/04/30/the-may-photoblogging.html)\n\n<img src=\"uploads/2022/0c4f21052d.jpg\" width=\"600\" height=\"449\" alt=\"View from planet earth\" />\n",
+				"content_text": "📸 Day 5: **Earth**\n\nView from planet earth. \n\n[#mbmay](https://micro.welltempered.net/2022/04/30/the-may-photoblogging.html)\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2022/0c4f21052d.jpg\" width=\"600\" height=\"449\" alt=\"View from planet earth\" />\n",
 				"date_published": "2022-05-05T20:53:03+01:00",
 				"url": "https://jeroensangers.com/2022/05/05/day-earth-view.html"
 			},
@@ -2889,7 +2916,7 @@
 				"id": "http://JeroenSangers.micro.blog/2022/05/04/day-thorny-after.html",
 				
 				"content_html": "<p>📸 Day 4: <strong>Thorny</strong></p>\n<p>After not having touched a face mask for several weeks, it <em>stings</em> to wear one again, even if it’s only for a day.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 Day 4: **Thorny**\n\nAfter not having touched a face mask for several weeks, it _stings_ to wear one again, even if it’s only for a day. \n\n<img src=\"uploads/2022/6087fc010f.jpg\" width=\"600\" height=\"449\" alt=\"Jeroen wears a face mask in the train\" />\n",
+				"content_text": "📸 Day 4: **Thorny**\n\nAfter not having touched a face mask for several weeks, it _stings_ to wear one again, even if it’s only for a day. \n\n<img src=\"https://cdn.uploads.micro.blog/5908/2022/6087fc010f.jpg\" width=\"600\" height=\"449\" alt=\"Jeroen wears a face mask in the train\" />\n",
 				"date_published": "2022-05-04T19:45:43+01:00",
 				"url": "https://jeroensangers.com/2022/05/04/day-thorny-after.html"
 			},
@@ -2897,7 +2924,7 @@
 				"id": "http://JeroenSangers.micro.blog/2022/05/03/day-experiment-today.html",
 				
 				"content_html": "<p>📸 Day 3: <strong>Experiment</strong></p>\n<p>Today I tried something new: without looking I took a photo out of the train window.\nIt turned out a lot better than I expected!</p>\n<p><a href=\"https://micro.welltempered.net/2022/04/30/the-may-photoblogging.html\">#mbmay</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 Day 3: **Experiment**\n\nToday I tried something new: without looking I took a photo out of the train window.\nIt turned out a lot better than I expected!\n\n[#mbmay](https://micro.welltempered.net/2022/04/30/the-may-photoblogging.html)\n\n<img src=\"uploads/2022/f258002e55.jpg\" width=\"600\" height=\"450\" alt=\"Experiment\" />\n",
+				"content_text": "📸 Day 3: **Experiment**\n\nToday I tried something new: without looking I took a photo out of the train window.\nIt turned out a lot better than I expected!\n\n[#mbmay](https://micro.welltempered.net/2022/04/30/the-may-photoblogging.html)\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2022/f258002e55.jpg\" width=\"600\" height=\"450\" alt=\"Experiment\" />\n",
 				"date_published": "2022-05-03T17:15:04+01:00",
 				"url": "https://jeroensangers.com/2022/05/03/day-experiment-today.html"
 			},
@@ -2914,7 +2941,7 @@
 				"id": "http://JeroenSangers.micro.blog/2022/05/02/day-photo-last.html",
 				
 				"content_html": "<p>📸 Day 2: <strong>Photo</strong></p>\n<p>Last year I used my fancy pants camera to participate in the Micro.blog Photoblogging Challenge, but since I got a new phone last week I decided that this would be the perfect occasion for trying out mobile photography in different situations.</p>\n<p><a href=\"https://micro.welltempered.net/2022/04/30/the-may-photoblogging.html\">#mbmay</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 Day 2: **Photo**\n\nLast year I used my fancy pants camera to participate in the Micro.blog Photoblogging Challenge, but since I got a new phone last week I decided that this would be the perfect occasion for trying out mobile photography in different situations.\n\n[#mbmay](https://micro.welltempered.net/2022/04/30/the-may-photoblogging.html)\n\n<img src=\"uploads/2022/68514a672b.jpg\" width=\"600\" height=\"449\" alt=\"Panasonic DMC-G81\" />\n\n",
+				"content_text": "📸 Day 2: **Photo**\n\nLast year I used my fancy pants camera to participate in the Micro.blog Photoblogging Challenge, but since I got a new phone last week I decided that this would be the perfect occasion for trying out mobile photography in different situations.\n\n[#mbmay](https://micro.welltempered.net/2022/04/30/the-may-photoblogging.html)\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2022/68514a672b.jpg\" width=\"600\" height=\"449\" alt=\"Panasonic DMC-G81\" />\n\n",
 				"date_published": "2022-05-02T15:49:33+01:00",
 				"url": "https://jeroensangers.com/2022/05/02/day-photo-last.html"
 			},
@@ -2931,7 +2958,7 @@
 				"id": "http://JeroenSangers.micro.blog/2022/05/01/day-switch-today.html",
 				
 				"content_html": "<p>📸 Day 1: <strong>Switch</strong></p>\n<p>Today we finished the first part of the home entrance restyling.</p>\n<p>Previously we had dark brown painted doors and brown tiles. We lightened things up by painting the tiles light gray and adding gray chalk paint to the doors for that <em>vintage</em> effect.</p>\n<p><a href=\"https://micro.welltempered.net/2022/04/30/the-may-photoblogging.html\">#mbmay</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📸 Day 1: **Switch**\n\nToday we finished the first part of the home entrance restyling.\n\nPreviously we had dark brown painted doors and brown tiles. We lightened things up by painting the tiles light gray and adding gray chalk paint to the doors for that _vintage_ effect.\n\n[#mbmay](https://micro.welltempered.net/2022/04/30/the-may-photoblogging.html)\n\n<img src=\"uploads/2022/ef0b2c009e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "📸 Day 1: **Switch**\n\nToday we finished the first part of the home entrance restyling.\n\nPreviously we had dark brown painted doors and brown tiles. We lightened things up by painting the tiles light gray and adding gray chalk paint to the doors for that _vintage_ effect.\n\n[#mbmay](https://micro.welltempered.net/2022/04/30/the-may-photoblogging.html)\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2022/ef0b2c009e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-05-01T19:54:00+01:00",
 				"url": "https://jeroensangers.com/2022/05/01/day-switch-today.html"
 			},
@@ -2996,7 +3023,7 @@
 				"id": "http://JeroenSangers.micro.blog/2022/04/07/staircase.html",
 				
 				"content_html": "<p>📷 Staircase</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Staircase\n\n<img src=\"uploads/2022/23e62435fd.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "📷 Staircase\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2022/23e62435fd.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-04-07T21:41:28+01:00",
 				"url": "https://jeroensangers.com/2022/04/07/staircase.html"
 			},
@@ -3065,7 +3092,7 @@
 				"id": "http://JeroenSangers.micro.blog/2022/04/01/i-totally-missed.html",
 				
 				"content_html": "<p>I totally missed #MyTwitterAnniversary 🎉 last week.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I totally missed #MyTwitterAnniversary 🎉 last week.\n\n<img src=\"uploads/2022/b89f96d3e8.png\" width=\"600\" height=\"337\" alt=\"15\" />\n0\" height=\"337\" alt=\"15\" />\n",
+				"content_text": "I totally missed #MyTwitterAnniversary 🎉 last week.\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2022/b89f96d3e8.png\" width=\"600\" height=\"337\" alt=\"15\" />\n",
 				"date_published": "2022-04-01T18:55:00+01:00",
 				"url": "https://jeroensangers.com/2022/04/01/i-totally-missed.html"
 			},
@@ -3491,7 +3518,7 @@
 				"id": "http://JeroenSangers.micro.blog/2022/01/20/increble-el-podcast.html",
 				
 				"content_html": "<p>¡Increíble! 🤯\nEl podcast de KENSO está en la posición 23 de los podcast más populares en España según el ranking de Apple Podcasts.\nProbablemente sea un error de sistema…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "¡Increíble! 🤯\nEl podcast de KENSO está en la posición 23 de los podcast más populares en España según el ranking de Apple Podcasts.\nProbablemente sea un error de sistema…\n\n<img src=\"uploads/2022/8638287dad.png\" alt=\"Los podcast más populates en España\" />\n\ufffds populates en España\" />\n",
+				"content_text": "¡Increíble! 🤯\nEl podcast de KENSO está en la posición 23 de los podcast más populares en España según el ranking de Apple Podcasts.\nProbablemente sea un error de sistema…\n\n<img src=\"https://cdn.uploads.micro.blog/5908/2022/8638287dad.png\" alt=\"Los podcast más populates en España\" />\n",
 				"date_published": "2022-01-20T11:09:28+01:00",
 				"url": "https://jeroensangers.com/2022/01/20/increble-el-podcast.html"
 			},
@@ -3691,8 +3718,8 @@
 			{
 				"id": "http://JeroenSangers.micro.blog/2021/12/18/interruptions-arent-intrinsically.html",
 				"title": "Interruptions",
-				"content_html": "<p>Interruptions aren&rsquo;t intrinsically distinct from other events, they&rsquo;re just events most professionals don&rsquo;t want around. The distinction is in our head.</p>\n<h2 id=\"related\">Related:</h2>\n<ul>\n<li><a href=\"https://jeroensangers.com/2021/10/20/be-fore-you.html\">Before you start (a task, a work session, a project…), set a time budget</a></li>\n<li><a href=\"https://jeroensangers.com/2021/09/09/avoid-excessive-task.html\">Avoid excessive task switching to increase efficiency</a></li>\n<li><a href=\"https://jeroensangers.com/2021/09/03/effectiveness.html\">Do the right thing, in the right way, and at the right moment</a></li>\n<li><a href=\"https://jeroensangers.com/2021/09/06/environment.html\">Physical cues affect our state of mind and can be used to switch between different productive modes</a></li>\n<li><a href=\"https://jeroensangers.com/2022/05/10/reduce-mobile-phone.html\">Reduce mobile phone use to improve your life satisfaction, well-being, and health</a></li>\n<li><a href=\"https://jeroensangers.com/2021/09/06/when-you-get.html\">Self-talk</a></li>\n</ul>\n",
-				"content_text": "Interruptions aren't intrinsically distinct from other events, they're just events most professionals don't want around. The distinction is in our head.\n\n## Related:\n* [Before you start (a task, a work session, a project…), set a time budget](https://jeroensangers.com/2021/10/20/be-fore-you.html)\n* [Avoid excessive task switching to increase efficiency](https://jeroensangers.com/2021/09/09/avoid-excessive-task.html)\n* [Do the right thing, in the right way, and at the right moment](https://jeroensangers.com/2021/09/03/effectiveness.html)\n* [Physical cues affect our state of mind and can be used to switch between different productive modes](https://jeroensangers.com/2021/09/06/environment.html)\n* [Reduce mobile phone use to improve your life satisfaction, well-being, and health](https://jeroensangers.com/2022/05/10/reduce-mobile-phone.html)\n* [Self-talk](https://jeroensangers.com/2021/09/06/when-you-get.html)\n",
+				"content_html": "<p>Interruptions aren&rsquo;t intrinsically distinct from other events, they&rsquo;re just events most professionals don&rsquo;t want around. The distinction is in our head.</p>\n<h2 id=\"related\">Related:</h2>\n<ul>\n<li><a href=\"https://jeroensangers.com/2021/10/20/be-fore-you.html\">Before you start (a task, a work session, a project…), set a time budget</a></li>\n<li><a href=\"https://jeroensangers.com/2021/09/09/avoid-excessive-task.html\">Avoid excessive task switching to increase efficiency</a></li>\n<li><a href=\"https://jeroensangers.com/2021/09/03/effectiveness.html\">Do the right thing, in the right way, and at the right moment</a></li>\n<li><a href=\"https://jeroensangers.com/2021/09/06/environment.html\">Physical cues affect our state of mind and can be used to switch between different productive modes</a></li>\n<li><a href=\"https://jeroensangers.com/2021/09/06/when-you-get.html\">Self-talk</a></li>\n<li><a href=\"https://jeroensangers.com/2022/05/10/reduce-mobile-phone.html\">Less mobile</a></li>\n</ul>\n",
+				"content_text": "Interruptions aren't intrinsically distinct from other events, they're just events most professionals don't want around. The distinction is in our head.\n\n## Related:\n* [Before you start (a task, a work session, a project…), set a time budget](https://jeroensangers.com/2021/10/20/be-fore-you.html)\n* [Avoid excessive task switching to increase efficiency](https://jeroensangers.com/2021/09/09/avoid-excessive-task.html)\n* [Do the right thing, in the right way, and at the right moment](https://jeroensangers.com/2021/09/03/effectiveness.html)\n* [Physical cues affect our state of mind and can be used to switch between different productive modes](https://jeroensangers.com/2021/09/06/environment.html)\n* [Self-talk](https://jeroensangers.com/2021/09/06/when-you-get.html)\n* [Less mobile](https://jeroensangers.com/2022/05/10/reduce-mobile-phone.html)\n",
 				"date_published": "2021-12-18T11:03:00+01:00",
 				"url": "https://jeroensangers.com/2021/12/18/interruptions-arent-intrinsically.html",
 				"tags": ["Digital garden"]
