@@ -7,6 +7,23 @@
 	"items": [
 		
 			{
+				"id": "http://jeroensangers.micro.blog/2025/09/03/finished-reading-effortless-by-greg.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780593135655\">Effortless</a> by Greg McKeown 📚</p>\n<p>Not as insightful as Greg’s previous book, but still made me think.</p>\n",
+				"content_text": "Finished reading: [Effortless](https://micro.blog/books/9780593135655) by Greg McKeown 📚\n\nNot as insightful as Greg’s previous book, but still made me think.\n",
+				"date_published": "2025-09-03T22:28:44+02:00",
+				"url": "https://jeroensangers.com/2025/09/03/finished-reading-effortless-by-greg.html",
+				"tags": ["Reading"]
+			},
+			{
+				"id": "http://jeroensangers.micro.blog/2025/09/02/my-biggest-annoyance-with-ai.html",
+				
+				"content_html": "<p>My biggest annoyance with AI chatbots is when you hit &ldquo;Enter&rdquo; to start a new line and accidentally send a half-finished message.</p>\n",
+				"content_text": "My biggest annoyance with AI chatbots is when you hit \"Enter\" to start a new line and accidentally send a half-finished message.\n",
+				"date_published": "2025-09-02T12:21:08+02:00",
+				"url": "https://jeroensangers.com/2025/09/02/my-biggest-annoyance-with-ai.html"
+			},
+			{
 				"id": "http://jeroensangers.micro.blog/2025/08/20/of-generative-ai-implementations-in.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>No surprise here…</p>\n",
